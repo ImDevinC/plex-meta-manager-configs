@@ -1,0 +1,149 @@
+metadata:
+  'Avatar: The Last Airbender':
+    url_poster: https://theposterdb.com/api/assets/58044
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/58046
+      2:
+        url_poster: https://theposterdb.com/api/assets/58047
+      3:
+        url_poster: https://theposterdb.com/api/assets/58048
+  Better Off Ted:
+    url_poster: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u6QkbGwjH0qtGO6Cz9fFi6BxRi2.jpg
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/9803
+      2:
+        url_poster: https://theposterdb.com/api/assets/9804
+  Brooklyn Nine-Nine:
+    url_poster: https://theposterdb.com/api/assets/52220
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/173152
+      2:
+        url_poster: https://theposterdb.com/api/assets/101371
+      3:
+        url_poster: https://theposterdb.com/api/assets/101372
+      4:
+        url_poster: https://theposterdb.com/api/assets/101373
+      5:
+        url_poster: https://theposterdb.com/api/assets/101374
+      6:
+        url_poster: https://theposterdb.com/api/assets/101375
+      7:
+        url_poster: https://theposterdb.com/api/assets/101376
+      8:
+        url_poster: https://theposterdb.com/api/assets/173159
+  The League:
+    url_poster: https://theposterdb.com/api/assets/127295
+    seasons:
+      1: 
+        url_poster: https://theposterdb.com/api/assets/127296
+      2:
+        url_poster: https://theposterdb.com/api/assets/127297
+      3:
+        url_poster: https://theposterdb.com/api/assets/127298
+      4:
+        url_poster: https://theposterdb.com/api/assets/127299
+      5:
+        url_poster: https://theposterdb.com/api/assets/127300
+      6:
+        url_poster: https://theposterdb.com/api/assets/127301
+      7:
+        url_poster: https://theposterdb.com/api/assets/127302
+  New Girl:
+    url_poster: https://theposterdb.com/api/assets/112879
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/112880
+      2:
+        url_poster: https://theposterdb.com/api/assets/112882
+      3:
+        url_poster: https://theposterdb.com/api/assets/112883
+      4:
+        url_poster: https://theposterdb.com/api/assets/112885
+      5:
+        url_poster: https://theposterdb.com/api/assets/139500
+      6:
+        url_poster: https://theposterdb.com/api/assets/112889
+      7:
+        url_poster: https://theposterdb.com/api/assets/112891
+  Psych:
+    url_poster: https://theposterdb.com/api/assets/88617
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/88619
+      2:
+        url_poster: https://theposterdb.com/api/assets/88620
+      3:
+        url_poster: https://theposterdb.com/api/assets/88621
+      4:
+        url_poster: https://theposterdb.com/api/assets/88622
+      5:
+        url_poster: https://theposterdb.com/api/assets/88623
+      6:
+        url_poster: https://theposterdb.com/api/assets/88624
+      7:
+        url_poster: https://theposterdb.com/api/assets/88625
+      8:
+        url_poster: https://theposterdb.com/api/assets/88626
+  Pushing Daisies:
+    url_poster: https://theposterdb.com/api/assets/103381
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/160113
+      2: 
+        url_poster: https://theposterdb.com/api/assets/160114
+  Raising Hope:
+    url_poster: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uoQlWrYVERlifyUjDVUHiSu2ELo.jpg
+    seasons:
+      1:
+        url_poster:
+      2:
+        url_poster:
+      3:
+        url_poster:
+      4:
+        url_poster:
+  Rick and Morty:
+    url_poster: https://theposterdb.com/api/assets/29456
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/47885
+      21:
+        url_poster: https://theposterdb.com/api/assets/47886
+      3:
+        url_poster: https://theposterdb.com/api/assets/47887
+      4:
+        url_poster: https://theposterdb.com/api/assets/47888
+      5:
+        url_poster: https://theposterdb.com/api/assets/156005
+  The Righteous Gemstones:
+    url_poster: https://theposterdb.com/api/assets/138364
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/138365
+      2:
+        url_poster: https://theposterdb.com/api/assets/199688
+  Silicon Valley:
+    url_poster: https://theposterdb.com/api/assets/19793
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/19801/download?performed_by=ImDevinC
+      2:
+        url_poster: https://theposterdb.com/api/assets/19802/download?performed_by=ImDevinC
+      3:
+        url_poster: https://theposterdb.com/api/assets/19804/download?performed_by=ImDevinC
+      4:
+        url_poster: https://theposterdb.com/api/assets/19805/download?performed_by=ImDevinC
+      5:
+        url_poster: https://theposterdb.com/api/assets/19807/download?performed_by=ImDevinC
+      6:
+        url_poster: https://theposterdb.com/api/assets/29968/download?performed_by=ImDevinC
+  Ted Lasso:
+    url_poster: https://theposterdb.com/api/assets/164299/download?performed_by=ImDevinC
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/175954/download?performed_by=ImDevinC
+      2:
+        url_poster: https://theposterdb.com/api/assets/175955/download?performed_by=ImDevinC

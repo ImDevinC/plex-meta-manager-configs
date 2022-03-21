@@ -1,0 +1,1297 @@
+templates:
+  tmdb_collections:
+    minimum_items: 3
+    tmdb_collection_details: <<tmdb_collection>>
+collections:
+  "MCU: Infinity Saga":
+    letterboxd_list: https://letterboxd.com/imdevinc/list/mcu-infinity-saga/
+    collection_order: custom
+    sync_mode: sync
+    url_poster: https://theposterdb.com/api/assets/29314
+  "MCU: Phase Four":
+    letterboxd_list: https://letterboxd.com/imdevinc/list/mcu-phase-four/
+    collection_order: custom
+    sync_mode: sync
+dynamic_collections:
+  "TMDB Collections":
+    type: tmdb_collection
+    template: tmdb_collections
+metadata:
+  2 Fast 2 Furious:
+    url_poster: https://theposterdb.com/api/assets/1073
+    sort_title: Fast and Furious 2
+  3:10 to Yuma:
+    url_poster: https://theposterdb.com/api/assets/17899
+  The 5th Wave:
+    url_poster: https://theposterdb.com/api/assets/17900/download?performed_by=ImDevinC
+  6 Underground:
+    url_poster: https://theposterdb.com/api/assets/30264/download?performed_by=ImDevinC
+  8 Mile:
+    url_poster: https://theposterdb.com/api/assets/42462/download?performed_by=ImDevinC
+  9 to 5:
+    url_poster: ''
+  10 Cloverfield Lane:
+    url_poster: https://theposterdb.com/api/assets/13928/download?performed_by=ImDevinC
+    sort_title: Cloverfield 2
+  12 Monkeys:
+    url_poster: ''
+  '21':
+    url_poster: https://theposterdb.com/api/assets/47137/download?performed_by=ImDevinC
+  21 & Over:
+    url_poster: https://theposterdb.com/api/assets/74762/download?performed_by=ImDevinC
+  21 Bridges:
+    url_poster: https://theposterdb.com/api/assets/46121/download?performed_by=ImDevinC
+  21 Jump Street:
+    url_poster: https://theposterdb.com/api/assets/7151/download?performed_by=ImDevinC
+  22 Jump Street:
+    url_poster: https://theposterdb.com/api/assets/7152/download?performed_by=ImDevinC
+  27 Dresses:
+    url_poster: https://theposterdb.com/api/assets/38198/download?performed_by=ImDevinC
+  The 40-Year-Old Virgin:
+    url_poster: https://theposterdb.com/api/assets/104268/download?performed_by=ImDevinC
+  '1917':
+    url_poster: https://theposterdb.com/api/assets/48473/download?performed_by=ImDevinC
+  '2001: A Space Odyssey':
+    url_poster: https://theposterdb.com/api/assets/21636/download?performed_by=ImDevinC
+  The A-Team:
+    url_poster: ''
+  About Time:
+    url_poster: https://theposterdb.com/api/assets/22657/download?performed_by=ImDevinC
+  'Abraham Lincoln: Vampire Hunter':
+    url_poster: https://theposterdb.com/api/assets/34627/download?performed_by=ImDevinC
+  Absolutely Anything:
+    url_poster: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tnBt9yPCQwnXLwioqfgnL5hqGM6.jpg
+  The Accountant:
+    url_poster: https://theposterdb.com/api/assets/74968/download?performed_by=ImDevinC
+  'Ace Ventura: Pet Detective':
+    url_poster: https://theposterdb.com/api/assets/106500/download?performed_by=ImDevinC
+  'Ace Ventura: When Nature Calls':
+    url_poster: https://theposterdb.com/api/assets/106501/download?performed_by=ImDevinC
+  Ad Astra:
+    url_poster: https://theposterdb.com/api/assets/18915/download?performed_by=ImDevinC
+  The Adam Project:
+    url_poster: https://theposterdb.com/api/assets/218916/download?performed_by=ImDevinC
+  Addicted to Fresno:
+    url_poster: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lFoDP8JBZFA0r0wMgPGvQyi6IrA.jpg
+  Adventures in Babysitting:
+    url_poster: https://theposterdb.com/api/assets/31257/download?performed_by=ImDevinC
+  After Sex:
+    url_poster: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4n41P5CKHFFkQ3s8VJieNmqUkn7.jpg
+  Aladdin (1992):
+    title: Aladdin
+    year: 1992
+    url_poster: https://theposterdb.com/api/assets/64105/download?performed_by=ImDevinC
+  Aladdin (2019):
+    title: Aladdin
+    year: 2019
+    url_poster: https://theposterdb.com/api/assets/44740/download?performed_by=ImDevinC
+  Alexander and the Terrible, Horrible, No Good, Very Bad Day:
+    url_poster: https://theposterdb.com/api/assets/6240/download?performed_by=ImDevinC
+  Alfie:
+    url_poster: https://theposterdb.com/api/assets/36230/download?performed_by=ImDevinC
+  Alice in Wonderland:
+    url_poster: https://theposterdb.com/api/assets/12391/download?performed_by=ImDevinC
+  Alice Through the Looking Glass:
+    url_poster: https://theposterdb.com/api/assets/36523/download?performed_by=ImDevinC
+  'Alita: Battle Angel':
+    url_poster: https://theposterdb.com/api/assets/208/download?performed_by=ImDevinC
+  Allegiant:
+    url_poster: https://theposterdb.com/api/assets/13845/download?performed_by=ImDevinC
+    sort_title: Divergent 3
+  Amanda & Jack Go Glamping:
+    url_poster: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kmokEVZDkn9bofvJ0KjANtfZf5E.jpg
+  Amateur Night: 
+    url_poster: https://www.themoviedb.org/t/p/original/dzJFu1F0miZKHbR7tRIX6cQcI8c.jpg
+  The Amazing Spider-Man:
+    url_poster: https://theposterdb.com/api/assets/26976/download?performed_by=ImDevinC
+    sort_title: Amazing Spider-man 1
+  The Amazing Spider-Man 2:
+    url_poster: https://theposterdb.com/api/assets/74339/download?performed_by=ImDevinC
+    sort_title: Amazing Spider-man 2
+  American Hustle:
+    url_poster: https://theposterdb.com/api/assets/34691/download?performed_by=ImDevinC
+  American Ultra:
+    url_poster: https://theposterdb.com/api/assets/158031/download?performed_by=ImDevinC
+  'Anchorman 2: The Legend Continues':
+    url_poster: https://theposterdb.com/api/assets/13975/download?performed_by=ImDevinC
+    sort_title: Anchorman 2
+  'Anchorman: The Legend of Ron Burgundy':
+    url_poster: https://theposterdb.com/api/assets/13974/download?performed_by=ImDevinC
+    sort_title: Anchorman 1
+  Angel Has Fallen:
+    url_poster: https://theposterdb.com/api/assets/29975/download?performed_by=ImDevinC
+  Angels in the Outfield:
+    url_poster: https://theposterdb.com/api/assets/6241/download?performed_by=ImDevinC
+  Aniara:
+    url_poster: https://theposterdb.com/api/assets/114421/download?performed_by=ImDevinC
+  Anna:
+    url_poster: https://theposterdb.com/api/assets/30938/download?performed_by=ImDevinC
+  Anna and the Apocalypse:
+    url_poster: https://theposterdb.com/api/assets/32890/download?performed_by=ImDevinC
+  Annabelle:
+    url_poster: https://theposterdb.com/api/assets/34569/download?performed_by=ImDevinC
+    sort_title: Annabelle 1
+  'Annabelle: Creation':
+    url_poster: https://theposterdb.com/api/assets/23528/download?performed_by=ImDevinC
+    sort_title: Annabelle 2
+  Ant-Man:
+    url_poster: https://theposterdb.com/api/assets/5924/download?performed_by=ImDevinC
+    sort_title: Ant-Man 1
+  Ant-Man and the Wasp:
+    url_poster: https://theposterdb.com/api/assets/5932/download?performed_by=ImDevinC
+    sort_title: Ant-Man 2
+  Antz:
+    url_poster: https://theposterdb.com/api/assets/144386/download?performed_by=ImDevinC
+  Apollo 11:
+    url_poster: https://theposterdb.com/api/assets/35711/download?performed_by=ImDevinC
+  Aquaman:
+    url_poster: https://theposterdb.com/api/assets/79229/download?performed_by=ImDevinC
+  Aquaslash:
+    url_poster: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wB8qqLIaYDkYEnjbS5hAJiTuYU6.jpg
+  Arrival:
+    url_poster: https://theposterdb.com/api/assets/41517/download?performed_by=ImDevinC
+  Assassin's Creed:
+    url_poster: https://theposterdb.com/api/assets/23866/download?performed_by=ImDevinC
+  Assassination Nation:
+    url_poster: https://theposterdb.com/api/assets/42522/download?performed_by=ImDevinC
+  The Assassination of Jesse James by the Coward Robert Ford:
+    url_poster: https://theposterdb.com/api/assets/31526/download?performed_by=ImDevinC
+  'Atlantis: The Lost Empire':
+    url_poster: https://theposterdb.com/api/assets/11825/download?performed_by=ImDevinC
+  Atomic Blonde:
+    url_poster: https://theposterdb.com/api/assets/73697/download?performed_by=ImDevinC
+  Attack on Titan:
+    sort_title: Attack on Titan 1
+  'Attack on Titan II: End of the World':
+    sort_title: Attack on Titan 2
+  Austin Powers in Goldmember:
+    url_poster: https://theposterdb.com/api/assets/13972/download?performed_by=ImDevinC
+    sort_title: Austin Powers 3
+  'Austin Powers: International Man of Mystery':
+    url_poster: https://theposterdb.com/api/assets/13970/download?performed_by=ImDevinC
+    sort_title: Austin Powers 1
+  'Austin Powers: The Spy Who Shagged Me':
+    url_poster: https://theposterdb.com/api/assets/13971/download?performed_by=ImDevinC
+    sort_title: Austin Powers 2
+  The Avengers:
+    url_poster: https://theposterdb.com/api/assets/81754/download?performed_by=ImDevinC
+    sort_title: Avengers 1
+  'Avengers: Age of Ultron':
+    url_poster: https://theposterdb.com/api/assets/81759/download?performed_by=ImDevinC
+    sort_title: Avengers 2
+  'Avengers: Endgame':
+    url_poster: https://theposterdb.com/api/assets/6919/download?performed_by=ImDevinC
+    sort_title: Avengers 4
+  'Avengers: Infinity War':
+    url_poster: https://theposterdb.com/api/assets/8345/download?performed_by=ImDevinC
+    sort_title: Avengers 3
+  Away We Go:
+    url_poster: https://theposterdb.com/api/assets/82550/download?performed_by=ImDevinC
+  Baby Driver:
+  Back to the Future:
+  Back to the Future Part II:
+  Back to the Future Part III:
+  Bad Boys for Life:
+  Bad Moms:
+  A Bad Moms Christmas:
+  Bad News Bears:
+  Bad Times at the El Royale:
+  Barb and Star Go to Vista Del Mar:
+  BASEketball:
+  The Batman:
+  Batman Ninja:
+  'Batman v Superman: Dawn of Justice':
+  'Batman: Gotham by Gaslight':
+  'Batman: The Killing Joke':
+  Baywatch:
+  The Beach:
+  Beastly:
+  A Beautiful Day in the Neighborhood:
+  Beauty and the Beast:
+  Bedazzled:
+  Beerfest:
+  Being John Malkovich:
+  Better Off Dead...:
+  The BFG:
+  The Big Chill:
+  Big Fish:
+  Big Hero 6:
+  The Big Lebowski:
+  The Big Short:
+  The Big Sick:
+  Bill & Ted Face the Music:
+  Bill & Ted's Bogus Journey:
+  Bill & Ted's Excellent Adventure:
+  Billy Lynn's Long Halftime Walk:
+  Billy Madison:
+  Birdman or (The Unexpected Virtue of Ignorance):
+  Birds of Prey:
+  Black Bear:
+  Black Dynamite:
+  Black Panther:
+  Black Sheep:
+  Black Swan:
+  Black Widow:
+  BlacKkKlansman:
+  Blair Witch:
+  Blockers:
+  Bloodshot:
+  Blue Streak:
+  The Blues Brothers:
+  Bohemian Rhapsody:
+  Bombshell:
+  The Boondock Saints:
+  'The Boondock Saints II: All Saints Day':
+  The Boss Baby:
+  'The Boss Baby: Family Business':
+  The Bourne Identity:
+  The Bourne Legacy:
+  The Bourne Supremacy:
+  The Bourne Ultimatum:
+  The Boy:
+  The Boy and the Beast:
+  Brad's Status:
+  'Brahms: The Boy II':
+  Brave:
+  The Breakfast Club:
+  Bridesmaids:
+  Bridge to Terabithia:
+  Brightburn:
+  A Brilliant Young Mind:
+  The Brothers Bloom:
+  The Brothers Grimsby:
+  A Bug's Life:
+  Bumblebee:
+  Burn After Reading:
+  The Cable Guy:
+  The Campaign:
+  Can You Ever Forgive Me?:
+  Candyman:
+  'Captain America: Civil War':
+  'Captain America: The First Avenger':
+  'Captain America: The Winter Soldier':
+  Captain Marvel:
+  'Captain Underpants: The First Epic Movie':
+  Cars:
+  Cars 3:
+  Casablanca:
+  Case 39:
+  Casino Royale:
+  Casper:
+  The Cat Returns:
+  Central Intelligence:
+  Chaos Walking:
+  Chappaquiddick:
+  Charlie and the Chocolate Factory:
+  Charlie Bartlett:
+  Chernobyl Diaries:
+  Chicago:
+  Child's Play:
+  Children of the Corn:
+  CHIPS:
+  Christopher Robin:
+  Chronicle:
+  'The Chronicles of Narnia: Prince Caspian':
+  'The Chronicles of Narnia: The Lion, the Witch and the Wardrobe':
+  'The Chronicles of Narnia: The Voyage of the Dawn Treader':
+  Cinderella:
+  The Circle:
+  Citizenfour:
+  Class Action Park:
+  Clerk:
+  Clerks:
+  Clerks II:
+  Cloud Atlas:
+  Cloudy with a Chance of Meatballs:
+  Cloudy with a Chance of Meatballs 2:
+  Cloverfield:
+    sort_title: Cloverfield 1
+  Coco:
+  CODA:
+  Coherence:
+  Colette:
+  Collateral Beauty:
+  Colonia:
+  Come Play:
+  The Commuter:
+  The Conjuring:
+    sort_title: Conjuring 1
+  The Conjuring 2:
+  'The Conjuring: The Devil Made Me Do It':
+  Constantine:
+  Cool Runnings:
+  Coraline:
+  Couples Retreat:
+  The Courier:
+  'The Craft: Legacy':
+  Crank:
+  The Crazies:
+  Creative Control:
+  Crimson Peak:
+  The Croods:
+  Crouching Tiger, Hidden Dragon:
+  Cruella:
+  The Curse of La Llorona:
+  'D2: The Mighty Ducks':
+  'D3: The Mighty Ducks':
+  Daddy's Home 2:
+  Dan in Real Life:
+  The Dark Knight:
+  The Dark Knight Rises:
+  Dark Places:
+  The Dark Tower:
+  Dark Waters:
+  Darkest Hour:
+  The Darkest Minds:
+  Dawn of the Dead:
+  The Dead Don't Die:
+  Deadpool:
+  Deadpool 2:
+  Death at a Funeral:
+  Death Becomes Her:
+  The Death of Stalin:
+  Death Wish:
+  Deep Blue Sea:
+  Deepwater Horizon:
+  The Departed:
+  Despicable Me:
+  Despicable Me 2:
+  Despicable Me 3:
+  Detroit:
+  The Devil Wears Prada:
+  The Devil's Advocate:
+  Die Hard:
+  Die Hard 2:
+  Die Hard with a Vengeance:
+  Dinner for Schmucks:
+  Dirty Dancing:
+  Dirty Grandpa:
+  The Disaster Artist:
+  Divergent:
+    url_poster: https://theposterdb.com/api/assets/13842/download?performed_by=ImDevinC
+    sort_title: Divergent 1
+  'The Divergent Series: Insurgent':
+    url_poster: https://theposterdb.com/api/assets/13844/download?performed_by=ImDevinC
+    sort_title: Divergent 2
+  Django Unchained:
+  Doctor Sleep:
+  Doctor Strange:
+  'Dodgeball: A True Underdog Story':
+  A Dog's Purpose:
+  Dogma:
+  Don't Be a Menace to South Central While Drinking Your Juice in the Hood:
+  Don't Breathe:
+  Donnie Brasco:
+  Downsizing:
+  Dr. Horrible's Sing-Along Blog:
+  'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb':
+  Drag Me to Hell:
+  'Dragon Ball Super: Broly':
+  'Dragon Ball Z: Bardock - The Father of Goku':
+  'Dragon Ball Z: Battle of Gods':
+  'Dragon Ball Z: Bio-Broly':
+  'Dragon Ball Z: Bojack Unbound':
+  'Dragon Ball Z: Broly – Second Coming':
+  'Dragon Ball Z: Broly – The Legendary Super Saiyan':
+  "Dragon Ball Z: Cooler's Revenge":
+  'Dragon Ball Z: Dead Zone':
+  'Dragon Ball Z: Fusion Reborn':
+  'Dragon Ball Z: Lord Slug':
+  "Dragon Ball Z: Resurrection 'F'":
+  'Dragon Ball Z: Super Android 13!':
+  'Dragon Ball Z: The History of Trunks':
+  'Dragon Ball Z: The Return of Cooler':
+  'Dragon Ball Z: The Tree of Might':
+  "Dragon Ball Z: The World's Strongest":
+  'Dragon Ball Z: Wrath of the Dragon':
+  'Dragon Ball: Episode of Bardock':
+  'Dragon Wars: D-War':
+  Dragonball Evolution:
+  Dreamcatcher:
+  Drive:
+  Driven:
+  'DuckTales the Movie: Treasure of the Lost Lamp':
+  Due Date:
+  Dumb and Dumber:
+  Dumb and Dumber To:
+  Dumbo:
+  Dune:
+  Easy A:
+  Eddie the Eagle:
+  Elf:
+  Emma.:
+  The Emperor's New Groove:
+  Employee of the Month:
+  Encanto:
+  Enchanted:
+  Ender's Game:
+  Epic:
+  The Equalizer:
+  Equilibrium:
+  Escape from Pretoria:
+  Escape Room:
+  'Escape Room: Tournament of Champions':
+  Eternals:
+  Everybody Wants Some!!:
+  Evolution:
+  Ex Machina:
+  Exam:
+  Extremely Loud & Incredibly Close:
+  'F9: The Fast Saga':
+    sort_title: Fast and Furious 9
+  The Family Fang:
+  Fantastic Beasts and Where to Find Them:
+  'Fantastic Beasts: The Crimes of Grindelwald':
+  Fantasy Island:
+  Fast & Furious:
+    sort_title: Fast and Furious 4
+  Fast & Furious 6:
+    sort_title: Fast and Furious 6
+  'Fast & Furious Presents: Hobbs & Shaw':
+  The Fast and the Furious:
+    sort_title: Fast and Furious 1
+  'The Fast and the Furious: Tokyo Drift':
+    sort_title: Fast and Furious 3
+  Fast Color:
+  Fast Five:
+    sort_title: Fast and Furious 5
+  The Fate of the Furious:
+    sort_title: Fast and Furious 8
+  Ferris Bueller's Day Off:
+  Fever Pitch:
+  The Fifth Element:
+  Fight Club:
+  Fighting with My Family:
+  Final Destination:
+  The Final Destination:
+  Final Destination 2:
+  Final Destination 3:
+  Final Destination 5:
+  'Final Fantasy VII: Advent Children':
+  Finding Dory:
+  Fired Up!:
+  First Man:
+  The First Purge:
+  A Fistful of Dollars:
+  Five Feet Apart:
+  Flatliners:
+  The Flintstones:
+  The Fly:
+  Footloose:
+  Ford v Ferrari:
+  The Foreigner:
+  The Forest:
+  The Fox Hunter:
+  Freddy Got Fingered:
+  Free Guy:
+  Free State of Jones:
+  Frozen:
+  Frozen II:
+  Funny People:
+  Furious 7:
+    sort_title: Fast and Furious 7
+  Futureworld:
+  Galaxy Quest:
+  Game Night:
+  Gangster Squad:
+  The Gentlemen:
+  Get a Job:
+  Get Out:
+  Get Smart:
+  Ghost in the Shell:
+  Ghost World:
+  Ghostbusters:
+  'Ghostbusters: Afterlife':
+  The Girl in the Spider's Web:
+  The Girl on the Train:
+  The Girl Who Leapt Through Time:
+  Glass:
+  Gods of Egypt:
+  Godzilla vs. Kong:
+  'Godzilla: King of the Monsters':
+  The Goldfinch:
+  Gone with the Wind:
+  A Good Day to Die Hard:
+  Good Will Hunting:
+  Goodbye Christopher Robin:
+  'The Goods: Live Hard, Sell Hard':
+  A Goofy Movie:
+  'Goosebumps 2: Haunted Halloween':
+  The Grand Budapest Hotel:
+  Gravity:
+  Grease Live!:
+  The Great Gatsby:
+  The Greatest Showman:
+  Green Book:
+  The Green Hornet:
+  Green Lantern:
+  Greenland:
+  Greta:
+  Greyhound:
+  The Grifters:
+  The Grinch:
+  Grindhouse:
+  Gringo:
+  Grosse Pointe Blank:
+  The Grudge (2004):
+    title: The Grudge
+    year: 2004
+  The Grudge (2020):
+    title: The Grudge
+    year: 2020
+  Guardians of the Galaxy:
+  Guardians of the Galaxy Vol. 2:
+  The Guilt Trip:
+  Gunpowder Milkshake:
+  Guns Akimbo:
+  Hail, Caesar!:
+  Hairspray:
+  Hamilton:
+  The Hangover:
+  The Hangover Part III:
+  The Happening:
+  Happy Death Day 2U:
+  Happy Feet:
+  Happy Gilmore:
+  The Happytime Murders:
+  Hardcore Henry:
+  'Harry Potter 20th Anniversary: Return to Hogwarts':
+  Harry Potter and the Chamber of Secrets:
+  'Harry Potter and the Deathly Hallows: Part 1':
+  'Harry Potter and the Deathly Hallows: Part 2':
+  Harry Potter and the Goblet of Fire:
+  Harry Potter and the Half-Blood Prince:
+  Harry Potter and the Order of the Phoenix:
+  Harry Potter and the Prisoner of Azkaban:
+  Harry Potter and the Sorcerer's Stone:
+  The Hateful Eight:
+  He's Just Not That Into You:
+  The Head Hunter:
+  The Heartbreak Kid:
+  The Heat:
+  Heavyweights:
+  Hell or High Water:
+  Hellboy:
+  Henry Poole Is Here:
+  Her:
+  Hercules (1997):
+    title: Hercules
+    year: 1997
+  Hercules (2014):
+    title: Hercules
+    year: 2014
+  Hereditary:
+  Hick:
+  High Fidelity:
+  High Life:
+  The Hills Have Eyes:
+  The Hills Have Eyes 2:
+  The Hitman's Bodyguard:
+  Hitman's Wife's Bodyguard:
+  'The Hobbit: An Unexpected Journey':
+  'The Hobbit: The Battle of the Five Armies':
+  'The Hobbit: The Desolation of Smaug':
+  Hocus Pocus:
+  Holmes & Watson:
+  Home Again:
+  Home Alone:
+  'Home Alone 2: Lost in New York':
+  Hook:
+  Horrible Bosses 2:
+  Horton Hears a Who!:
+  Hot Fuzz:
+  Hot Rod:
+  Hot Tub Time Machine:
+  Hot Tub Time Machine 2:
+  Hotel Artemis:
+  Hotel Transylvania:
+  Hotel Transylvania 2:
+  'Hotel Transylvania 3: Summer Vacation':
+  'Hotel Transylvania 4: Transformania':
+  The House:
+  The House of Tomorrow:
+  The House with a Clock in Its Walls:
+  How Do You Know:
+  How to Be Single:
+  How to Get Girls:
+  How to Train Your Dragon:
+  How to Train Your Dragon 2:
+  'How to Train Your Dragon: The Hidden World':
+  Howl's Moving Castle:
+  The Hunger Games:
+  'The Hunger Games: Catching Fire':
+  'The Hunger Games: Mockingjay - Part 1':
+  'The Hunger Games: Mockingjay - Part 2':
+  The Hunt:
+  Hunter Killer:
+  "The Huntsman: Winter's War":
+  Hustlers:
+  I Am Legend:
+  I Hope They Serve Beer in Hell:
+  I Love You, Man:
+  I See You:
+  I.T.:
+  Ice Age:
+  'Ice Age 2: The Meltdown':
+  'Ice Age 3: Dawn of the Dinosaurs':
+  'Ice Age 4: Continental Drift':
+  'Ice Age 5: Collision Course':
+  The Ice Harvest:
+  Idiocracy:
+  If I Stay:
+  The Illusionist:
+  The Imitation Game:
+  Imperium:
+  In Bruges:
+  In the Heart of the Sea:
+  In the Heights:
+  In the Shadow of the Moon:
+  In Time:
+  Inception:
+  The Incredible Hulk:
+  The Incredibles:
+  Incredibles 2:
+  Independence Day:
+  'Independence Day: Resurgence':
+  Inglourious Basterds:
+  Ingrid Goes West:
+  Inheritance:
+  Inside Out:
+  'Insidious: Chapter 3':
+  'Insidious: The Last Key':
+  Instant Family:
+  The Intern:
+  "The Internet's Own Boy: The Story of Aaron Swartz":
+  The Internship:
+  Interstellar:
+  The Interview:
+  Into the Woods:
+  The Invisible Man:
+  The Irishman:
+  Iron Man:
+  Iron Man 2:
+  Iron Man 3:
+  Irresistible:
+  Isle of Dogs:
+  Isn't It Romantic:
+  It:
+  It Chapter Two:
+  It's Kind of a Funny Story:
+  Jack Reacher:
+  'Jack Reacher: Never Go Back':
+  Jack the Giant Slayer:
+  The Jacket:
+  James and the Giant Peach:
+  Jason Bourne:
+  Jawbreaker:
+  Jaws:
+  Jaws 2:
+  Jaws 3-D:
+  Jay and Silent Bob Reboot:
+  Jay and Silent Bob Strike Back:
+  Jeepers Creepers:
+  Jeepers Creepers 2:
+  Jigsaw:
+  Jingle All the Way:
+  Jiu Jitsu:
+  'Joe Dirt 2: Beautiful Loser':
+  John Tucker Must Die:
+  John Wick:
+  'John Wick: Chapter 2':
+  'John Wick: Chapter 3 - Parabellum':
+  Jojo Rabbit:
+  Joker:
+  Jolt:
+  'Journey 2: The Mysterious Island':
+  Journey to the Center of the Earth:
+  Journey's End:
+  Juliet, Naked:
+  'Jumanji: The Next Level':
+  'Jumanji: Welcome to the Jungle':
+  Jumper:
+  The Jungle Book (1967):
+    title: The Jungle Book
+    year: 1967
+  The Jungle Book (2016):
+    title: The Jungle Book
+    year: 2016
+  Jungle Cruise:
+  Juno:
+  Jurassic Park:
+  Jurassic Park III:
+  Jurassic World:
+  'Jurassic World: Fallen Kingdom':
+  Just Getting Started:
+  Just Go with It:
+  Just Mercy:
+  Justice League:
+  Keanu:
+  Keeping Up with the Joneses:
+  Kick-Ass:
+  Kick-Ass 2:
+  Kicking & Screaming:
+  The Kid Who Would Be King:
+  The King of Staten Island:
+  The King's Man:
+  The King's Speech:
+  Kingpin:
+  'Kingsglaive: Final Fantasy XV':
+  'Kingsman: The Golden Circle':
+  'Kingsman: The Secret Service':
+  Knives Out:
+  Knock Knock:
+  'Kong: Skull Island':
+  Krampus:
+  Kubo and the Two Strings:
+  Kung Fu Hustle:
+  Kung Fu Panda 3:
+  'Kung Pow: Enter the Fist':
+  La La Land:
+  Lady Bird:
+  The Lady in the Car with Glasses and a Gun:
+  The Last Five Years:
+  Last Night in Soho:
+  The Last Witch Hunter:
+  Late Night:
+  Lawless:
+  The League of Extraordinary Gentlemen:
+  Leap!:
+  Leatherheads:
+  The Legend of Drunken Master:
+  The Legend of Tarzan:
+  The Lego Batman Movie:
+  The Lego Movie:
+  'The Lego Movie 2: The Second Part':
+  Liar Liar:
+  Life as We Know It:
+  Life of the Party:
+  Lights Out:
+  Like Crazy:
+  Lincoln:
+  The Lion King (1994):
+    title: The Lion King
+    year: 1994
+  The Lion King (2019):
+    title: The Lion King
+    year: 2019
+  Little Big Soldier:
+  The Little Mermaid:
+  Live Free or Die Hard:
+  The Lodge:
+  Logan:
+  Logan Lucky:
+  London Has Fallen:
+  Long Shot:
+  The Longest Yard:
+  Looper:
+  'The Lord of the Rings: The Fellowship of the Ring':
+  'The Lord of the Rings: The Return of the King':
+  'The Lord of the Rings: The Two Towers':
+  The Losers:
+  Lost Girls:
+  'The Lost World: Jurassic Park':
+  Love & Other Drugs:
+  Luca:
+  Lucky Day:
+  Lucky Number Slevin:
+  Machete:
+  The Machinist:
+  'Mad Max: Fury Road':
+  The Magnificent Seven:
+  Maleficent:
+  'Maleficent: Mistress of Evil':
+  Malignant:
+  Mallrats:
+  The Man from U.N.C.L.E.:
+  Man Up:
+  The Man Who Knew Infinity:
+  Margin Call:
+  The Martian:
+  Mary and The Witch's Flower:
+  Mary Poppins Returns:
+  The Mask:
+  Masterminds:
+  Match Point:
+  Matchstick Men:
+  Matilda:
+  The Matrix:
+  The Matrix Reloaded:
+  The Matrix Resurrections:
+  The Matrix Revolutions:
+  Max Payne:
+  The Maze Runner:
+  'Maze Runner: The Death Cure':
+  'Maze Runner: The Scorch Trials':
+  Me and Earl and the Dying Girl:
+  Me Before You:
+  The Mechanic:
+  'Mechanic: Resurrection':
+  Meet Bill:
+  Meet the Robinsons:
+  The Meg:
+  Memento:
+  Men in Black:
+  Men in Black 3:
+  Men in Black II:
+  'Men in Black: International':
+  The Men Who Stare at Goats:
+  Midsommar:
+  The Mighty Ducks:
+  Mike and Dave Need Wedding Dates:
+  A Million Ways to Die in the West:
+  Minions:
+  Miss Peregrine's Home for Peculiar Children:
+  'Mission: Impossible - Fallout':
+  'Mission: Impossible - Ghost Protocol':
+  Moana:
+  Mobile Suit Gundam I:
+  'Mobile Suit Gundam II: Soldiers of Sorrow':
+  'Mobile Suit Gundam III: Encounters in Space':
+  Money Monster:
+  Monster:
+  A Monster Calls:
+  Monster Hunter:
+  Monsters University:
+  Monsters, Inc.:
+  The Monuments Men:
+  Mortal Engines:
+  Mortal Kombat:
+  Mortdecai:
+  Mother!:
+  Mother's Day:
+  Mr. Deeds:
+  Mr. Holmes:
+  Mr. Right:
+  Mulan (1998):
+    title: Mulan
+    year: 1998
+  Mulan (2020):
+    title: Mulan
+    year: 2020
+  The Mummy (1999):
+    title: The Mummy
+    year: 1999
+  The Mummy (2017):
+    title: The Mummy
+    year: 2017
+  The Mummy Returns:
+  'The Mummy: Tomb of the Dragon Emperor':
+  Murder on the Orient Express:
+  'My Hero Academia: Heroes Rising':
+  'My Hero Academia: Two Heroes':
+  My Spy:
+  Mystery Men:
+  Mystery Team:
+  National Lampoon's Christmas Vacation:
+  National Treasure:
+  'National Treasure: Book of Secrets':
+  Nausicaä of the Valley of the Wind:
+  Neighbors:
+  'Neighbors 2: Sorority Rising':
+  Nerve:
+  Never Let Me Go:
+  The New Mutants:
+  The Nice Guys:
+  Nick and Norah's Infinite Playlist:
+  Night at the Museum:
+  'Night at the Museum: Battle of the Smithsonian':
+  'Night at the Museum: Secret of the Tomb':
+  The Night Before:
+  Nightcrawler:
+  Nine Lives:
+  No Time to Die:
+  Nobody:
+  Noelle:
+  Norbit:
+  Not Another Teen Movie:
+  Now You See Me:
+  Now You See Me 2:
+  The Number 23:
+  The Nun:
+  The Nutcracker and the Four Realms:
+  O Brother, Where Art Thou?:
+  The Oath:
+  Oblivion:
+  Ocean Waves:
+  Ocean's Eight:
+  Ocean's Eleven:
+  Ocean's Thirteen:
+  Ocean's Twelve:
+  Office Christmas Party:
+  Office Space:
+  Old:
+  Old School:
+  Oldboy:
+  On the Basis of Sex:
+  Once Upon a Time... In Hollywood:
+  One Crazy Summer:
+  Onward:
+  Open Season:
+  Orgazmo:
+  The Other Guys:
+  The Other Woman:
+  The Others:
+  Ouija:
+  'Ouija: Origin of Evil':
+  The Outsiders:
+  Over the Hedge:
+  Oz the Great and Powerful:
+  Pan:
+  Paprika:
+  Paranormal Activity:
+  Paranormal Activity 2:
+  Paranormal Activity 3:
+  Paranormal Activity 4:
+  'Paranormal Activity: Next of Kin':
+  'Paranormal Activity: The Ghost Dimension':
+  'Paranormal Activity: The Marked Ones':
+  Parasite:
+  Passengers:
+  Patch Adams:
+  Payback:
+  PCU:
+  Peppermint:
+  The Perfect Score:
+  Pet Sematary (1989):
+    title: Pet Sematary
+    year: 1989
+  Pet Sematary (2019):
+    title: Pet Sematary
+    year: 2019
+  Pete's Dragon:
+  Pi:
+  "Pirates of the Caribbean: At World's End":
+  "Pirates of the Caribbean: Dead Man's Chest":
+  'Pirates of the Caribbean: Dead Men Tell No Tales':
+  'Pirates of the Caribbean: On Stranger Tides':
+  'Pirates of the Caribbean: The Curse of the Black Pearl':
+  Pitch Perfect 2:
+  Pitch Perfect 3:
+  Pleasantville:
+  Point Break (1991):
+    title: Point Break
+    year: 1991
+  Point Break (2015):
+    title: Point Break
+    year: 2015
+  Pokémon Detective Pikachu:
+  'Pokémon the Movie: I Choose You!':
+  'Pokémon: The Movie 2000':
+  The Polar Express:
+  'Popstar: Never Stop Never Stopping':
+  The Post:
+  Power Rangers:
+  Practical Magic:
+  The Predator:
+  Predestination:
+  The Prestige:
+  Primer:
+  Princess Mononoke:
+  Project Almanac:
+  Project X:
+  Prometheus:
+  Pulp Fiction:
+  "Punk's Dead: SLC Punk 2":
+  The Purge:
+  'The Purge: Anarchy':
+  'The Purge: Election Year':
+  Push:
+  Queenpins:
+  The Quick and the Dead:
+  A Quiet Place Part II:
+  R.I.P.D.:
+  Race:
+  Ralph Breaks the Internet:
+  Rampage:
+  Rango:
+  Raya and the Last Dragon:
+  RBG:
+  Ready Player One:
+  RED:
+  RED 2:
+  Red Sparrow:
+  The Red Turtle:
+  Redline:
+  The Rental:
+  Repo Men:
+  'Resident Evil: Afterlife':
+  'Resident Evil: The Final Chapter':
+  The Revenant:
+  Revenge of the Nerds:
+  Rio:
+  Rio 2:
+  Robin Hood:
+  Robocroc:
+  Robots:
+  Rock 'n' Roll High School:
+  Rocketman:
+  RocknRolla:
+  The Rocky Horror Picture Show:
+  'Rogue One: A Star Wars Story':
+  Role Models:
+  Romy and Michele's High School Reunion:
+  Ron's Gone Wrong:
+  Rounders:
+  Rushmore:
+  Safety Not Guaranteed:
+  Salt:
+  Sausage Party:
+  Say Anything:
+  Scary Stories to Tell in the Dark:
+  'Scooby-Doo: A New Universe':
+  Scoop:
+  The Scorpion King:
+  'The Scorpion King 2: Rise of a Warrior':
+  Scott Pilgrim vs. the World:
+  Scouts Guide to the Zombie Apocalypse:
+  Scream:
+  Se7en:
+  Secondhand Lions:
+  The Secret Life of Pets:
+  The Secret Life of Pets 2:
+  Self/less:
+  Serenity (2005):
+    title: Serenity
+    year: 2005
+  Serenity (2019):
+    title: Serenity
+    year: 2019
+  A Series of Unfortunate Events:
+  'The Seven Deadly Sins: Prisoners of the Sky':
+  Seven Pounds:
+  Seven Psychopaths:
+  Sex and the Future:
+  Sex Drive:
+  Sex Tape:
+  Shaft (1971):
+    title: Shaft
+    year: 1971
+  Shaft (2000):
+    title: Shaft
+    year: 2000
+  Shaft (2019):
+    title: Shaft
+    year: 2019
+  The Shallows:
+  Shang-Chi and the Legend of the Ten Rings:
+  Shanghai Knights:
+  Shaolin Soccer:
+  The Shape of Water:
+  Shaun of the Dead:
+  Shazam!:
+  She's Out of My League:
+  Sherlock Holmes:
+  'Sherlock Holmes: A Game of Shadows':
+  Shoot 'Em Up:
+  Shooter:
+  Sicario:
+  Sid and Nancy:
+  A Simple Favor:
+  Sing:
+  Sinister:
+  Sinister 2:
+  Sisters:
+  The Sisters Brothers:
+  Skate Kitchen:
+  Skyfall:
+  Skyscraper:
+  SLC Punk!:
+  Sleeping with Other People:
+  Smallfoot:
+  Smokin' Aces:
+  "Smokin' Aces 2: Assassins' Ball":
+  Snatch:
+  Snatched:
+  Snow White and the Huntsman:
+  Snowden:
+  The Snowman:
+  The Social Network:
+  'Solo: A Star Wars Story':
+  The Soloist:
+  Sonic the Hedgehog:
+  Source Code:
+  'South Park: Post COVID':
+  The Space Between Us:
+  Space Jam:
+  'Space Jam: A New Legacy':
+  Spaceballs:
+  Spectre:
+  Speed:
+  'Speed 2: Cruise Control':
+  Speed Racer:
+  Spider-Man:
+  Spider-Man 2:
+  Spider-Man 3:
+  'Spider-Man: Far from Home':
+  'Spider-Man: Homecoming':
+  'Spider-Man: Into the Spider-Verse':
+  'Spider-Man: No Way Home':
+  The Spirit:
+  Spirited Away:
+  Split:
+  Spring Breakers:
+  Spy:
+  The Spy Who Dumped Me:
+  St. Elmo's Fire:
+  Star Trek Beyond:
+  Star Trek Into Darkness:
+  Star Wars:
+  'Star Wars: Episode I - The Phantom Menace':
+  'Star Wars: Episode II - Attack of the Clones':
+  'Star Wars: Episode III - Revenge of the Sith':
+  'Star Wars: Episode IX - The Rise of Skywalker':
+  'Star Wars: Episode V - The Empire Strikes Back':
+  'Star Wars: Episode VI - Return of the Jedi':
+  'Star Wars: Episode VII - The Force Awakens':
+  'Star Wars: Episode VIII - The Last Jedi':
+  Starship Troopers:
+  Step Brothers:
+  Steve Jobs:
+  Storks:
+  Straight Outta Compton:
+  Suburbicon:
+  Sucker Punch:
+  Suicide Squad:
+  Sully:
+  Summer Wars:
+  Super Troopers 2:
+  Superbad:
+  'Superman: Red Son':
+  The Sure Thing:
+  Swordfish:
+  Synchronicity:
+  Tag:
+  The Tale of Despereaux:
+  'Talladega Nights: The Ballad of Ricky Bobby':
+  Tangled:
+  Teen Spirit:
+  'Teenage Mutant Ninja Turtles: Out of the Shadows':
+  Ten Thousand Saints:
+  Tenet:
+  'Terminator: Dark Fate':
+  Tesla:
+  Thank You for Smoking:
+  Thelma:
+  Them That Follow:
+  The Theory of Everything:
+  There Will Be Blood:
+  This Is 40:
+  This Is the End:
+  This Is Where I Leave You:
+  Thor:
+  'Thor: Ragnarok':
+  'Thor: The Dark World':
+  Thoroughbreds:
+  Those Who Wish Me Dead:
+  Time Bandits:
+  Time Lapse:
+  The Time Traveler's Wife:
+  The To Do List:
+  To Rome with Love:
+  Tomb Raider:
+  Tombstone:
+  Tomorrowland:
+  Top Gun:
+  The Tourist:
+  The Town:
+  Toy Story 4:
+  Trainspotting:
+  Transcendence:
+  Transformers:
+  'Transformers: Age of Extinction':
+  'Transformers: Dark of the Moon':
+  'Transformers: Revenge of the Fallen':
+  'Transformers: The Last Knight':
+  Treasure Planet:
+  Triangle:
+  Trolls:
+  'Trolls 2: World Tour':
+  The Truman Show:
+  The Trust:
+  Truth or Dare:
+  Tucker and Dale vs Evil:
+  The Turning:
+  UglyDolls:
+  The Unborn:
+  Unbreakable:
+  Uncle Buck:
+  Uncle Drew:
+  Uncut Gems:
+  Under the Skin:
+  Underwater:
+  Unforgettable:
+  Unfriended:
+  The Upside:
+  Us:
+  The Usual Suspects:
+  V for Vendetta:
+  Valerian and the City of a Thousand Planets:
+  Van Wilder:
+  The VelociPastor:
+  Venom:
+  'Venom: Let There Be Carnage':
+  Vice:
+  Vicky Cristina Barcelona:
+  Victor Frankenstein:
+  The Voices:
+  WALL·E:
+  Wanted:
+  War:
+  War Dogs:
+  War, Inc.:
+  Warcraft:
+  Warrior:
+  The Watch:
+  Watchmen:
+  Waterworld:
+  Wayne's World:
+  Wayne's World 2:
+  We Summon the Darkness:
+  We're the Millers:
+  Wedding Crashers:
+  The Wedding Singer:
+  Welcome to Marwen:
+  Westworld:
+  When Harry Met Sally...:
+  Where'd You Go, Bernadette:
+  Whip It:
+  Whisper of the Heart:
+  Who Framed Roger Rabbit:
+  Widows:
+  Wild Card:
+  Willy Wonka & the Chocolate Factory:
+  Winchester:
+  The Witch:
+  The Wolverine:
+  The Woman in the Window:
+  Wonder:
+  Wonder Wheel:
+  Wonder Woman:
+  Wonder Woman 1984:
+  Woody Woodpecker:
+  The World's End:
+  Wrath of Man:
+  'The X Files: I Want to Believe':
+  X-Men:
+  'X-Men Origins: Wolverine':
+  'X-Men: Apocalypse':
+  'X-Men: Dark Phoenix':
+  'X-Men: Days of Future Past':
+  'X-Men: First Class':
+  'X-Men: The Last Stand':
+  'X2: X-Men United':
+  Yesterday:
+  Yoga Hosers:
+  You Should Have Left:
+  Your Name.:
+  Youth:
+  Youth in Revolt:
+  Zack and Miri Make a Porno:
+  'Zenon: Girl of the 21st Century':
+  Zodiac:
+  Zombieland:
+  'Zombieland: Double Tap':
+  Zookeeper:
+  Zoolander:
+  Zoolander 2:
+  Zootopia:
