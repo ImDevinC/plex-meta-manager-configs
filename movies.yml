@@ -508,7 +508,9 @@ metadata:
   The Curse of La Llorona:
     url_poster: https://theposterdb.com/api/assets/23530
   'D2: The Mighty Ducks':
+    sort_title: Mighty Ducks 2
   'D3: The Mighty Ducks':
+    sort_title: Mighty Ducks 3
   Daddy's Home 2:
   Dan in Real Life:
   The Dark Knight:
@@ -1014,6 +1016,7 @@ metadata:
   The Men Who Stare at Goats:
   Midsommar:
   The Mighty Ducks:
+    sort_title: Mighty Ducks 1
   Mike and Dave Need Wedding Dates:
   A Million Ways to Die in the West:
   Minions:
