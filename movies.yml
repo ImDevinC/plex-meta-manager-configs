@@ -29,12 +29,12 @@ metadata:
   8 Mile:
     url_poster: https://theposterdb.com/api/assets/42462
   9 to 5:
-    url_poster: ''
+    url_poster: https://www.themoviedb.org/t/p/original/wndwKY8WnSfhCUn7iSXI37dE7yo.jpg
   10 Cloverfield Lane:
     url_poster: https://theposterdb.com/api/assets/13928
     sort_title: Cloverfield 2
   12 Monkeys:
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/21895
   '21':
     url_poster: https://theposterdb.com/api/assets/47137
   21 & Over:
@@ -54,7 +54,7 @@ metadata:
   '2001: A Space Odyssey':
     url_poster: https://theposterdb.com/api/assets/21636
   The A-Team:
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/117685
   About Time:
     url_poster: https://theposterdb.com/api/assets/22657
   'Abraham Lincoln: Vampire Hunter':
@@ -358,74 +358,155 @@ metadata:
   Burn After Reading:
     url_poster: https://theposterdb.com/api/assets/131624
   The Cable Guy:
+    url_poster: https://theposterdb.com/api/assets/67706
   The Campaign:
+    url_poster: https://theposterdb.com/api/assets/34047
   Can You Ever Forgive Me?:
+    url_poster: https://theposterdb.com/api/assets/26931
   Candyman:
+    url_poster: https://theposterdb.com/api/assets/178278
   'Captain America: Civil War':
+    url_poster: https://theposterdb.com/api/assets/6910
+    sort_title: Captain America 3
   'Captain America: The First Avenger':
+    url_poster: https://theposterdb.com/api/assets/6902
+    sort_title: Captain America 1
   'Captain America: The Winter Soldier':
+    url_poster: https://theposterdb.com/api/assets/6906
+    sort_title: Captain America 2
   Captain Marvel:
+    url_poster: https://theposterdb.com/api/assets/6918
   'Captain Underpants: The First Epic Movie':
+    url_poster: https://theposterdb.com/api/assets/144420
   Cars:
+    url_poster: https://theposterdb.com/api/assets/463
+    sort_title: Cars 1
+  Cars 2:
+    url_poster: https://theposterdb.com/api/assets/468
+    sort_title: Cars 2
   Cars 3:
+    url_poster: https://theposterdb.com/api/assets/474
+    sort_title: Cars 3
   Casablanca:
+    url_poster: https://theposterdb.com/api/assets/187774
   Case 39:
+    url_poster: https://theposterdb.com/api/assets/68439
   Casino Royale:
+    sort_title: James Bond 1
+    url_poster: https://theposterdb.com/api/assets/2059
   Casper:
+    url_poster: https://theposterdb.com/api/assets/20317
   The Cat Returns:
+    url_poster: https://theposterdb.com/api/assets/406
   Central Intelligence:
+    url_poster: https://theposterdb.com/api/assets/50133
   Chaos Walking:
+    url_poster: https://theposterdb.com/api/assets/111864
   Chappaquiddick:
+    url_poster: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kkTD7ufZd7AqAnZP5IMnrQXKRpM.jpg
   Charlie and the Chocolate Factory:
+    url_poster: https://theposterdb.com/api/assets/33304
   Charlie Bartlett:
+    url_poster: https://theposterdb.com/api/assets/137081
   Chernobyl Diaries:
+    url_poster: https://theposterdb.com/api/assets/197661
   Chicago:
+    url_poster: https://theposterdb.com/api/assets/34573
   Child's Play:
+    url_poster: https://theposterdb.com/api/assets/28582
   Children of the Corn:
+    url_poster: https://www.themoviedb.org/t/p/original/l9w2y7KyEu2ed5nohsZnrKxapE3.jpg
   CHIPS:
+    url_poster: https://theposterdb.com/api/assets/45939
   Christopher Robin:
+    url_poster: https://theposterdb.com/api/assets/45137
   Chronicle:
+    url_poster: https://theposterdb.com/api/assets/50173
   'The Chronicles of Narnia: Prince Caspian':
+    url_poster: https://theposterdb.com/api/assets/16795
+    sort_title: Chronicles of Narnia 2
   'The Chronicles of Narnia: The Lion, the Witch and the Wardrobe':
+    url_poster: https://theposterdb.com/api/assets/16794
+    sort_title: Chronicles of Narnia 1
   'The Chronicles of Narnia: The Voyage of the Dawn Treader':
+    url_poster: https://theposterdb.com/api/assets/16796
+    sort_title: Chronicles of Narnia 3
   Cinderella:
+    url_poster: https://theposterdb.com/api/assets/81873
   The Circle:
+    url_poster: https://theposterdb.com/api/assets/173752
   Citizenfour:
+    url_poster: https://theposterdb.com/api/assets/139459
   Class Action Park:
+    url_poster: https://www.themoviedb.org/t/p/original/AoNojvxMhZtdVu9V8LtjfXJ6TPT.jpg
   Clerk:
+    url_poster: https://www.themoviedb.org/t/p/original/xDzkYcuG3F540M5nu4y7j5catGu.jpg
   Clerks:
+    url_poster: https://theposterdb.com/api/assets/61803
   Clerks II:
+    url_poster: https://theposterdb.com/api/assets/138844
   Cloud Atlas:
+    url_poster: https://theposterdb.com/api/assets/50181
   Cloudy with a Chance of Meatballs:
+    url_poster: https://theposterdb.com/api/assets/26987
   Cloudy with a Chance of Meatballs 2:
+    url_poster: https://theposterdb.com/api/assets/26988
   Cloverfield:
+    url_poster: https://theposterdb.com/api/assets/108365
     sort_title: Cloverfield 1
   Coco:
+    url_poster: https://theposterdb.com/api/assets/60704
   CODA:
+    url_poster: https://images.fanart.tv/fanart/coda-61351fb454db0.jpg
   Coherence:
+    url_poster: https://theposterdb.com/api/assets/78160
   Colette:
+    url_poster: https://theposterdb.com/api/assets/57638
   Collateral Beauty:
+    url_poster: https://theposterdb.com/api/assets/70569
   Colonia:
+    url_poster: https://theposterdb.com/api/assets/34306
   Come Play:
+    url_poster: https://theposterdb.com/api/assets/106835
   The Commuter:
+    url_poster: https://theposterdb.com/api/assets/34967
   The Conjuring:
+    url_poster: https://theposterdb.com/api/assets/156082
     sort_title: Conjuring 1
   The Conjuring 2:
+    url_poster: https://theposterdb.com/api/assets/5440
+    sort_title: Conjuring 2
   'The Conjuring: The Devil Made Me Do It':
+    url_poster: https://theposterdb.com/api/assets/156243
+    sort_title: Conjuring 3
   Constantine:
+    url_poster: https://theposterdb.com/api/assets/73143
   Cool Runnings:
+    url_poster: https://theposterdb.com/api/assets/117103
   Coraline:
+    url_poster: https://theposterdb.com/api/assets/21539
   Couples Retreat:
+    url_poster: https://theposterdb.com/api/assets/68022
   The Courier:
+    url_poster: https://theposterdb.com/api/assets/146395
   'The Craft: Legacy':
+    url_poster: https://theposterdb.com/api/assets/109482
   Crank:
+    url_poster: https://theposterdb.com/api/assets/213190
   The Crazies:
+    url_poster: https://theposterdb.com/api/assets/75988
   Creative Control:
+    url_poster: https://www.themoviedb.org/t/p/original/y8toiQT0xb6mLWT84xVhUNXICdg.jpg
   Crimson Peak:
+    url_poster: https://theposterdb.com/api/assets/20333
   The Croods:
+    url_poster: https://theposterdb.com/api/assets/113465
   Crouching Tiger, Hidden Dragon:
+    url_poster: https://theposterdb.com/api/assets/37897
   Cruella:
+    url_poster: https://theposterdb.com/api/assets/132127
   The Curse of La Llorona:
+    url_poster: https://theposterdb.com/api/assets/23530
   'D2: The Mighty Ducks':
   'D3: The Mighty Ducks':
   Daddy's Home 2:
@@ -996,6 +1077,8 @@ metadata:
   Nightcrawler:
   Nine Lives:
   No Time to Die:
+    url_poster: https://theposterdb.com/api/assets/81315
+    sort_title: James Bond 4
   Nobody:
   Noelle:
   Norbit:
@@ -1190,6 +1273,8 @@ metadata:
   The Sisters Brothers:
   Skate Kitchen:
   Skyfall:
+    url_poster: https://theposterdb.com/api/assets/2061
+    sort_title: James Bond 2
   Skyscraper:
   SLC Punk!:
   Sleeping with Other People:
@@ -1212,6 +1297,8 @@ metadata:
   'Space Jam: A New Legacy':
   Spaceballs:
   Spectre:
+    url_poster: https://theposterdb.com/api/assets/2062
+    sort_title: James Bond 3
   Speed:
   'Speed 2: Cruise Control':
   Speed Racer:
