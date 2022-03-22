@@ -214,6 +214,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/170462
   BASEketball:
     url_poster: https://theposterdb.com/api/assets/108018
+  Batman Begins:
+    url_poster: https://theposterdb.com/api/assets/22276
   The Batman:
     url_poster: https://theposterdb.com/api/assets/182257
   Batman Ninja:
@@ -508,42 +510,85 @@ metadata:
   The Curse of La Llorona:
     url_poster: https://theposterdb.com/api/assets/23530
   'D2: The Mighty Ducks':
+    url_poster: https://theposterdb.com/api/assets/143334
     sort_title: Mighty Ducks 2
   'D3: The Mighty Ducks':
+    url_poster: https://theposterdb.com/api/assets/143335
     sort_title: Mighty Ducks 3
   Daddy's Home 2:
+    url_poster: https://theposterdb.com/api/assets/131277
   Dan in Real Life:
+    url_poster: https://theposterdb.com/api/assets/113756
   The Dark Knight:
+    url_poster: https://theposterdb.com/api/assets/22277
   The Dark Knight Rises:
+    url_poster: https://theposterdb.com/api/assets/22278
   Dark Places:
+    url_poster: https://theposterdb.com/api/assets/107300
   The Dark Tower:
+    url_poster: https://theposterdb.com/api/assets/76044
   Dark Waters:
+    url_poster: https://theposterdb.com/api/assets/51804
   Darkest Hour:
+    url_poster: https://theposterdb.com/api/assets/33559
   The Darkest Minds:
+    url_poster: https://theposterdb.com/api/assets/60998
   Dawn of the Dead:
+    url_poster: https://theposterdb.com/api/assets/60373
   The Dead Don't Die:
+    url_poster: https://theposterdb.com/api/assets/41351
   Deadpool:
+    url_poster: https://theposterdb.com/api/assets/32319
+    sort_title: Deadpool 1
   Deadpool 2:
+    url_poster: https://theposterdb.com/api/assets/32320
+    sort_title: Deadpool 1
   Death at a Funeral:
+    url_poster: https://theposterdb.com/api/assets/212994
   Death Becomes Her:
+    url_poster: https://theposterdb.com/api/assets/168330
   The Death of Stalin:
+    url_poster: https://theposterdb.com/api/assets/36553
   Death Wish:
+    url_poster: https://theposterdb.com/api/assets/76108
   Deep Blue Sea:
+    url_poster: https://theposterdb.com/api/assets/218040
   Deepwater Horizon:
+    url_poster: https://theposterdb.com/api/assets/35269
   The Departed:
+    url_poster: https://theposterdb.com/api/assets/47512
   Despicable Me:
+    url_poster: https://theposterdb.com/api/assets/6469
+    sort_title: Despicable Me 1
   Despicable Me 2:
+    url_poster: https://theposterdb.com/api/assets/6470
+    sort_title: Despicable Me 2
   Despicable Me 3:
+    url_poster: https://theposterdb.com/api/assets/6471
+    sort_title: Despicable Me 3
   Detroit:
+    url_poster: https://theposterdb.com/api/assets/88511
   The Devil Wears Prada:
+    url_poster: https://theposterdb.com/api/assets/35446
   The Devil's Advocate:
+    url_poster: https://theposterdb.com/api/assets/68481
   Die Hard:
+    url_poster: https://theposterdb.com/api/assets/35441
+    sort_title: Die Hard 1
   Die Hard 2:
+    url_poster: https://theposterdb.com/api/assets/35442
+    sort_title: Die Hard 2
   Die Hard with a Vengeance:
+    url_poster: https://theposterdb.com/api/assets/35443
+    sort_title: Die Hard 3
   Dinner for Schmucks:
+    url_poster: https://theposterdb.com/api/assets/113428
   Dirty Dancing:
+    url_poster: https://theposterdb.com/api/assets/107315
   Dirty Grandpa:
+    url_poster: https://theposterdb.com/api/assets/35452
   The Disaster Artist:
+    url_poster: https://theposterdb.com/api/assets/26537
   Divergent:
     url_poster: https://theposterdb.com/api/assets/13842
     sort_title: Divergent 1
@@ -551,48 +596,112 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/13844
     sort_title: Divergent 2
   Django Unchained:
+    url_poster: https://theposterdb.com/api/assets/8609
   Doctor Sleep:
+    url_poster: https://theposterdb.com/api/assets/32303
   Doctor Strange:
+    url_poster: https://theposterdb.com/api/assets/901
   'Dodgeball: A True Underdog Story':
+    url_poster: https://theposterdb.com/api/assets/72054
   A Dog's Purpose:
+    url_poster: https://theposterdb.com/api/assets/199315
   Dogma:
+    url_poster: https://theposterdb.com/api/assets/61806
   Don't Be a Menace to South Central While Drinking Your Juice in the Hood:
+    url_poster: https://theposterdb.com/api/assets/213001
   Don't Breathe:
+    url_poster: https://theposterdb.com/api/assets/173569
   Donnie Brasco:
+    url_poster: https://theposterdb.com/api/assets/179078
   Downsizing:
+    url_poster: https://theposterdb.com/api/assets/76329
   Dr. Horrible's Sing-Along Blog:
+    url_poster: https://m.media-amazon.com/images/M/MV5BZTIxZmRmZWItNmI1MS00ZDU3LWE2ZTQtODc1NDE3NjRiYzczXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg
   'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb':
+    url_poster: https://theposterdb.com/api/assets/63117
   Drag Me to Hell:
+    url_poster: https://theposterdb.com/api/assets/68270
   'Dragon Ball Super: Broly':
+    sort_title: Dragon Ball Super 3
+    url_poster: https://theposterdb.com/api/assets/126845
   'Dragon Ball Z: Bardock - The Father of Goku':
+    sort_title: Dragon Ball Z 15
+    url_poster: https://theposterdb.com/api/assets/126827
   'Dragon Ball Z: Battle of Gods':
+    sort_title: Dragon Ball Super 1
+    url_poster: https://theposterdb.com/api/assets/126843
   'Dragon Ball Z: Bio-Broly':
+    sort_title: Dragon Ball Z 11
+    url_poster: https://theposterdb.com/api/assets/126837
   'Dragon Ball Z: Bojack Unbound':
+    sort_title: Dragon Ball Z 9
+    url_poster: https://theposterdb.com/api/assets/126834
   'Dragon Ball Z: Broly – Second Coming':
+    sort_title: Dragon Ball Z 10
+    url_poster: https://theposterdb.com/api/assets/126836
   'Dragon Ball Z: Broly – The Legendary Super Saiyan':
+    sort_title: Dragon Ball Z 8
+    url_poster: https://theposterdb.com/api/assets/126833
   "Dragon Ball Z: Cooler's Revenge":
+    sort_title: Dragon Ball Z 5
+    url_poster: https://theposterdb.com/api/assets/126829
   'Dragon Ball Z: Dead Zone':
+    sort_title: Dragon Ball Z 1
+    url_poster: https://theposterdb.com/api/assets/126824
   'Dragon Ball Z: Fusion Reborn':
+    sort_title: Dragon Ball Z 12
+    url_poster: https://theposterdb.com/api/assets/126838
   'Dragon Ball Z: Lord Slug':
+    sort_title: Dragon Ball Z 4
+    url_poster: https://theposterdb.com/api/assets/126828
   "Dragon Ball Z: Resurrection 'F'":
+    sort_title: Dragon Ball Super 2
+    url_poster: https://theposterdb.com/api/assets/126844
   'Dragon Ball Z: Super Android 13!':
+    sort_title: Dragon Ball Z 7
+    url_poster: https://theposterdb.com/api/assets/126831
   'Dragon Ball Z: The History of Trunks':
+    sort_title: Dragon Ball Z 1
+    url_poster: https://theposterdb.com/api/assets/126832
   'Dragon Ball Z: The Return of Cooler':
+    sort_title: Dragon Ball Z 6
+    url_poster: https://theposterdb.com/api/assets/126830
   'Dragon Ball Z: The Tree of Might':
+    sort_title: Dragon Ball Z 3
+    url_poster: https://theposterdb.com/api/assets/126826
   "Dragon Ball Z: The World's Strongest":
+    sort_title: Dragon Ball Z 2
+    url_poster: https://theposterdb.com/api/assets/126825
   'Dragon Ball Z: Wrath of the Dragon':
+    sort_title: Dragon Ball Z 13
+    url_poster: https://theposterdb.com/api/assets/126839
   'Dragon Ball: Episode of Bardock':
+    sort_title: Dragon Ball Z 14
+    url_poster: https://theposterdb.com/api/assets/126899
   'Dragon Wars: D-War':
+    url_poster: https://www.movieposterdb.com/d-war-i372873/bc874351
   Dragonball Evolution:
+    url_poster: https://theposterdb.com/api/assets/128594
   Dreamcatcher:
+    url_poster: https://theposterdb.com/api/assets/35641
   Drive:
+    url_poster: https://theposterdb.com/api/assets/62078
   Driven:
+    url_poster: https://theposterdb.com/api/assets/11321
   'DuckTales the Movie: Treasure of the Lost Lamp':
+    url_poster: https://theposterdb.com/api/assets/204340
   Due Date:
+    url_poster: https://theposterdb.com/api/assets/35924
   Dumb and Dumber:
+    url_poster: https://theposterdb.com/api/assets/63130
+    sort_title: Dumb and Dumber 1
   Dumb and Dumber To:
+    url_poster: https://theposterdb.com/api/assets/117119
+    sort_title: Dumb and Dumber 1
   Dumbo:
+    url_poster: https://theposterdb.com/api/assets/40258
   Dune:
+    url_poster: https://theposterdb.com/api/assets/168154
   Easy A:
   Eddie the Eagle:
   Elf:
@@ -689,6 +798,8 @@ metadata:
   The Goldfinch:
   Gone with the Wind:
   A Good Day to Die Hard:
+    url_poster: https://theposterdb.com/api/assets/35445
+    sort_title: Die Hard 5
   Good Will Hunting:
   Goodbye Christopher Robin:
   'The Goods: Live Hard, Sell Hard':
@@ -956,6 +1067,8 @@ metadata:
   Little Big Soldier:
   The Little Mermaid:
   Live Free or Die Hard:
+    url_poster: https://theposterdb.com/api/assets/35444
+    sort_title: Die Hard 4
   The Lodge:
   Logan:
   Logan Lucky:
@@ -1016,6 +1129,7 @@ metadata:
   The Men Who Stare at Goats:
   Midsommar:
   The Mighty Ducks:
+    url_poster: https://theposterdb.com/api/assets/143333
     sort_title: Mighty Ducks 1
   Mike and Dave Need Wedding Dates:
   A Million Ways to Die in the West:
