@@ -18,7 +18,7 @@ dynamic_collections:
     template: tmdb_collections
 metadata:
   2 Fast 2 Furious:
-    url_poster: https://theposterdb.com/api/assets/1073
+    url_poster: https://theposterdb.com/api/assets/166164/download?performed_by=ImDevinC
     sort_title: Fast and Furious 2
   3:10 to Yuma:
     url_poster: https://theposterdb.com/api/assets/17899
@@ -329,14 +329,14 @@ metadata:
     sort_title: Bourne Identity 3
   The Boy:
     url_poster: https://theposterdb.com/api/assets/59414
-    sort_title: The Boy 1
+    sort_title: Boy 1
   The Boy and the Beast:
     url_poster: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zWG1MfusMOR4CXMsBxWhGFC4TkQ.jpg
   Brad's Status:
     url_poster: https://theposterdb.com/api/assets/139434
   'Brahms: The Boy II':
     url_poster: https://theposterdb.com/api/assets/59415
-    sort_title: The Boy 2
+    sort_title: Boy 2
   Brave:
     url_poster: https://theposterdb.com/api/assets/60698
   The Breakfast Club:
@@ -745,60 +745,118 @@ metadata:
   Exam:
     url_poster: https://theposterdb.com/api/assets/96981
   Extremely Loud & Incredibly Close:
+    url_poster: https://theposterdb.com/api/assets/137751/download?performed_by=ImDevinC
   'F9: The Fast Saga':
+    url_poster: https://theposterdb.com/api/assets/166199/download?performed_by=ImDevinC
     sort_title: Fast and Furious 9
   The Family Fang:
+    url_poster: https://theposterdb.com/api/assets/163811/download?performed_by=ImDevinC
   Fantastic Beasts and Where to Find Them:
+    url_poster: https://theposterdb.com/api/assets/170/download?performed_by=ImDevinC
+    sort_title: Fantastic Beasts 1
   'Fantastic Beasts: The Crimes of Grindelwald':
+    url_poster: https://theposterdb.com/api/assets/171/download?performed_by=ImDevinC
+    sort_title: Fantastic Beasts 2
   Fantasy Island:
+    url_poster: https://theposterdb.com/api/assets/63672/download?performed_by=ImDevinC
   Fast & Furious:
+    url_poster: https://theposterdb.com/api/assets/185627/download?performed_by=ImDevinC
     sort_title: Fast and Furious 4
   Fast & Furious 6:
+    url_poster: https://theposterdb.com/api/assets/39027/download?performed_by=ImDevinC
     sort_title: Fast and Furious 6
   'Fast & Furious Presents: Hobbs & Shaw':
+    url_poster: https://theposterdb.com/api/assets/38966/download?performed_by=ImDevinC
   The Fast and the Furious:
+    url_poster: https://theposterdb.com/api/assets/38958/download?performed_by=ImDevinC
     sort_title: Fast and Furious 1
   'The Fast and the Furious: Tokyo Drift':
+    url_poster: https://theposterdb.com/api/assets/47258/download?performed_by=ImDevinC
     sort_title: Fast and Furious 3
   Fast Color:
+    url_poster: https://theposterdb.com/api/assets/13370/download?performed_by=ImDevinC
   Fast Five:
+    url_poster: https://theposterdb.com/api/assets/166118/download?performed_by=ImDevinC
     sort_title: Fast and Furious 5
   The Fate of the Furious:
+    url_poster: https://theposterdb.com/api/assets/38307/download?performed_by=ImDevinC
     sort_title: Fast and Furious 8
   Ferris Bueller's Day Off:
+    url_poster: https://theposterdb.com/api/assets/213021/download?performed_by=ImDevinC
   Fever Pitch:
+    url_poster: https://theposterdb.com/api/assets/213022/download?performed_by=ImDevinC
   The Fifth Element:
+    url_poster: https://theposterdb.com/api/assets/50811/download?performed_by=ImDevinC
   Fight Club:
+    url_poster: https://theposterdb.com/api/assets/64093/download?performed_by=ImDevinC
   Fighting with My Family:
+    url_poster: https://theposterdb.com/api/assets/111098/download?performed_by=ImDevinC
   Final Destination:
+    url_poster: https://theposterdb.com/api/assets/883/download?performed_by=ImDevinC
+    sort_title: Final Destination 1
   The Final Destination:
+    url_poster: https://theposterdb.com/api/assets/889/download?performed_by=ImDevinC
+    sort_title: Final Destination 4
   Final Destination 2:
+    url_poster: https://theposterdb.com/api/assets/886/download?performed_by=ImDevinC
+    sort_title: Final Destination 2
   Final Destination 3:
+    url_poster: https://theposterdb.com/api/assets/888/download?performed_by=ImDevinC
+    sort_title: Final Destination 3
   Final Destination 5:
+    url_poster: https://theposterdb.com/api/assets/891/download?performed_by=ImDevinC
+    sort_title: Final Destination 5
   'Final Fantasy VII: Advent Children':
+    url_poster: https://theposterdb.com/api/assets/11331/download?performed_by=ImDevinC
   Finding Dory:
+    url_poster: https://theposterdb.com/api/assets/60702/download?performed_by=ImDevinC
+    sort_title: Finding Nemo 2
   Fired Up!:
+    url_poster: https://theposterdb.com/api/assets/78073/download?performed_by=ImDevinC
   First Man:
+    url_poster: https://theposterdb.com/api/assets/21495/download?performed_by=ImDevinC
   The First Purge:
+    url_poster: https://theposterdb.com/api/assets/8519/download?performed_by=ImDevinC
+    sort_title: Purge 4
   A Fistful of Dollars:
+    url_poster: https://theposterdb.com/api/assets/54597/download?performed_by=ImDevinC
   Five Feet Apart:
+    url_poster: https://theposterdb.com/api/assets/38756/download?performed_by=ImDevinC
   Flatliners:
+    url_poster: https://theposterdb.com/api/assets/156818/download?performed_by=ImDevinC
   The Flintstones:
+    url_poster: https://theposterdb.com/api/assets/94642/download?performed_by=ImDevinC
   The Fly:
+    url_poster: https://theposterdb.com/api/assets/79597/download?performed_by=ImDevinC
   Footloose:
+    url_poster: https://theposterdb.com/api/assets/38760/download?performed_by=ImDevinC
   Ford v Ferrari:
+    url_poster: https://theposterdb.com/api/assets/45966/download?performed_by=ImDevinC
   The Foreigner:
+    url_poster: https://theposterdb.com/api/assets/71722/download?performed_by=ImDevinC
   The Forest:
+    url_poster: https://theposterdb.com/api/assets/38772/download?performed_by=ImDevinC
   The Fox Hunter:
+    url_poster: https://www.themoviedb.org/t/p/original/nZNmYW6bax1MpQ8hcTdB8ioSWeC.jpg
   Freddy Got Fingered:
+    url_poster: https://theposterdb.com/api/assets/103355/download?performed_by=ImDevinC
   Free Guy:
+    url_poster: https://theposterdb.com/api/assets/177576/download?performed_by=ImDevinC
   Free State of Jones:
+    url_poster: https://theposterdb.com/api/assets/195300/download?performed_by=ImDevinC
   Frozen:
+    url_poster: https://theposterdb.com/api/assets/11838/download?performed_by=ImDevinC
+    sort_title: Frozen 1
   Frozen II:
+    url_poster: https://theposterdb.com/api/assets/11843/download?performed_by=ImDevinC
+    sort_title: Frozen 2
   Funny People:
+    url_poster: https://theposterdb.com/api/assets/74628/download?performed_by=ImDevinC
   Furious 7:
+    url_poster: https://theposterdb.com/api/assets/166169/download?performed_by=ImDevinC
     sort_title: Fast and Furious 7
   Futureworld:
+    url_poster: https://www.themoviedb.org/t/p/original/r0P4m8a2kNFoPBB5q38E9aWgIm6.jpg
   Galaxy Quest:
   Game Night:
   Gangster Squad:
@@ -1311,8 +1369,14 @@ metadata:
   Pulp Fiction:
   "Punk's Dead: SLC Punk 2":
   The Purge:
+    url_poster: https://theposterdb.com/api/assets/8516/download?performed_by=ImDevinC
+    sort_title: Purge 1
   'The Purge: Anarchy':
+    url_poster: https://theposterdb.com/api/assets/8517/download?performed_by=ImDevinC
+    sort_title: Purge 2
   'The Purge: Election Year':
+    url_poster: https://theposterdb.com/api/assets/8518/download?performed_by=ImDevinC
+    sort_title: Purge 3
   Push:
   Queenpins:
   The Quick and the Dead:
