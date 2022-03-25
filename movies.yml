@@ -963,87 +963,202 @@ metadata:
   Guns Akimbo:
     url_poster: https://theposterdb.com/api/assets/53442
   Hail, Caesar!:
+    url_poster: https://theposterdb.com/api/assets/50659
   Hairspray:
+    url_poster: https://theposterdb.com/api/assets/36271
   Hamilton:
+    url_poster: https://theposterdb.com/api/assets/86138
   The Hangover:
+    url_poster: https://theposterdb.com/api/assets/947
+    sort_title: Hangover 1
+  The Hangover Part II:
+    url_poster: https://theposterdb.com/api/assets/948
+    sort_title: Hangover 2
   The Hangover Part III:
+    url_poster: https://theposterdb.com/api/assets/950
+    sort_title: Hangover 3
   The Happening:
+    url_poster: https://theposterdb.com/api/assets/40335
   Happy Death Day 2U:
+    url_poster: https://theposterdb.com/api/assets/2446
   Happy Feet:
+    url_poster: https://theposterdb.com/api/assets/478
   Happy Gilmore:
+    url_poster: https://theposterdb.com/api/assets/215484
   The Happytime Murders:
+    url_poster: https://theposterdb.com/api/assets/168309
   Hardcore Henry:
+    url_poster: https://theposterdb.com/api/assets/91311
   'Harry Potter 20th Anniversary: Return to Hogwarts':
+    url_poster: https://theposterdb.com/api/assets/198017
   Harry Potter and the Chamber of Secrets:
+    url_poster: https://theposterdb.com/api/assets/1869
+    sort_title: Harry Potter 2
   'Harry Potter and the Deathly Hallows: Part 1':
+    url_poster: https://theposterdb.com/api/assets/1874
+    sort_title: Harry Potter 7
   'Harry Potter and the Deathly Hallows: Part 2':
+    url_poster: https://theposterdb.com/api/assets/1875
+    sort_title: Harry Potter 8
   Harry Potter and the Goblet of Fire:
+    url_poster: https://theposterdb.com/api/assets/1871
+    sort_title: Harry Potter 4
   Harry Potter and the Half-Blood Prince:
+    url_poster: https://theposterdb.com/api/assets/1873 
+    sort_title: Harry Potter 6
   Harry Potter and the Order of the Phoenix:
+    url_poster: https://theposterdb.com/api/assets/1872
+    sort_title: Harry Potter 5
   Harry Potter and the Prisoner of Azkaban:
+    url_poster: https://theposterdb.com/api/assets/1870
+    sort_title: Harry Potter 3
   Harry Potter and the Sorcerer's Stone:
+    url_poster: https://theposterdb.com/api/assets/1868
+    sort_title: Harry Potter 1
   The Hateful Eight:
+    url_poster: https://theposterdb.com/api/assets/8610
   He's Just Not That Into You:
+    url_poster: https://theposterdb.com/api/assets/34310
   The Head Hunter:
+    url_poster: https://theposterdb.com/api/assets/203659
   The Heartbreak Kid:
+    url_poster: https://theposterdb.com/api/assets/47814
   The Heat:
+    url_poster: https://www.themoviedb.org/t/p/original/7LRtjM4ENyeu4C1c2D78E4HtarP.jpg
   Heavyweights:
+    url_poster: https://theposterdb.com/api/assets/46183
   Hell or High Water:
+    url_poster: https://theposterdb.com/api/assets/77591
   Hellboy:
+    url_poster: https://theposterdb.com/api/assets/11852
   Henry Poole Is Here:
+    url_poster: https://www.themoviedb.org/t/p/original/2aTt7ZNocc5NoZjACTsrSUX9I62.jpg
   Her:
+    url_poster: https://theposterdb.com/api/assets/54890
   Hercules (1997):
+    url_poster: https://theposterdb.com/api/assets/81896
     title: Hercules
     year: 1997
   Hercules (2014):
+    url_poster: https://www.themoviedb.org/t/p/original/5X3VOy9lD44VclKsWTi8gHZGjhL.jpg
     title: Hercules
     year: 2014
   Hereditary:
+    url_poster: https://www.themoviedb.org/t/p/original/jVQhRLSmfHqvCkQXDDmUpn9BOSA.jpg
   Hick:
+    url_poster: https://www.themoviedb.org/t/p/original/ziXCRCci5BFLEUwSgO0V83M9LGw.jpg
   High Fidelity:
+    url_poster: https://theposterdb.com/api/assets/154337
   High Life:
+    url_poster: https://theposterdb.com/api/assets/13090
   The Hills Have Eyes:
+    url_poster: https://theposterdb.com/api/assets/8503
   The Hills Have Eyes 2:
+    url_poster: https://theposterdb.com/api/assets/8504
   The Hitman's Bodyguard:
+    url_poster: https://theposterdb.com/api/assets/162342
+    sort_title: Hitman's Bodyguard 1
   Hitman's Wife's Bodyguard:
+    url_poster: https://theposterdb.com/api/assets/162343
+    sort_title: Hitman's Bodyguard 2
   'The Hobbit: An Unexpected Journey':
+    url_poster: https://theposterdb.com/api/assets/1723
+    sort_title: Hobbit 1
   'The Hobbit: The Battle of the Five Armies':
+    url_poster: https://theposterdb.com/api/assets/35518
+    sort_title: Hobbit 3
   'The Hobbit: The Desolation of Smaug':
+    url_poster: https://theposterdb.com/api/assets/1724
+    sort_title: Hobbit 2
   Hocus Pocus:
+    url_poster: https://theposterdb.com/api/assets/24367
   Holmes & Watson:
+    url_poster: https://theposterdb.com/api/assets/40840
   Home Again:
+    url_poster: https://theposterdb.com/api/assets/203664
   Home Alone:
+    url_poster: https://theposterdb.com/api/assets/50688
+    sort_title: Home Alone 1
   'Home Alone 2: Lost in New York':
+    url_poster: https://theposterdb.com/api/assets/50689
+    sort_title: Home Alone 2
   Hook:
+    url_poster: https://theposterdb.com/api/assets/117260
+  Horrible Bosses:
+    url_poster: https://theposterdb.com/api/assets/13343
+    sort_title: Horrible Bosses 1
   Horrible Bosses 2:
+    url_poster: https://theposterdb.com/api/assets/13344
+    sort_title: Horrible Bosses 2
   Horton Hears a Who!:
+    url_poster: https://theposterdb.com/api/assets/38156
   Hot Fuzz:
+    url_poster: https://theposterdb.com/api/assets/54721
   Hot Rod:
+    url_poster: https://theposterdb.com/api/assets/74642
   Hot Tub Time Machine:
+    url_poster: https://theposterdb.com/api/assets/213179
+    sort_title: Hot Tub Time Machine 1
   Hot Tub Time Machine 2:
+    url_poster: https://theposterdb.com/api/assets/213180
+    sort_title: Hot Tub Time Machine 2
   Hotel Artemis:
+    url_poster: https://theposterdb.com/api/assets/164505
   Hotel Transylvania:
+    url_poster: https://theposterdb.com/api/assets/20459
+    sort_title: Hotel Transylvania 1
   Hotel Transylvania 2:
+    url_poster: https://theposterdb.com/api/assets/20460
+    sort_title: Hotel Transylvania 2
   'Hotel Transylvania 3: Summer Vacation':
+    url_poster: https://theposterdb.com/api/assets/20461
+    sort_title: Hotel Transylvania 3
   'Hotel Transylvania 4: Transformania':
+    url_poster: https://theposterdb.com/api/assets/158206
+    sort_title: Hotel Transylvania 4
   The House:
+    url_poster: https://www.themoviedb.org/t/p/original/hkmWkVgirei79bwds23Hr0lWSXS.jpg
   The House of Tomorrow:
+    url_poster: https://www.themoviedb.org/t/p/original/5D9mvVo7nJ7YYZXoNKQiABYAR55.jpg
   The House with a Clock in Its Walls:
+    url_poster: https://theposterdb.com/api/assets/50932
   How Do You Know:
+    url_poster: https://theposterdb.com/api/assets/77191
   How to Be Single:
+    url_poster: https://theposterdb.com/api/assets/40865
   How to Get Girls:
+    url_poster: https://www.themoviedb.org/t/p/original/epzDm2FYQWIbPK5jgldslySmmdD.jpg
   How to Train Your Dragon:
+    url_poster: https://theposterdb.com/api/assets/95987
+    sort_title: How to Train Your Dragon 1
   How to Train Your Dragon 2:
+    url_poster: https://theposterdb.com/api/assets/30
+    sort_title: How to Train Your Dragon 2
   'How to Train Your Dragon: The Hidden World':
+    url_poster: https://theposterdb.com/api/assets/95989
+    sort_title: How to Train Your Dragon 3
   Howl's Moving Castle:
+    url_poster: https://theposterdb.com/api/assets/100567
   The Hunger Games:
+    url_poster: https://theposterdb.com/api/assets/6978
+    sort_title: The Hunger Games 1
   'The Hunger Games: Catching Fire':
+    url_poster: https://theposterdb.com/api/assets/6979
+    sort_title: The Hunger Games 2
   'The Hunger Games: Mockingjay - Part 1':
+    url_poster: https://theposterdb.com/api/assets/6980
+    sort_title: The Hunger Games 3
   'The Hunger Games: Mockingjay - Part 2':
+    url_poster: https://theposterdb.com/api/assets/6981
+    sort_title: The Hunger Games 4
   The Hunt:
+    url_poster: https://theposterdb.com/api/assets/57164
   Hunter Killer:
+    url_poster: https://theposterdb.com/api/assets/88521
   "The Huntsman: Winter's War":
+    url_poster: https://theposterdb.com/api/assets/52194
   Hustlers:
+    url_poster: https://theposterdb.com/api/assets/35063
   I Am Legend:
   I Hope They Serve Beer in Hell:
   I Love You, Man:
