@@ -12,6 +12,12 @@ collections:
     letterboxd_list: https://letterboxd.com/imdevinc/list/mcu-phase-four/
     collection_order: custom
     sync_mode: sync
+  "Oscars 2022: Best Picture":
+    letterboxd_list: https://letterboxd.com/imdevinc/list/oscars-best-picture-2022
+    collection_order: custom
+    sync_mode: sync
+    radarr_add_missing: true
+    item_radarr_tag: pmm,oscars
 dynamic_collections:
   "TMDB Collections":
     type: tmdb_collection
