@@ -18,6 +18,7 @@ collections:
     sync_mode: sync
     radarr_add_missing: true
     item_radarr_tag: pmm,oscars
+    url_poster: https://theposterdb.com/api/assets/10047
 dynamic_collections:
   "TMDB Collections":
     type: tmdb_collection
