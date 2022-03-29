@@ -1291,55 +1291,118 @@ metadata:
   It's Kind of a Funny Story:
     url_poster: https://www.themoviedb.org/t/p/original/jAIoL0275PFrx9jrmneWAqmBvtD.jpg
   Jack Reacher:
+    url_poster: https://theposterdb.com/api/assets/84014
+    sort_title: Jack Reacher 1
   'Jack Reacher: Never Go Back':
+    url_poster: https://theposterdb.com/api/assets/63699
+    sort_title: Jack Reacher 2
   Jack the Giant Slayer:
+    url_poster: https://theposterdb.com/api/assets/95517
   The Jacket:
+    url_poster: https://www.themoviedb.org/t/p/original/rubXTfC67U6FrnNl14QNOElef2E.jpg
   James and the Giant Peach:
+    url_poster: https://theposterdb.com/api/assets/97879
   Jason Bourne:
     url_poster: https://theposterdb.com/api/assets/19524
     sort_title: Bourne Identity 5
   Jawbreaker:
+    url_poster: https://www.themoviedb.org/t/p/original/gwjJPAraQy5fDd3NJvK677uItU4.jpg
   Jaws:
+    url_poster: https://theposterdb.com/api/assets/66354
+    sort_title: Jaws 1
   Jaws 2:
+    url_poster: https://theposterdb.com/api/assets/66355
+    sort_title: Jaws 2
   Jaws 3-D:
+    url_poster: https://theposterdb.com/api/assets/66356
+    sort_title: Jaws 3
   Jay and Silent Bob Reboot:
+    url_poster: https://theposterdb.com/api/assets/61810
+    sort_title: Jay and Silent Bob 2
   Jay and Silent Bob Strike Back:
+    url_poster: https://theposterdb.com/api/assets/61807
+    sort_title: Jay and Silent Bob 1
   Jeepers Creepers:
+    url_poster: https://theposterdb.com/api/assets/44582
+    sort_title: Jeepers Creepers 1
   Jeepers Creepers 2:
+    url_poster: https://theposterdb.com/api/assets/44583
+    sort_title: Jeepers Creepers 2
   Jigsaw:
+    url_poster: https://theposterdb.com/api/assets/8431
   Jingle All the Way:
+    url_poster: https://theposterdb.com/api/assets/36121
   Jiu Jitsu:
+    url_poster: https://www.themoviedb.org/t/p/original/eLT8Cu357VOwBVTitkmlDEg32Fs.jpg
   'Joe Dirt 2: Beautiful Loser':
+    url_poster: https://theposterdb.com/api/assets/46624
   John Tucker Must Die:
+    url_poster: https://theposterdb.com/api/assets/44530
   John Wick:
+    url_poster: https://theposterdb.com/api/assets/11591
+    sort_title: John Wick 1
   'John Wick: Chapter 2':
+    url_poster: https://theposterdb.com/api/assets/11592
+    sort_title: John Wick 2
   'John Wick: Chapter 3 - Parabellum':
+    url_poster: https://theposterdb.com/api/assets/11593
+    sort_title: John Wick 3
   Jojo Rabbit:
+    url_poster: https://theposterdb.com/api/assets/66643
   Joker:
+    url_poster: https://theposterdb.com/api/assets/36607
   Jolt:
+    url_poster: https://theposterdb.com/api/assets/163663
   'Journey 2: The Mysterious Island':
+    url_poster: https://theposterdb.com/api/assets/7149
+    sort_title: Journey to the Center of the Earth 2
   Journey to the Center of the Earth:
+    url_poster: https://theposterdb.com/api/assets/7148
+    sort_title: Journey to the Center of the Earth 1
   Journey's End:
+    url_poster: https://www.themoviedb.org/t/p/original/dhsFagH4I69z7m2IdFVyK4WQWYD.jpg
   Juliet, Naked:
+    url_poster: https://theposterdb.com/api/assets/95392
   'Jumanji: The Next Level':
+    url_poster: https://theposterdb.com/api/assets/46699
+    sort_title: Jumanji 2
   'Jumanji: Welcome to the Jungle':
+    url_poster: https://theposterdb.com/api/assets/8782
+    sort_title: Jumanji 1
   Jumper:
+    url_poster: https://theposterdb.com/api/assets/113765
   The Jungle Book (1967):
+    url_poster: https://theposterdb.com/api/assets/217193
     title: The Jungle Book
     year: 1967
   The Jungle Book (2016):
+    url_poster: https://theposterdb.com/api/assets/200071
     title: The Jungle Book
     year: 2016
   Jungle Cruise:
+    url_poster: https://theposterdb.com/api/assets/164675
   Juno:
+    url_poster: https://theposterdb.com/api/assets/113558
   Jurassic Park:
+    url_poster: https://theposterdb.com/api/assets/17152
+    sort_title: Jurassic Park 1
   Jurassic Park III:
+    url_poster: https://theposterdb.com/api/assets/17154
+    sort_title: Jurassic Park 3
   Jurassic World:
+    url_poster: https://theposterdb.com/api/assets/17155
+    sort_title: Jurassic Park 4
   'Jurassic World: Fallen Kingdom':
+    url_poster: https://theposterdb.com/api/assets/17156
+    sort_title: Jurassic Park 5
   Just Getting Started:
+    url_poster: https://www.themoviedb.org/t/p/original/70eVsU4nvVidEs7mpPcEcBlIpmx.jpg
   Just Go with It:
+    url_poster: https://theposterdb.com/api/assets/44647
   Just Mercy:
+    url_poster: https://theposterdb.com/api/assets/48029
   Justice League:
+    url_poster: https://theposterdb.com/api/assets/48247
   Keanu:
   Keeping Up with the Joneses:
   Kick-Ass:
@@ -1407,6 +1470,8 @@ metadata:
   The Losers:
   Lost Girls:
   'The Lost World: Jurassic Park':
+    url_poster: https://theposterdb.com/api/assets/17153
+    sort_title: Jurassic Park 2
   Love & Other Drugs:
   Luca:
   Lucky Day:
