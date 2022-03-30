@@ -127,6 +127,7 @@ metadata:
     sort_title: Anchorman 1
   Angel Has Fallen:
     url_poster: https://theposterdb.com/api/assets/29975
+    sort_title: Has Fallen 3
   Angels in the Outfield:
     url_poster: https://theposterdb.com/api/assets/6241
   Aniara:
@@ -1451,57 +1452,106 @@ metadata:
   'Kung Pow: Enter the Fist':
     url_poster: https://theposterdb.com/api/assets/59942
   La La Land:
+    url_poster: https://theposterdb.com/api/assets/42820
   Lady Bird:
+    url_poster: https://theposterdb.com/api/assets/63050
   The Lady in the Car with Glasses and a Gun:
+    url_poster: https://www.themoviedb.org/t/p/original/bhhrTro6sTozHmRVLZz53tnl1Nf.jpg
   The Last Five Years:
+    url_poster: https://www.themoviedb.org/t/p/original/dxTLKSTyGb5IXB64iNgU9AWAsXT.jpg
   Last Night in Soho:
+    url_poster: https://theposterdb.com/api/assets/176855
   The Last Witch Hunter:
+    url_poster: https://www.themoviedb.org/t/p/original/qXvOpA2nhK5HQ6I95sN3nnMtfjH.jpg
   Late Night:
+    url_poster: https://theposterdb.com/api/assets/34177
   Lawless:
+    url_poster: https://theposterdb.com/api/assets/42821
   The League of Extraordinary Gentlemen:
+    url_poster: https://theposterdb.com/api/assets/72737
   Leap!:
+    url_poster: https://theposterdb.com/api/assets/81550
   Leatherheads:
+    url_poster: https://www.themoviedb.org/t/p/original/dl2yu8iuwG3dqbpjalm2odadRaH.jpg
   The Legend of Drunken Master:
+    url_poster: https://www.themoviedb.org/t/p/original/1ay4svLHJBgSjz05FOfGAMQbbxS.jpg
   The Legend of Tarzan:
+    url_poster: https://theposterdb.com/api/assets/34179
   The Lego Batman Movie:
+    url_poster: https://theposterdb.com/api/assets/46061
+    sort_title: Lego Movie 2
   The Lego Movie:
+    url_poster: https://theposterdb.com/api/assets/46060
+    sort_title: Lego Movie 1
   'The Lego Movie 2: The Second Part':
+    url_poster: https://theposterdb.com/api/assets/10979
+    sort_title: Lego Movie 3
   Liar Liar:
+    url_poster: https://theposterdb.com/api/assets/45360
   Life as We Know It:
+    url_poster: https://www.themoviedb.org/t/p/original/zLzS2aOqKsS0QvEaY6SfBw4VBqh.jpg
   Life of the Party:
+    url_poster: https://theposterdb.com/api/assets/81054
   Lights Out:
+    url_poster: https://theposterdb.com/api/assets/45581
   Like Crazy:
+    url_poster: https://www.themoviedb.org/t/p/original/8eIhNKnRfayRwWChx0atZh4vGua.jpg
   Lincoln:
+    url_poster: https://theposterdb.com/api/assets/77691
   The Lion King (1994):
+    url_poster: https://theposterdb.com/api/assets/11814
     title: The Lion King
     year: 1994
   The Lion King (2019):
+    url_poster: https://theposterdb.com/api/assets/23740
     title: The Lion King
     year: 2019
   Little Big Soldier:
+    url_poster: https://www.themoviedb.org/t/p/original/13ul9PN2C8fqLqZpfk3JVGHTEkQ.jpg
   The Little Mermaid:
+    url_poster: https://theposterdb.com/api/assets/217204
   Live Free or Die Hard:
     url_poster: https://theposterdb.com/api/assets/35444
     sort_title: Die Hard 4
   The Lodge:
+    url_poster: https://theposterdb.com/api/assets/50851
   Logan:
+    url_poster: https://theposterdb.com/api/assets/32353
   Logan Lucky:
+    url_poster: https://theposterdb.com/api/assets/34192
   London Has Fallen:
+    url_poster: https://theposterdb.com/api/assets/42551
+    sort_title: Has Fallen 1
   Long Shot:
+    url_poster: https://theposterdb.com/api/assets/13376
   The Longest Yard:
+    url_poster: https://theposterdb.com/api/assets/46300
   Looper:
+    url_poster: https://theposterdb.com/api/assets/37256
   'The Lord of the Rings: The Fellowship of the Ring':
+    url_poster: https://theposterdb.com/api/assets/1719
+    sort_title: Lord of the Rings 1
   'The Lord of the Rings: The Return of the King':
+    url_poster: https://theposterdb.com/api/assets/1722
+    sort_title: Lord of the Rings 3
   'The Lord of the Rings: The Two Towers':
+    url_poster: https://theposterdb.com/api/assets/1721
+    sort_title: Lord of the Rings 2
   The Losers:
+    url_poster: https://theposterdb.com/api/assets/71074
   Lost Girls:
+    url_poster: https://www.themoviedb.org/t/p/original/pDas4DwURlRzjD9xEhSdtkcl1ZV.jpg
   'The Lost World: Jurassic Park':
     url_poster: https://theposterdb.com/api/assets/17153
     sort_title: Jurassic Park 2
   Love & Other Drugs:
+    url_poster: https://theposterdb.com/api/assets/95538
   Luca:
+    url_poster: https://theposterdb.com/api/assets/158711
   Lucky Day:
+    url_poster: https://www.themoviedb.org/t/p/original/y1Iux6HUOjoOBrqDyg3RZYe0pGh.jpg
   Lucky Number Slevin:
+    url_poster: https://www.themoviedb.org/t/p/original/x21s3p5wPww534nYj1cWakTcqz4.jpg
   Machete:
   The Machinist:
   'Mad Max: Fury Road':
