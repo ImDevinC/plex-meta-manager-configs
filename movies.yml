@@ -1873,61 +1873,127 @@ metadata:
   Oz the Great and Powerful:
     url_poster: https://www.themoviedb.org/t/p/original/dl2bc196inngiZNcD0xhfdT8pib.jpg
   Pan:
+    url_poster: https://theposterdb.com/api/assets/51131
   Paprika:
+    url_poster: https://theposterdb.com/api/assets/111985
   Paranormal Activity:
+    url_poster: https://theposterdb.com/api/assets/51102
+    sort_title: Paranormal Activity 1
   Paranormal Activity 2:
+    url_poster: https://theposterdb.com/api/assets/51103
+    sort_title: Paranormal Activity 2
   Paranormal Activity 3:
+    url_poster: https://theposterdb.com/api/assets/51104
+    sort_title: Paranormal Activity 3
   Paranormal Activity 4:
+    url_poster: https://theposterdb.com/api/assets/51105
+    sort_title: Paranormal Activity 4
   'Paranormal Activity: Next of Kin':
+    url_poster: https://theposterdb.com/api/assets/185903
+    sort_title: Paranormal Activity 7
   'Paranormal Activity: The Ghost Dimension':
+    url_poster: https://theposterdb.com/api/assets/51107
+    sort_title: Paranormal Activity 6
   'Paranormal Activity: The Marked Ones':
+    url_poster: https://theposterdb.com/api/assets/51106
+    sort_title: Paranormal Activity 5
   Parasite:
+    url_poster: https://theposterdb.com/api/assets/47915
   Passengers:
+    url_poster: https://theposterdb.com/api/assets/51273
   Patch Adams:
+    url_poster: https://theposterdb.com/api/assets/44797
   Payback:
+    url_poster: https://theposterdb.com/api/assets/55069
   PCU:
+    url_poster: https://www.themoviedb.org/t/p/original/z96xdfqJXJYJQtzCnpgs1hJkHaJ.jpg
   Peppermint:
+    url_poster: https://theposterdb.com/api/assets/148214
   The Perfect Score:
+    url_poster: https://theposterdb.com/api/assets/97311
   Pet Sematary (1989):
+    url_poster: https://theposterdb.com/api/assets/107036
     title: Pet Sematary
     year: 1989
   Pet Sematary (2019):
+    url_poster: https://theposterdb.com/api/assets/13073
     title: Pet Sematary
     year: 2019
   Pete's Dragon:
+    url_poster: https://theposterdb.com/api/assets/45866
   Pi:
+    url_poster: https://www.themoviedb.org/t/p/original/smMlzrjGVYfL6BWeTL04KIJpf8b.jpg
   "Pirates of the Caribbean: At World's End":
+    url_poster: https://theposterdb.com/api/assets/86024
+    sort_title: Pirates of the Caribbean 3
   "Pirates of the Caribbean: Dead Man's Chest":
+    url_poster: https://theposterdb.com/api/assets/86023
+    sort_title: Pirates of the Caribbean 2
   'Pirates of the Caribbean: Dead Men Tell No Tales':
+    url_poster: https://theposterdb.com/api/assets/86026
+    sort_title: Pirates of the Caribbean 5
   'Pirates of the Caribbean: On Stranger Tides':
+    url_poster: https://theposterdb.com/api/assets/86025
+    sort_title: Pirates of the Caribbean 4
   'Pirates of the Caribbean: The Curse of the Black Pearl':
+    url_poster: https://theposterdb.com/api/assets/86022
+    sort_title: Pirates of the Caribbean 1
+  Pitch Perfect:
+    url_poster: https://theposterdb.com/api/assets/51632
+    sort_title: Pitch Perfect 1
   Pitch Perfect 2:
+    url_poster: https://theposterdb.com/api/assets/51633
+    sort_title: Pitch Perfect 2
   Pitch Perfect 3:
+    url_poster: https://theposterdb.com/api/assets/51634
+    sort_title: Pitch Perfect 3
   Pleasantville:
+    url_poster: https://theposterdb.com/api/assets/127974
   Point Break (1991):
+    url_poster: https://theposterdb.com/api/assets/82970
     title: Point Break
     year: 1991
   Point Break (2015):
+    url_poster: https://theposterdb.com/api/assets/140267
     title: Point Break
     year: 2015
   Pokémon Detective Pikachu:
+    url_poster: https://theposterdb.com/api/assets/172
   'Pokémon the Movie: I Choose You!':
+    url_poster: https://theposterdb.com/api/assets/168531
   'Pokémon: The Movie 2000':
+    url_poster: https://theposterdb.com/api/assets/201114
   The Polar Express:
+    url_poster: https://theposterdb.com/api/assets/54391
   'Popstar: Never Stop Never Stopping':
+    url_poster: https://theposterdb.com/api/assets/13834
   The Post:
+    url_poster: https://theposterdb.com/api/assets/35369
   Power Rangers:
+    url_poster: https://theposterdb.com/api/assets/51375
   Practical Magic:
+    url_poster: https://theposterdb.com/api/assets/51490
   The Predator:
+    url_poster: https://theposterdb.com/api/assets/56810
   Predestination:
+    url_poster: https://theposterdb.com/api/assets/188503
   The Prestige:
+    url_poster: https://theposterdb.com/api/assets/51902
   Primer:
+    url_poster: https://theposterdb.com/api/assets/188502
   Princess Mononoke:
+    url_poster: https://theposterdb.com/api/assets/100976
   Project Almanac:
+    url_poster: https://theposterdb.com/api/assets/51880
   Project X:
+    url_poster: https://theposterdb.com/api/assets/51882
   Prometheus:
+    url_poster: https://theposterdb.com/api/assets/40352
   Pulp Fiction:
+    url_poster: https://theposterdb.com/api/assets/31972
   "Punk's Dead: SLC Punk 2":
+    url_poster: https://www.themoviedb.org/t/p/original/AptQQxD4HMNMZZQuVD1XKojCJiZ.jpg
+    sort_title: SLC Punk 2
   The Purge:
     url_poster: https://theposterdb.com/api/assets/8516
     sort_title: Purge 1
@@ -1938,9 +2004,17 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/8518
     sort_title: Purge 3
   Push:
+    url_poster: https://theposterdb.com/api/assets/72735
   Queenpins:
+    url_poster: https://theposterdb.com/api/assets/179417
   The Quick and the Dead:
+    url_poster: https://www.themoviedb.org/t/p/original/fQk89YaQdeBcS7AmlKODKOxIAPU.jpg
+  A Quiet Place:
+    url_poster: https://theposterdb.com/api/assets/38788
+    sort_title: A Quiet Place 1
   A Quiet Place Part II:
+    url_poster: https://theposterdb.com/api/assets/38789
+    sort_title: A Quiet Place 2
   R.I.P.D.:
   Race:
   Ralph Breaks the Internet:
@@ -2040,6 +2114,8 @@ metadata:
     sort_title: James Bond 2
   Skyscraper:
   SLC Punk!:
+    url_poster: https://www.themoviedb.org/t/p/original/gdbj2uvElEfEvTDGUY40vvuJU3R.jpg
+    sort_title: SLC Punk 1
   Sleeping with Other People:
   Smallfoot:
   Smokin' Aces:
