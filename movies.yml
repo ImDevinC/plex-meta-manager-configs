@@ -224,6 +224,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/108018
   Batman Begins:
     url_poster: https://theposterdb.com/api/assets/22276
+    sort_title: Dark Knight 1
   The Batman:
     url_poster: https://theposterdb.com/api/assets/182257
   Batman Ninja:
@@ -529,8 +530,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/113756
   The Dark Knight:
     url_poster: https://theposterdb.com/api/assets/22277
+    sort_title: Dark Knight 2
   The Dark Knight Rises:
     url_poster: https://theposterdb.com/api/assets/22278
+    sort_title: Dark Knight 3
   Dark Places:
     url_poster: https://theposterdb.com/api/assets/107300
   The Dark Tower:
