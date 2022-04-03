@@ -2019,39 +2019,102 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/38789
     sort_title: A Quiet Place 2
   R.I.P.D.:
+    url_poster: https://theposterdb.com/api/assets/73360
   Race:
+    url_poster: https://theposterdb.com/api/assets/96915
   Ralph Breaks the Internet:
+    url_poster: https://theposterdb.com/api/assets/98960
+    sort_title: Wreck-It Ralph 2
   Rampage:
+    url_poster: https://theposterdb.com/api/assets/27352
   Rango:
+    url_poster: https://theposterdb.com/api/assets/53034
   Raya and the Last Dragon:
+    url_poster: https://theposterdb.com/api/assets/115512
   RBG:
+    url_poster: https://www.themoviedb.org/t/p/original/tBuypABSdEna7LfgCIaxMuKu9Q5.jpg
   Ready Player One:
+    url_poster: https://theposterdb.com/api/assets/60857
   RED:
+    url_poster: https://theposterdb.com/api/assets/7155
+    sort_title: RED 1
   RED 2:
+    url_poster: https://theposterdb.com/api/assets/7156
+    sort_title: RED 2
   Red Sparrow:
+    url_poster: https://theposterdb.com/api/assets/53053
   The Red Turtle:
+    url_poster: https://theposterdb.com/api/assets/83914
   Redline:
+    url_poster: https://theposterdb.com/api/assets/25983
   The Rental:
+    url_poster: https://theposterdb.com/api/assets/76830
   Repo Men:
+    url_poster: https://theposterdb.com/api/assets/96090
+  Resident Evil:
+    url_poster: https://theposterdb.com/api/assets/11304
+    sort_title: Resident Evil 1
   'Resident Evil: Afterlife':
+    url_poster: https://theposterdb.com/api/assets/53070
+    sort_title: Resident Evil 4
+  'Resident Evil: Apocalypse':
+    url_poster: https://theposterdb.com/api/assets/11305
+    sort_title: Resident Evil 2
+  'Resident Evil: Extinction':
+    url_poster: https://theposterdb.com/api/assets/11306
+    sort_title: Resident Evil 3
   'Resident Evil: The Final Chapter':
+    sort_title: Resident Evil 6
+    url_poster: https://theposterdb.com/api/assets/11309
+  'Resident Evil: Retribution':
+    sort_title: Resident Evil 5
+    url_poster: https://theposterdb.com/api/assets/11308
   The Revenant:
+    url_poster: https://theposterdb.com/api/assets/34990
   Revenge of the Nerds:
+    url_poster: https://theposterdb.com/api/assets/110443
+    sort_title: Revenge of the Nerds 1
+  "Revenge of the Nerds II: Nerds in Paradise":
+    url_poster: https://theposterdb.com/api/assets/218933
+    sort_title: Revenge of the Nerds 2
+  "Revenge of the Nerds III: The Next Generation":
+    url_poster: https://theposterdb.com/api/assets/218934
+    sort_title: Revenge of the Nerds 3
+  "Revenge of the Nerds IV: Nerds in Love":
+    url_poster: https://theposterdb.com/api/assets/218935
+    sort_title: Revenge of the Nerds 4
   Rio:
+    url_poster: https://theposterdb.com/api/assets/33759
+    sort_title: Rio 1
   Rio 2:
+    url_poster: https://theposterdb.com/api/assets/33762
+    sort_title: Rio 2
   Robin Hood:
+    url_poster: https://theposterdb.com/api/assets/74368
   Robocroc:
+    url_poster: https://www.themoviedb.org/t/p/original/qBUaxcUDQS7vtsn4Mn8CHtP2rkn.jpg
   Robots:
+    url_poster: https://theposterdb.com/api/assets/33755
   Rock 'n' Roll High School:
+    url_poster: https://theposterdb.com/api/assets/144057
   Rocketman:
+    url_poster: https://theposterdb.com/api/assets/47588
   RocknRolla:
+    url_poster: https://theposterdb.com/api/assets/55025
   The Rocky Horror Picture Show:
+    url_poster: https://theposterdb.com/api/assets/62092
   'Rogue One: A Star Wars Story':
+    url_poster: https://theposterdb.com/api/assets/446
   Role Models:
+    url_poster: https://theposterdb.com/api/assets/53083
   Romy and Michele's High School Reunion:
+    url_poster: https://theposterdb.com/api/assets/34993
   Ron's Gone Wrong:
+    url_poster: https://theposterdb.com/api/assets/178761
   Rounders:
+    url_poster: https://theposterdb.com/api/assets/88793
   Rushmore:
+    url_poster: https://theposterdb.com/api/assets/54304
   Safety Not Guaranteed:
   Salt:
   Sausage Party:
@@ -2296,6 +2359,9 @@ metadata:
   Woody Woodpecker:
   The World's End:
   Wrath of Man:
+  Wreck-It Ralph:
+    url_poster: https://theposterdb.com/api/assets/11837
+    sort_title: Wreck-It Ralph 1
   'The X Files: I Want to Believe':
   X-Men:
   'X-Men Origins: Wolverine':
