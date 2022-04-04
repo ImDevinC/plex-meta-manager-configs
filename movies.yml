@@ -2685,11 +2685,24 @@ metadata:
   Youth in Revolt:
     url_poster: https://www.themoviedb.org/t/p/original/3J48x7Utjx0sdYIvjsMWnlEbxpV.jpg
   Zack and Miri Make a Porno:
+    url_poster: https://theposterdb.com/api/assets/70442
   'Zenon: Girl of the 21st Century':
+    url_poster: https://theposterdb.com/api/assets/54471
   Zodiac:
+    url_poster: https://theposterdb.com/api/assets/64095
   Zombieland:
+    url_poster: https://theposterdb.com/api/assets/36533
+    sort_title: Zombieland 1
   'Zombieland: Double Tap':
+    url_poster: https://theposterdb.com/api/assets/36534
+    sort_title: Zombieland 2
   Zookeeper:
+    url_poster: https://theposterdb.com/api/assets/88962
   Zoolander:
+    url_poster: https://theposterdb.com/api/assets/51996
+    sort_title: Zoolander 1
   Zoolander 2:
+    url_poster: https://theposterdb.com/api/assets/51997
+    sort_title: Zoolander 2
   Zootopia:
+    url_poster: https://theposterdb.com/api/assets/217231
