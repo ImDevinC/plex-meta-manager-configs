@@ -898,6 +898,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/179555
   Glass:
     url_poster: https://theposterdb.com/api/assets/10349
+    sort_title: Unbreakable 3
   Gods of Egypt:
     url_poster: https://theposterdb.com/api/assets/120736
   Godzilla vs. Kong:
@@ -2105,6 +2106,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/62092
   'Rogue One: A Star Wars Story':
     url_poster: https://theposterdb.com/api/assets/446
+    sort_title: Star Wars 7.5
   Role Models:
     url_poster: https://theposterdb.com/api/assets/53083
   Romy and Michele's High School Reunion:
@@ -2116,138 +2118,290 @@ metadata:
   Rushmore:
     url_poster: https://theposterdb.com/api/assets/54304
   Safety Not Guaranteed:
+    url_poster: https://theposterdb.com/api/assets/133600
   Salt:
+    url_poster: https://theposterdb.com/api/assets/30120
   Sausage Party:
+    url_poster: https://theposterdb.com/api/assets/53339
   Say Anything:
+    url_poster: https://theposterdb.com/api/assets/137220
   Scary Stories to Tell in the Dark:
+    url_poster: https://theposterdb.com/api/assets/65099
   'Scooby-Doo: A New Universe':
+    url_poster: https://theposterdb.com/api/assets/53864
   Scoop:
+    url_poster: https://theposterdb.com/api/assets/173610
   The Scorpion King:
+    url_poster: https://theposterdb.com/api/assets/112719
+    sort_title: Scorpion King 1
   'The Scorpion King 2: Rise of a Warrior':
+    url_poster: https://theposterdb.com/api/assets/2746
+    sort_title: Scorpion King 2
   Scott Pilgrim vs. the World:
+    url_poster: https://theposterdb.com/api/assets/54722
   Scouts Guide to the Zombie Apocalypse:
+    url_poster: https://theposterdb.com/api/assets/53347
   Scream:
+    url_poster: https://theposterdb.com/api/assets/188586
   Se7en:
+    url_poster: https://theposterdb.com/api/assets/108334
   Secondhand Lions:
+    url_poster: https://theposterdb.com/api/assets/216274
   The Secret Life of Pets:
+    url_poster: https://theposterdb.com/api/assets/6474
+    sort_title: The Secret Life of Pets 1
   The Secret Life of Pets 2:
+    url_poster: https://theposterdb.com/api/assets/15168
+    sort_title: The Secret Life of Pets 2
   Self/less:
+    url_poster: https://theposterdb.com/api/assets/121450
   Serenity (2005):
+    url_poster: https://theposterdb.com/api/assets/75443
     title: Serenity
     year: 2005
   Serenity (2019):
+    url_poster: https://theposterdb.com/api/assets/10966
     title: Serenity
     year: 2019
   A Series of Unfortunate Events:
+    url_poster: https://theposterdb.com/api/assets/78508
   'The Seven Deadly Sins: Prisoners of the Sky':
+    url_poster: https://theposterdb.com/api/assets/92244
   Seven Pounds:
+    url_poster: https://theposterdb.com/api/assets/70807
   Seven Psychopaths:
+    url_poster: https://theposterdb.com/api/assets/47127
   Sex and the Future:
+    url_poster: https://www.themoviedb.org/t/p/original/hHtJhevKKC3ZNPslcojfLMecYjo.jpg
   Sex Drive:
+    url_poster: https://theposterdb.com/api/assets/14834
   Sex Tape:
+    url_poster: https://theposterdb.com/api/assets/53703
   Shaft (1971):
+    url_poster: https://theposterdb.com/api/assets/129055
     title: Shaft
     year: 1971
   Shaft (2000):
+    url_poster: https://theposterdb.com/api/assets/175795
     title: Shaft
     year: 2000
   Shaft (2019):
+    url_poster: https://theposterdb.com/api/assets/52363
     title: Shaft
     year: 2019
   The Shallows:
+    url_poster: https://theposterdb.com/api/assets/55375
   Shang-Chi and the Legend of the Ten Rings:
+    url_poster: https://theposterdb.com/api/assets/169495
   Shanghai Knights:
+    url_poster: https://theposterdb.com/api/assets/95297
   Shaolin Soccer:
+    url_poster: https://theposterdb.com/api/assets/82135
   The Shape of Water:
+    url_poster: https://theposterdb.com/api/assets/72838
   Shaun of the Dead:
+    url_poster: https://theposterdb.com/api/assets/192541
   Shazam!:
+    url_poster: https://theposterdb.com/api/assets/47730
   She's Out of My League:
+    url_poster: https://theposterdb.com/api/assets/119674
   Sherlock Holmes:
+    url_poster: https://theposterdb.com/api/assets/115537
+    sort_title: Sherlock Holmes 1
   'Sherlock Holmes: A Game of Shadows':
+    url_poster: https://theposterdb.com/api/assets/115538
+    sort_title: Sherlock Holmes 2 
   Shoot 'Em Up:
+    url_poster: https://theposterdb.com/api/assets/66043
   Shooter:
+    url_poster: https://theposterdb.com/api/assets/142593
   Sicario:
+    url_poster: https://theposterdb.com/api/assets/5943
   Sid and Nancy:
+    url_poster: https://www.themoviedb.org/t/p/original/wHzCbMCfipDJ38GW5IyBTWDflMz.jpg
   A Simple Favor:
+    url_poster: https://theposterdb.com/api/assets/74993
   Sing:
+    url_poster: https://theposterdb.com/api/assets/29205
   Sinister:
+    url_poster: https://theposterdb.com/api/assets/108461
+    sort_title: Sinister 1
   Sinister 2:
+    url_poster: https://theposterdb.com/api/assets/108462
+    sort_title: Sinister 2
   Sisters:
+    url_poster: https://www.themoviedb.org/t/p/original/3KHbfJAzuawbySaXQ9a9U4J3tBE.jpg
   The Sisters Brothers:
+    url_poster: https://theposterdb.com/api/assets/86586
   Skate Kitchen:
+    url_poster: https://www.themoviedb.org/t/p/original/pP6087MMcZNiddxRfGk7BG7TU4c.jpg
   Skyfall:
     url_poster: https://theposterdb.com/api/assets/2061
     sort_title: James Bond 2
   Skyscraper:
+    url_poster: https://theposterdb.com/api/assets/54315
   SLC Punk!:
     url_poster: https://www.themoviedb.org/t/p/original/gdbj2uvElEfEvTDGUY40vvuJU3R.jpg
     sort_title: SLC Punk 1
   Sleeping with Other People:
+    url_poster: https://theposterdb.com/api/assets/108888
   Smallfoot:
+    url_poster: https://theposterdb.com/api/assets/86727
   Smokin' Aces:
+    url_poster: https://theposterdb.com/api/assets/105661
+    sort_title: Smokin' Aces 1
   "Smokin' Aces 2: Assassins' Ball":
+    url_poster: https://theposterdb.com/api/assets/105662
+    sort_title: Smokin' Aces 2
   Snatch:
+    url_poster: https://theposterdb.com/api/assets/162498
   Snatched:
+    url_poster: https://theposterdb.com/api/assets/55102
   Snow White and the Huntsman:
+    url_poster: https://theposterdb.com/api/assets/52192
   Snowden:
+    url_poster: https://theposterdb.com/api/assets/27195
   The Snowman:
+    url_poster: https://theposterdb.com/api/assets/55569
   The Social Network:
+    url_poster: https://theposterdb.com/api/assets/55624
   'Solo: A Star Wars Story':
+    url_poster: https://theposterdb.com/api/assets/448
+    sort_title: Star Wars 8.5
   The Soloist:
+    url_poster: https://theposterdb.com/api/assets/80319
   Sonic the Hedgehog:
+    url_poster: https://theposterdb.com/api/assets/29728
   Source Code:
+    url_poster: https://theposterdb.com/api/assets/41179
   'South Park: Post COVID':
+    url_poster: https://theposterdb.com/api/assets/192487
   The Space Between Us:
+    url_poster: https://www.themoviedb.org/t/p/original/7qZzPkOoauJz5ImOvBd4XgnKs1B.jpg
   Space Jam:
+    url_poster: https://theposterdb.com/api/assets/134001
   'Space Jam: A New Legacy':
+    url_poster: https://theposterdb.com/api/assets/163416
   Spaceballs:
+    url_poster: https://theposterdb.com/api/assets/157139
   Spectre:
     url_poster: https://theposterdb.com/api/assets/2062
     sort_title: James Bond 3
   Speed:
+    url_poster: https://theposterdb.com/api/assets/55593
+    sort_title: Speed 1
   'Speed 2: Cruise Control':
+    url_poster: https://theposterdb.com/api/assets/55594
+    sort_title: Speed 2
   Speed Racer:
+    url_poster: https://theposterdb.com/api/assets/168323
   Spider-Man:
+    url_poster: https://theposterdb.com/api/assets/147
+    sort_title: Spider-Man 1
   Spider-Man 2:
+    url_poster: https://theposterdb.com/api/assets/148
+    sort_title: Spider-Man 2
   Spider-Man 3:
+    url_poster: https://theposterdb.com/api/assets/149
+    sort_title: Spider-Man 3
   'Spider-Man: Far from Home':
+    url_poster: https://theposterdb.com/api/assets/916
+    sort_title: Spider-man MCU 2
   'Spider-Man: Homecoming':
+    url_poster: https://theposterdb.com/api/assets/6913
+    sort_title: Spider-man MCU 1
   'Spider-Man: Into the Spider-Verse':
+    url_poster: https://theposterdb.com/api/assets/36952
   'Spider-Man: No Way Home':
+    url_poster: https://theposterdb.com/api/assets/188167
+    sort_title: Spider-man MCU 3
   The Spirit:
+    url_poster: https://theposterdb.com/api/assets/72734
   Spirited Away:
+    url_poster: https://theposterdb.com/api/assets/100565
   Split:
+    url_poster: https://theposterdb.com/api/assets/10348
+    sort_title: Unbreakable 2
   Spring Breakers:
+    url_poster: https://theposterdb.com/api/assets/55753
   Spy:
+    url_poster: https://theposterdb.com/api/assets/55760
   The Spy Who Dumped Me:
+    url_poster: https://theposterdb.com/api/assets/47945
   St. Elmo's Fire:
+    url_poster: https://theposterdb.com/api/assets/174452
+  Star Trek:
+    url_poster: https://theposterdb.com/api/assets/67
+    sort_title: Star Trek 1
   Star Trek Beyond:
+    url_poster: https://theposterdb.com/api/assets/21283
+    sort_title: Star Trek 3
   Star Trek Into Darkness:
+    url_poster: https://theposterdb.com/api/assets/21282
+    sort_title: Star Trek 2
   Star Wars:
+    url_poster: https://theposterdb.com/api/assets/438
+    sort_title: Star Wars 4
   'Star Wars: Episode I - The Phantom Menace':
+    url_poster: https://theposterdb.com/api/assets/441
+    sort_title: Star Wars 1
   'Star Wars: Episode II - Attack of the Clones':
+    url_poster: https://theposterdb.com/api/assets/442
+    sort_title: Star Wars 2
   'Star Wars: Episode III - Revenge of the Sith':
+    url_poster: https://theposterdb.com/api/assets/443
+    sort_title: Star Wars 3
   'Star Wars: Episode IX - The Rise of Skywalker':
+    url_poster: https://theposterdb.com/api/assets/26161
+    sort_title: Star Wars 9
   'Star Wars: Episode V - The Empire Strikes Back':
+    url_poster: https://theposterdb.com/api/assets/439
+    sort_title: Star Wars 5
   'Star Wars: Episode VI - Return of the Jedi':
+    url_poster: https://theposterdb.com/api/assets/440
+    sort_title: Star Wars 6
   'Star Wars: Episode VII - The Force Awakens':
+    url_poster: https://theposterdb.com/api/assets/445
+    sort_title: Star Wars 7
   'Star Wars: Episode VIII - The Last Jedi':
+    url_poster: https://theposterdb.com/api/assets/447
+    sort_title: Star Wars 8
   Starship Troopers:
+    url_poster: https://theposterdb.com/api/assets/5526
   Step Brothers:
+    url_poster: https://theposterdb.com/api/assets/20381
   Steve Jobs:
+    url_poster: https://theposterdb.com/api/assets/66072
   Storks:
+    url_poster: https://theposterdb.com/api/assets/143234
   Straight Outta Compton:
+    url_poster: https://theposterdb.com/api/assets/157148
   Suburbicon:
+    url_poster: https://www.themoviedb.org/t/p/original/a3IHgSwO5jWPLcGjKqbQ7pxVGkq.jpg
   Sucker Punch:
+    url_poster: https://theposterdb.com/api/assets/25029
   Suicide Squad:
+    url_poster: https://theposterdb.com/api/assets/48245
   Sully:
+    url_poster: https://theposterdb.com/api/assets/66159
   Summer Wars:
+    url_poster: https://www.themoviedb.org/t/p/original/1rQm5H3F86q0y9NGS0hfN4kFUzG.jpg
+  Super Troopers:
+    url_poster: https://theposterdb.com/api/assets/36803
+    sort_title: Super Troopers 1
   Super Troopers 2:
+    url_poster: https://theposterdb.com/api/assets/220023
+    sort_title: Super Troopers 2
   Superbad:
+    url_poster: https://theposterdb.com/api/assets/87264
   'Superman: Red Son':
+    url_poster: https://theposterdb.com/api/assets/55848
   The Sure Thing:
+    url_poster: https://www.themoviedb.org/t/p/original/a9cuohQn5kczi4htWZAZjEZvXkZ.jpg
   Swordfish:
+    url_poster: https://theposterdb.com/api/assets/180442
   Synchronicity:
+    url_poster: https://www.themoviedb.org/t/p/original/wGHoYDswvx96PVF43qFErVAnQHS.jpg
   Tag:
   The Tale of Despereaux:
   'Talladega Nights: The Ballad of Ricky Bobby':
