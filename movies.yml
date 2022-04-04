@@ -1521,6 +1521,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/50851
   Logan:
     url_poster: https://theposterdb.com/api/assets/32353
+    sort_title: Wolverine 3
   Logan Lucky:
     url_poster: https://theposterdb.com/api/assets/34192
   London Has Fallen:
@@ -2623,6 +2624,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/108123
   The Wolverine:
     url_poster: https://theposterdb.com/api/assets/6496
+    sort_title: Wolverine 2
   The Woman in the Window:
     url_poster: https://theposterdb.com/api/assets/152977
   Wonder:
@@ -2645,14 +2647,31 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/11837
     sort_title: Wreck-It Ralph 1
   'The X Files: I Want to Believe':
+    url_poster: https://theposterdb.com/api/assets/61048
   X-Men:
+    url_poster: https://theposterdb.com/api/assets/6487
+    sort_title: X-Men 1
   'X-Men Origins: Wolverine':
+    url_poster: https://theposterdb.com/api/assets/32351
+    sort_title: Wolverine 1
   'X-Men: Apocalypse':
+    url_poster: https://theposterdb.com/api/assets/6492
+    sort_title: X-Men Origins 3
   'X-Men: Dark Phoenix':
+    url_poster: https://theposterdb.com/api/assets/15534
+    sort_title: X-Men Origins 4
   'X-Men: Days of Future Past':
+    url_poster: https://theposterdb.com/api/assets/6491
+    sort_title: X-Men Origins 2
   'X-Men: First Class':
+    url_poster: https://theposterdb.com/api/assets/6490
+    sort_title: X-Men Origins 1
   'X-Men: The Last Stand':
+    url_poster: https://theposterdb.com/api/assets/6489
+    sort_title: X-Men 3
   'X2: X-Men United':
+    url_poster: https://theposterdb.com/api/assets/6488
+    sort_title: X-Men 2
   Yesterday:
   Yoga Hosers:
   You Should Have Left:
