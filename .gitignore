@@ -1,3 +1,7 @@
-logs/*
+logs/
 config.cache
 config.*
+Movies_Metadata_Backup.yml
+.env
+movies-backup.yml
+Movies_missing.yml
