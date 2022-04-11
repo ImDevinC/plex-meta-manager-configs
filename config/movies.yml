@@ -705,6 +705,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/62078
   Driven:
     url_poster: https://theposterdb.com/api/assets/11321
+  'Drive My Car':
+    url_poster: https://theposterdb.com/api/assets/220304
   'DuckTales the Movie: Treasure of the Lost Lamp':
     url_poster: https://theposterdb.com/api/assets/204340
   Due Date:
