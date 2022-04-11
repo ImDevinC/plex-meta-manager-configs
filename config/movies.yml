@@ -2666,8 +2666,12 @@ metadata:
   Wreck-It Ralph:
     url_poster: https://theposterdb.com/api/assets/11837
     sort_title: Wreck-It Ralph 1
+  'The X Files':
+    url_poster: https://theposterdb.com/api/assets/61047
+    sort_title: X-Files 1
   'The X Files: I Want to Believe':
     url_poster: https://theposterdb.com/api/assets/61048
+    sort_title: X-Files 2
   X-Men:
     url_poster: https://theposterdb.com/api/assets/6487
     sort_title: X-Men 1
