@@ -13,7 +13,7 @@ RUN go build -o /config-diff ./cmd/diff/main.go
 
 FROM meisnate12/plex-meta-manager:nightly
 
-RUN apt-get update && apt-get install git -y
+RUN apt-get update && apt-get install git gettext-base -y
 
 COPY entrypoint.sh .
 

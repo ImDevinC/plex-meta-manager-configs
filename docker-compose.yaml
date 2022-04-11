@@ -4,4 +4,4 @@ services:
   pmm:
     image: t
     env_file:
-      - ./env
+      - ./.env
