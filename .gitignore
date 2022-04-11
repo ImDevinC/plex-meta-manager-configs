@@ -1,6 +1,7 @@
 logs/
 config.cache
 config.*
+!config.yaml
 Movies_Metadata_Backup.yml
 .env
 movies-backup.yml
