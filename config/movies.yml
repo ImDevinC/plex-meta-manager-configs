@@ -169,8 +169,10 @@ metadata:
   Atomic Blonde:
     url_poster: https://theposterdb.com/api/assets/73697
   Attack on Titan:
+    url_poster: https://theposterdb.com/api/assets/24281
     sort_title: Attack on Titan 1
   'Attack on Titan II: End of the World':
+    url_poster: https://theposterdb.com/api/assets/24282
     sort_title: Attack on Titan 2
   Austin Powers in Goldmember:
     url_poster: https://theposterdb.com/api/assets/13972
