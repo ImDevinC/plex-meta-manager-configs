@@ -17,6 +17,8 @@ RUN apt-get update && apt-get install git gettext-base -y
 
 COPY entrypoint.sh .
 
+RUN chmod +x entrypoint.sh
+
 COPY --from=differ /config-diff /config-diff
 
 ENTRYPOINT ["/entrypoint.sh"]

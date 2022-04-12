@@ -31,4 +31,4 @@ jobs:
           tags: |
             ghcr.io/imdevinc/pmm:latest
             ghcr.io/imdevinc/pmm:${{ steps.vars.outputs.sha_short }}
-          push: ${{ github.ref == 'refs/head/main' }}
+          push: true
