@@ -2636,6 +2636,12 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/74054
   Whisper of the Heart:
     url_poster: https://theposterdb.com/api/assets/112419
+  The Whole Nine Yards:
+    url_poster: https://theposterdb.com/api/assets/204110
+    sort_title: Whole Nine Yards 1
+  The Whole Ten Yards:
+    url_poster: https://theposterdb.com/api/assets/89678
+    sort_title: Whole Nine Yards 2
   Who Framed Roger Rabbit:
     url_poster: https://theposterdb.com/api/assets/53110
   Widows:
