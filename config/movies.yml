@@ -516,6 +516,12 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/75988
   Creative Control:
     url_poster: https://www.themoviedb.org/t/p/original/y8toiQT0xb6mLWT84xVhUNXICdg.jpg
+  Creep:
+    url_poster: https://theposterdb.com/api/assets/178618
+    sort_title: Creep 1
+  Creep 2:
+    url_poster: https://theposterdb.com/api/assets/178619
+    sort_title: Creep 2
   Crimson Peak:
     url_poster: https://theposterdb.com/api/assets/20333
   The Croods:
