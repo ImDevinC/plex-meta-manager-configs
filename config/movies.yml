@@ -794,6 +794,9 @@ metadata:
   'Fantastic Beasts: The Crimes of Grindelwald':
     url_poster: https://theposterdb.com/api/assets/171
     sort_title: Fantastic Beasts 2
+  "Fantastic Beasts: The Secrets of Dumbledore":
+    url_poster: https://theposterdb.com/api/assets/217955
+    sort_title: Fantastic Beasts 3
   Fantasy Island:
     url_poster: https://theposterdb.com/api/assets/63672
   Fast & Furious:
