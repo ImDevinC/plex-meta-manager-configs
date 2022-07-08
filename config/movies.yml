@@ -644,6 +644,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/32303
   Doctor Strange:
     url_poster: https://theposterdb.com/api/assets/901
+    sort_title: Doctor Strange 1
+  Doctor Strange in the Multiverse of Madness:
+    url_poster: https://theposterdb.com/api/assets/226287
+    sort_title: Doctor Strange 2
   'Dodgeball: A True Underdog Story':
     url_poster: https://theposterdb.com/api/assets/72054
   A Dog's Purpose:
