@@ -19,6 +19,10 @@ collections:
     radarr_add_missing: true
     item_radarr_tag: pmm,oscars
     url_poster: https://theposterdb.com/api/assets/10047
+  "View Askewniverse":
+    letterboxd_list: https://letterboxd.com/imdevinc/list/view-askewniverse/
+    collection_order: custom
+    sync_mode: sync
 dynamic_collections:
   "TMDB Collections":
     type: tmdb_collection
