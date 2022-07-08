@@ -123,6 +123,8 @@ metadata:
   The Amazing Spider-Man 2:
     url_poster: https://theposterdb.com/api/assets/74339
     sort_title: Amazing Spider-man 2
+  American Carnage:
+    url_poster: https://www.themoviedb.org/t/p/original/zQmwQqtT2KEfg5IO5u8lexZoCAR.jpg
   American Hustle:
     url_poster: https://theposterdb.com/api/assets/34691
   American Ultra:
