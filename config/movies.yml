@@ -2,7 +2,19 @@ templates:
   tmdb_collections:
     minimum_items: 3
     tmdb_collection_details: <<tmdb_collection>>
+  studio:
+    optional: [company]
+    tmdb_company: <<company>>
+    sync_mode: sync
+    smart_label: release.desc
+
 collections:
+  A24:
+    template: {name: Studio, company: 41077}
+    summary: A24 is an American independent entertainment company founded on August 20, 2012, by Daniel Katz, David Fenkel, and John Hodges and based in New York City. It specializes in film distribution, and film and television production.
+  View Askew:
+    template: {name: Studio, company: 16934}
+    summary: View Askew Productions is an American film and television production company founded by Kevin Smith and Scott Mosier in 1994.
   "MCU: Infinity Saga":
     letterboxd_list: https://letterboxd.com/imdevinc/list/mcu-infinity-saga/
     collection_order: custom
@@ -19,10 +31,6 @@ collections:
     radarr_add_missing: true
     item_radarr_tag: pmm,oscars
     url_poster: https://theposterdb.com/api/assets/10047
-  "View Askewniverse":
-    letterboxd_list: https://letterboxd.com/imdevinc/list/view-askewniverse/
-    collection_order: custom
-    sync_mode: sync
 dynamic_collections:
   "TMDB Collections":
     type: tmdb_collection
