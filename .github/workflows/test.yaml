@@ -1,0 +1,22 @@
+name: Lint
+
+on:
+  pull_request:
+    branches: [main]
+    paths: ['config/*.yaml', 'config/*.yml']
+  workflow_dispatch:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: yamllint 
+        uses: karancode/yamllint-github-action@master
+        with:
+          yamllint_file_or_dir: config
+          yamllint_config_filepath: yamllint.yml
+          yamllint_comment: true
+        env:
+          GITHUB_ACCESS_TOKEN: ${{ secrets.GHCR_PAT }}

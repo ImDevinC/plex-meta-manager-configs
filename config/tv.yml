@@ -37,7 +37,7 @@ metadata:
   The League:
     url_poster: https://theposterdb.com/api/assets/127295
     seasons:
-      1: 
+      1:
         url_poster: https://theposterdb.com/api/assets/127296
       2:
         url_poster: https://theposterdb.com/api/assets/127297
@@ -92,7 +92,7 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/160113
-      2: 
+      2:
         url_poster: https://theposterdb.com/api/assets/160114
   Raising Hope:
     url_poster: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uoQlWrYVERlifyUjDVUHiSu2ELo.jpg
