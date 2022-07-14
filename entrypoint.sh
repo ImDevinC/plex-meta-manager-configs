@@ -16,6 +16,11 @@ if [ $? -gt 0 ]; then
     echo "failed to run pmm"
     exit 1
 fi
+lines=$(wc -l /sources/movies-backup.yaml)
+if [ $lines -eq 0 ]; then
+   echo "missing backup file"
+   exit 1
+fi
 /config-diff -source /source/movies-backup.yml
 if [ $? -gt 0 ]; then
     echo "failed to diff configs"
