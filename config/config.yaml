@@ -29,3 +29,4 @@ radarr:
   search: true
   quality_profile: HD - 720p/1080p
   root_folder_path: /movies
+

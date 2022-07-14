@@ -135,7 +135,7 @@ metadata:
     sort_title: Divergent 3
   Amanda & Jack Go Glamping:
     url_poster: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kmokEVZDkn9bofvJ0KjANtfZf5E.jpg
-  Amateur Night: 
+  Amateur Night:
     url_poster: https://www.themoviedb.org/t/p/original/dzJFu1F0miZKHbR7tRIX6cQcI8c.jpg
   The Amazing Spider-Man:
     url_poster: https://theposterdb.com/api/assets/26976
@@ -1095,7 +1095,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/1871
     sort_title: Harry Potter 4
   Harry Potter and the Half-Blood Prince:
-    url_poster: https://theposterdb.com/api/assets/1873 
+    url_poster: https://theposterdb.com/api/assets/1873
     sort_title: Harry Potter 6
   Harry Potter and the Order of the Phoenix:
     url_poster: https://theposterdb.com/api/assets/1872
@@ -2310,7 +2310,7 @@ metadata:
     sort_title: Sherlock Holmes 1
   'Sherlock Holmes: A Game of Shadows':
     url_poster: https://theposterdb.com/api/assets/115538
-    sort_title: Sherlock Holmes 2 
+    sort_title: Sherlock Holmes 2
   Shoot 'Em Up:
     url_poster: https://theposterdb.com/api/assets/66043
   Shooter:
@@ -2587,7 +2587,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/64337
   Transformers:
     url_poster: https://theposterdb.com/api/assets/14176
-    sort_title: Transformers 1 
+    sort_title: Transformers 1
   'Transformers: Age of Extinction':
     url_poster: https://theposterdb.com/api/assets/14179
     sort_title: Transformers 4
