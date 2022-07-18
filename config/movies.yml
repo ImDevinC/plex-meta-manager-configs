@@ -326,6 +326,8 @@ metadata:
     url_poster: https://www.themoviedb.org/t/p/original/u3oWQDz0JggzzsVlsuHY7XVxp5Y.jpg
   Black Panther:
     url_poster: https://theposterdb.com/api/assets/81766
+  The Black Phone:
+    url_poster: https://theposterdb.com/api/assets/250680
   Black Sheep:
     url_poster: https://theposterdb.com/api/assets/112620
   Black Swan:
@@ -965,10 +967,18 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/39538
   Ghost World:
     url_poster: https://theposterdb.com/api/assets/73545
-  Ghostbusters:
+  Ghostbusters (1984):
     url_poster: https://theposterdb.com/api/assets/39549
+    sort_title: Ghostbusters 1
+  Ghostbusters (2016):
+    url_poster: https://theposterdb.com/api/assets/166360
+    sort_title: Ghostbusters Reboot
+  Ghostbusters II:
+    url_poster: https://theposterdb.com/api/assets/181154
+    sort_title: Ghostbusters 2
   'Ghostbusters: Afterlife':
     url_poster: https://theposterdb.com/api/assets/181156
+    sort_title: Ghostbusters 3
   The Girl in the Spider's Web:
     url_poster: https://theposterdb.com/api/assets/58910
   The Girl on the Train:
