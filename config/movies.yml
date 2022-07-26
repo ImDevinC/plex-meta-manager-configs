@@ -23,6 +23,9 @@ collections:
   View Askew:
     template: {name: studio, company: 16934}
     summary: View Askew Productions is an American film and television production company founded by Kevin Smith and Scott Mosier in 1994.
+  Disney:
+    template: {name: studio, company: 3475}
+    summary: The Walt Disney Studios is an American film and entertainment studio, and is the Studios Content segment of the Walt Disney Company.
   Edgar Wright:
     template: {name: director, person: 11090}
   Quentin Tarantino:
