@@ -8,6 +8,7 @@ templates:
     sync_mode: sync
     smart_label: release.desc
     sort_title: +5_<<collection_name>>
+    collection_mode: hide
   director:
     smart_filter:
       all:
@@ -15,6 +16,7 @@ templates:
       sort_by: year.asc
     tmdb_person: <<person>>
     sort_title: +3_1_<<collection_name>
+    collection_mode: hide
 
 collections:
   A24:
