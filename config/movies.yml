@@ -27,7 +27,7 @@ collections:
     template: {name: studio, company: 16934}
     summary: View Askew Productions is an American film and television production company founded by Kevin Smith and Scott Mosier in 1994.
     url_poster: https://theposterdb.com/api/assets/47526
-  Disney Animated Collection:
+  Disney Collection:
     template: {name: studio, company: 2}
     summary: The Walt Disney Studios is an American film and entertainment studio, and is the Studios Content segment of the Walt Disney Company.
     url_poster: https://plexcollectionposters.com/images/2020/04/13/Disney-Collection3631982b3cf6cfba.jpg
