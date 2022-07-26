@@ -17,7 +17,8 @@ if [ $? -gt 0 ]; then
     exit 1
 fi
 lines=$(wc -l /source/movies-backup.yaml)
-if [ $lines -eq 0 ]; then
+# if [ $lines -eq 0 ]; then
+if [ $? -gt 0 ]; then
    echo "missing backup file"
    exit 1
 fi
