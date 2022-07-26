@@ -2,6 +2,11 @@ version: '3'
 
 services:
   pmm:
-    image: t
+    build: .
+    entrypoint: python3
+    command: plex_meta_manager.py --config=/config/config.yaml -ro --run
     env_file:
       - ./.env
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - ./config:/config
