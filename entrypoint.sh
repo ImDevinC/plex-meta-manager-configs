@@ -16,7 +16,7 @@ if [ $? -gt 0 ]; then
     echo "failed to run pmm"
     exit 1
 fi
-lines=$(wc -l /source/movies-backup.yaml)
+lines=$(wc -l /source/movies-backup.yml)
 # if [ $lines -eq 0 ]; then
 if [ $? -gt 0 ]; then
    echo "missing backup file"
