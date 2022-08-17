@@ -2605,6 +2605,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/49254
   Top Gun:
     url_poster: https://theposterdb.com/api/assets/75052
+    sort_title: Top Gun 1
+  "Top Gun: Maverick":
+    url_poster: https://theposterdb.com/api/assets/232503
+    sort_title: Top Gun 2
   The Tourist:
     url_poster: https://theposterdb.com/api/assets/73211
   The Town:
