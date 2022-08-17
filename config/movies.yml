@@ -249,7 +249,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/17257
     sort_title: Back to the Future 3
   Bad Boys for Life:
-    url_poster: https://theposterdb.com/api/assets/43034
+    url_poster: https://theposterdb.com/api/assets/83053
   The Bad Guys:
     url_poster: https://theposterdb.com/api/assets/232364
   Bad Moms:
@@ -534,7 +534,7 @@ metadata:
   CODA:
     url_poster: https://images.fanart.tv/fanart/coda-61351fb454db0.jpg
   Coherence:
-    url_poster: https://theposterdb.com/api/assets/80485
+    url_poster: https://www.themoviedb.org/t/p/original/oWlgqzVPWMpA8QGB8eUQYXXYgr0.jpg
   Colette:
     url_poster: https://theposterdb.com/api/assets/57638
   Collateral Beauty:
@@ -803,6 +803,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/113469
   Elf:
     url_poster: https://theposterdb.com/api/assets/36128
+  Elvis:
+    url_poster: https://theposterdb.com/api/assets/255699
   Emma.:
     url_poster: https://theposterdb.com/api/assets/57646
   The Emperor's New Groove:
@@ -1601,6 +1603,8 @@ metadata:
     url_poster: https://www.themoviedb.org/t/p/original/zLzS2aOqKsS0QvEaY6SfBw4VBqh.jpg
   Life of the Party:
     url_poster: https://theposterdb.com/api/assets/81054
+  Lightyear:
+    url_poster: https://theposterdb.com/api/assets/232964
   Lights Out:
     url_poster: https://theposterdb.com/api/assets/45581
   Like Crazy:
@@ -1774,6 +1778,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/157933
   Minions:
     url_poster: https://theposterdb.com/api/assets/59475
+    sort_title: Minions 1
+  "Minions: The Rise of Gru":
+    url_poster: https://theposterdb.com/api/assets/46026
+    sort_title: Minions 2
   Miss Peregrine's Home for Peculiar Children:
     url_poster: https://theposterdb.com/api/assets/28831
   'Mission: Impossible - Fallout':
@@ -1827,6 +1835,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/223899
   Mr. Right:
     url_poster: https://theposterdb.com/api/assets/48364
+  Mrs Harris Goes to Paris:
+    url_poster: https://theposterdb.com/api/assets/240547
   Mulan (1998):
     url_poster: https://theposterdb.com/api/assets/11818
     title: Mulan
@@ -2595,6 +2605,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/49254
   Top Gun:
     url_poster: https://theposterdb.com/api/assets/75052
+    sort_title: Top Gun 1
+  "Top Gun: Maverick":
+    url_poster: https://theposterdb.com/api/assets/232503
+    sort_title: Top Gun 2
   The Tourist:
     url_poster: https://theposterdb.com/api/assets/73211
   The Town:
@@ -2675,6 +2689,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/79584
   The VelociPastor:
     url_poster: https://www.themoviedb.org/t/p/original/trSmNw63luh84MBy5XLH0UiN1BC.jpg
+  Vengeance:
+    url_poster: https://theposterdb.com/api/assets/251368
   Venom:
     url_poster: https://theposterdb.com/api/assets/36899
     sort_title: Venom 1
