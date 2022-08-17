@@ -1778,6 +1778,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/157933
   Minions:
     url_poster: https://theposterdb.com/api/assets/59475
+    sort_title: Minions 1
+  "Minions: The Rise of Gru":
+    url_poster: https://theposterdb.com/api/assets/46026
+    sort_title: Minions 2
   Miss Peregrine's Home for Peculiar Children:
     url_poster: https://theposterdb.com/api/assets/28831
   'Mission: Impossible - Fallout':
