@@ -1500,6 +1500,9 @@ metadata:
   Jurassic World:
     url_poster: https://theposterdb.com/api/assets/17155
     sort_title: Jurassic Park 4
+  Jurassic World Dominion:
+    url_poster: https://theposterdb.com/api/assets/248695
+    sort_title: Jurassic Park 6
   'Jurassic World: Fallen Kingdom':
     url_poster: https://theposterdb.com/api/assets/17156
     sort_title: Jurassic Park 5
@@ -1739,6 +1742,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/175536
   Me Before You:
     url_poster: https://theposterdb.com/api/assets/48317
+  Me Time:
+    url_poster: https://theposterdb.com/api/assets/253362
   The Mechanic:
     url_poster: https://theposterdb.com/api/assets/36167
     sort_title: Mechanic 1
@@ -2283,6 +2288,8 @@ metadata:
   The Secret Life of Pets 2:
     url_poster: https://theposterdb.com/api/assets/15168
     sort_title: The Secret Life of Pets 2
+  The Secret Life of Walter Mitty:
+    url_poster: https://theposterdb.com/api/assets/50768
   Self/less:
     url_poster: https://theposterdb.com/api/assets/121450
   Serenity (2005):
@@ -2449,6 +2456,8 @@ metadata:
   'Spider-Man: No Way Home':
     url_poster: https://theposterdb.com/api/assets/188167
     sort_title: Spider-man MCU 3
+  Spin Me Round:
+    url_poster: https://theposterdb.com/api/assets/259644
   The Spirit:
     url_poster: https://theposterdb.com/api/assets/72734
   Spirited Away:
