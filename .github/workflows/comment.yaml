@@ -14,6 +14,6 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
       - name: Install yq
-        run: sudo apt-get install -y yq
+        run: sudo apt-get update && sudo apt-get install -y yq
       - name: Add Movie
         run: ./add_movie.sh "${{ github.event.issue.title }}" "${{ github.event.comment.body }}"
