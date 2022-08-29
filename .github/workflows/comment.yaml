@@ -19,6 +19,6 @@ jobs:
         uses: peter-evans/create-pull-request@v4
         with:
           title: "[CI] Added ${{ github.event.issue.title}}"
-          commit_message: "[CI] Added ${{ github.event.issue.title}}"
+          commit-message: "[CI] Added ${{ github.event.issue.title}}"
           branch: "feat-auto-${{ github.event.comment.id }}"
           base: main
