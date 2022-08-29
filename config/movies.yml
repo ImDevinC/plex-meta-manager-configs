@@ -18,7 +18,6 @@ templates:
     tmdb_person: <<person>>
     sort_title: +3_1_<<collection_name>
     collection_mode: hide
-
 collections:
   A24 Collection:
     template: {name: studio, company: 41077}
@@ -2872,3 +2871,5 @@ metadata:
     sort_title: Zoolander 2
   Zootopia:
     url_poster: https://theposterdb.com/api/assets/217231
+  Nope:
+    url_poster: https://theposterdb.com/api/assets/164497
