@@ -14,4 +14,4 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
       - name: Add Movie
-        run: ./add_movie.sh ${{ github.event.issue.title }} ${{ github.event.comment.body }}
+        run: ./add_movie.sh "${{ github.event.issue.title }}" "${{ github.event.comment.body }}"
