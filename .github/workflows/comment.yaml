@@ -22,3 +22,4 @@ jobs:
           commit-message: "[CI] Added ${{ github.event.issue.title}}"
           branch: "feat-auto-${{ github.event.comment.id }}"
           base: main
+          body: "Fixes #${{ github.event.issue.number }}"
