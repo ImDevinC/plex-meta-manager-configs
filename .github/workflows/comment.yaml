@@ -17,18 +17,10 @@ jobs:
         run: sudo wget -qO /usr/local/bin/yq https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 && chmod a+x /usr/local/bin/yq
       - name: Add Movie
         run: ./add_movie.sh "${{ github.event.issue.title }}" "${{ github.event.comment.body }}"
-      - name: Commit files
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          branch: feat-auto-${{ github.event.comment.id }}
-          commit_message: "[CI] Added missing movie"
-          commit_options: '--no-verify --signoff'
-          create_branch: true
-          file_pattern: config/*.yml config/*.yaml
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
-          title: "[CI] Added ${{ github.event.issue.title}} "
-          delete_branch: true
-          branch: feat-auto-${{ github.event.comment.id }}
+          title: "[CI] Added ${{ github.event.issue.title}}"
+          commit_message: "[CI] Added ${{ github.event.issue.title}}"
+          branch: "feat-auto-${{ github.event.comment.id }}"
           base: main
