@@ -1,0 +1,17 @@
+name: Comment Action
+
+on:
+  issue_comment:
+
+jobs:
+  issue_commented:
+    name: Issue Comment
+    if: ${{ !github.event.issue.pull_request }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+      - name: Add Movie
+        run: ./add_movie.sh ${{ github.event.issue.title }} ${{ github.event.comment.body }}
