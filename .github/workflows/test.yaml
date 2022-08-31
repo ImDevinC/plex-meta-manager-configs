@@ -3,9 +3,6 @@ name: Lint
 on:
   pull_request:
     branches: [main]
-    paths: 
-      - 'config/*.yaml'
-      - 'config/*.yml'
   workflow_dispatch:
 
 jobs:
