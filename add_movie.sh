@@ -5,7 +5,7 @@ MOVIE_NAME=$1
 TEMP_URL=$2
 
 expected_content_type="image/jpeg"
-content_type=$(curl -s -I -o /dev/null -w '%{content_type}' ${TEMP_URL})
+content_type=$(curl -sL -I -o /dev/null -w '%{content_type}' ${TEMP_URL})
 
 check_url=$(echo ${TEMP_URL} | grep "performed_by")
 if [ ! -z ${check_url} ]; then
