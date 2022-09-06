@@ -24,8 +24,8 @@ jobs:
           branch: "feat-auto-${{ github.event.comment.id }}"
           base: main
           body: "Fixes #${{ github.event.issue.number }}"
-          env:
-            GITHUB_TOKEN: ${{ secrets.REPO_PAT }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.REPO_PAT }}
       - name: Enable Auto-merge
         uses: peter-evans/enable-pull-request-automerge@v2
         with:
