@@ -6,7 +6,7 @@ on:
 jobs:
   issue_commented:
     name: Issue Comment
-    if: ${{ !github.event.issue.pull_request }}
+    if: ${{ !github.event.issue.pull_request && github.event.comment.user.login == 'ImDevinC' }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
