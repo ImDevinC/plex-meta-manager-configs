@@ -5,6 +5,7 @@ MOVIE_NAME=$1
 TEMP_URL=$2
 
 expected_content_type="image/jpeg"
+expected_content_type_png="image/png"
 content_type=$(curl -sL -I -o /dev/null -w '%{content_type}' ${TEMP_URL})
 
 check_url=$(echo ${TEMP_URL} | grep "performed_by")
@@ -14,7 +15,7 @@ fi
 
 MOVIE_NAME=$(echo ${MOVIE_NAME} | sed 's/^Missing poster for movie //')
 
-if [ "${content_type}" != "${expected_content_type}" ]; then
+if [ "${content_type}" != "${expected_content_type}"  ] && [ "${content_type}" != "${expected_content_type_png}" ]; then
 	echo "Invalid content type returned for URL ${TEMP_URL}: \`${content_type}\`"
 	exit 1
 fi
