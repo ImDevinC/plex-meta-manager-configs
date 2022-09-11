@@ -2904,7 +2904,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/228998
   The Wind Rises:
     url_poster: https://theposterdb.com/api/assets/23924
-
   My Neighbor Totoro:
     url_poster: https://theposterdb.com/api/assets/23908
   Ponyo:
@@ -2913,6 +2912,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/23911
   When Marnie Was There:
     url_poster: https://theposterdb.com/api/assets/51630
+  Grave of the Fireflies:
+    url_poster: https://theposterdb.com/api/assets/51613
   Envy:
     url_poster: https://theposterdb.com/api/assets/256790
   Kiki's Delivery Service:
