@@ -9,7 +9,6 @@ templates:
     smart_label: release.desc
     sort_title: +5_<<collection_name>>
     collection_mode: hide
-    collection_order: alpha
   director:
     smart_filter:
       all:
