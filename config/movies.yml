@@ -27,6 +27,10 @@ collections:
     template: {name: studio, company: 16934}
     summary: View Askew Productions is an American film and television production company founded by Kevin Smith and Scott Mosier in 1994.
     url_poster: https://theposterdb.com/api/assets/47526
+  Studio Ghibli:
+    template: {name: studio, company: 10342}
+    summary: Studio Ghibli Inc. is a Japanese animation film studio headquartered in Koganei, Tokyo. It is best known for its animated feature films, and has also produced several short subjects, television commercials, and two television films.
+    url_poster: https://theposterdb.com/api/assets/67350
   Edgar Wright:
     template: {name: director, person: 11090}
   Quentin Tarantino:
