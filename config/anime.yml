@@ -60,4 +60,12 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/127822
       4:
         url_poster: https://theposterdb.com/api/assets/140889
-
+  Dragon Ball GT:
+    url_poster: https://theposterdb.com/api/assets/127784
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/127815
+      2:
+        url_poster: https://theposterdb.com/api/assets/127817
+      3:
+        url_poster: https://theposterdb.com/api/assets/127819
