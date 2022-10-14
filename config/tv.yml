@@ -162,3 +162,12 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/267016
       6:
         url_poster: https://theposterdb.com/api/assets/141360
+  The Newsroom:
+    url_poster: https://theposterdb.com/api/assets/252042
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/182384
+      2:
+        url_poster: https://theposterdb.com/api/assets/182385
+      3:
+        url_poster: https://theposterdb.com/api/assets/182386
