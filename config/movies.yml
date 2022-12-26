@@ -1553,6 +1553,7 @@ metadata:
     sort_title: Kingsman 1
   Knives Out:
     url_poster: https://theposterdb.com/api/assets/54502
+    sort_title: Knives Out 1
   Knock Knock:
     url_poster: https://theposterdb.com/api/assets/73607
   'Kong: Skull Island':
@@ -2970,3 +2971,4 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/300986
   'Glass Onion: A Knives Out Mystery':
     url_poster: https://theposterdb.com/api/assets/301035
+    sort_title: Knives Out 2
