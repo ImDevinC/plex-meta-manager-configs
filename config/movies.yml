@@ -374,7 +374,7 @@ metadata:
   The Boss Baby:
     url_poster: https://theposterdb.com/api/assets/74009
     sort_title: Boss Baby 1
-  'The Boss Baby: Family Business':
+  'The Boss Baby 2: Family Business':
     url_poster: https://theposterdb.com/api/assets/112518
     sort_title: Boss Baby 2
   The Bourne Identity:
@@ -488,7 +488,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/28582
   Children of the Corn:
     url_poster: https://www.themoviedb.org/t/p/original/l9w2y7KyEu2ed5nohsZnrKxapE3.jpg
-  "Chip 'n' Dale: Rescue Rangers":
+  "Chip 'n Dale: Rescue Rangers":
     url_poster: https://theposterdb.com/api/assets/236479
   CHIPS:
     url_poster: https://theposterdb.com/api/assets/45939
@@ -1025,7 +1025,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/87284
   A Goofy Movie:
     url_poster: https://theposterdb.com/api/assets/156535
-  'Goosebumps 2: Haunted Halloween':
+  "Goosebumps 2: Slappy's Revenge":
     url_poster: https://theposterdb.com/api/assets/13948
   The Grand Budapest Hotel:
     url_poster: https://theposterdb.com/api/assets/54311
@@ -1291,16 +1291,16 @@ metadata:
   Ice Age:
     url_poster: https://theposterdb.com/api/assets/137
     sort_title: Ice Age 1
-  'Ice Age 2: The Meltdown':
+  'Ice Age: The Meltdown':
     url_poster: https://theposterdb.com/api/assets/138
     sort_title: Ice Age 2
-  'Ice Age 3: Dawn of the Dinosaurs':
+  'Ice Age: Dawn of the Dinosaurs':
     url_poster: https://theposterdb.com/api/assets/139
     sort_title: Ice Age 3
-  'Ice Age 4: Continental Drift':
+  'Ice Age: Continental Drift':
     url_poster: https://theposterdb.com/api/assets/140
     sort_title: Ice Age 4
-  'Ice Age 5: Collision Course':
+  'Ice Age: Collision Course':
     url_poster: https://theposterdb.com/api/assets/141
     sort_title: Ice Age 5
   The Ice Harvest:
@@ -1504,7 +1504,7 @@ metadata:
   Jurassic World:
     url_poster: https://theposterdb.com/api/assets/17155
     sort_title: Jurassic Park 4
-  Jurassic World Dominion:
+  "Jurassic World: Dominion":
     url_poster: https://theposterdb.com/api/assets/248695
     sort_title: Jurassic Park 6
   'Jurassic World: Fallen Kingdom':
@@ -1845,7 +1845,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/223899
   Mr. Right:
     url_poster: https://theposterdb.com/api/assets/48364
-  Mrs Harris Goes to Paris:
+  Mrs. Harris Goes to Paris:
     url_poster: https://theposterdb.com/api/assets/240547
   Mulan (1998):
     url_poster: https://theposterdb.com/api/assets/156209
@@ -1984,7 +1984,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/17757
   On the Basis of Sex:
     url_poster: https://www.themoviedb.org/t/p/original/izY9Le3QWtu7xkHq7bjJnuE5yGI.jpg
-  Once Upon a Time... In Hollywood:
+  Once Upon a Time In Hollywood:
     url_poster: https://theposterdb.com/api/assets/31980
   One Crazy Summer:
     url_poster: https://theposterdb.com/api/assets/109807
@@ -2099,7 +2099,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/140267
     title: Point Break
     year: 2015
-  Pokémon Detective Pikachu:
+  "Pokémon: Detective Pikachu":
     url_poster: https://theposterdb.com/api/assets/172
   'Pokémon the Movie: I Choose You!':
     url_poster: https://theposterdb.com/api/assets/168531
@@ -2267,7 +2267,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/137220
   Scary Stories to Tell in the Dark:
     url_poster: https://theposterdb.com/api/assets/65099
-  'Scooby-Doo: A New Universe':
+  Scoob!:
     url_poster: https://theposterdb.com/api/assets/53864
   Scoop:
     url_poster: https://theposterdb.com/api/assets/173610
@@ -2487,7 +2487,7 @@ metadata:
   Star Trek Into Darkness:
     url_poster: https://theposterdb.com/api/assets/21282
     sort_title: Star Trek 2
-  Star Wars:
+  "Star Wars: Episode IV - A New Hope":
     url_poster: https://theposterdb.com/api/assets/438
     sort_title: Star Wars 4
   'Star Wars: Episode I - The Phantom Menace':
@@ -2499,9 +2499,6 @@ metadata:
   'Star Wars: Episode III - Revenge of the Sith':
     url_poster: https://theposterdb.com/api/assets/443
     sort_title: Star Wars 3
-  'Star Wars: Episode IX - The Rise of Skywalker':
-    url_poster: https://theposterdb.com/api/assets/26161
-    sort_title: Star Wars 9
   'Star Wars: Episode V - The Empire Strikes Back':
     url_poster: https://theposterdb.com/api/assets/439
     sort_title: Star Wars 5
@@ -2514,6 +2511,9 @@ metadata:
   'Star Wars: Episode VIII - The Last Jedi':
     url_poster: https://theposterdb.com/api/assets/447
     sort_title: Star Wars 8
+  'Star Wars: Episode IX - The Rise of Skywalker':
+    url_poster: https://theposterdb.com/api/assets/26161
+    sort_title: Star Wars 9
   Starship Troopers:
     url_poster: https://theposterdb.com/api/assets/5526
   Step Brothers:
@@ -2709,7 +2709,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/77963
   Valerian and the City of a Thousand Planets:
     url_poster: https://theposterdb.com/api/assets/61870
-  Van Wilder:
+  National Lampoon's Van Wilder:
     url_poster: https://theposterdb.com/api/assets/79584
   The VelociPastor:
     url_poster: https://www.themoviedb.org/t/p/original/trSmNw63luh84MBy5XLH0UiN1BC.jpg
@@ -2961,7 +2961,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/288903
   Black Adam:
     url_poster: https://theposterdb.com/api/assets/265469
-  The Guardians of the Galaxy Holiday Special:
+  "The Guardians of the Galaxy: Holiday Special":
     url_poster: https://theposterdb.com/api/assets/282263
   Ticket to Paradise:
     url_poster: https://theposterdb.com/api/assets/254985
@@ -2969,7 +2969,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/246029
   Strange World:
     url_poster: https://theposterdb.com/api/assets/300986
-  'Glass Onion: A Knives Out Mystery':
+  'Glass Onion':
     url_poster: https://theposterdb.com/api/assets/301035
     sort_title: Knives Out 2
   Primal Fear:
@@ -2978,3 +2978,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/113767
   The Menu:
     url_poster: https://theposterdb.com/api/assets/274026
+  Fist Fight:
+    url_poster: https://theposterdb.com/api/assets/38755
+  Avatar:
+    url_poster: https://theposterdb.com/api/assets/23951
