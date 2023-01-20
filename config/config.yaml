@@ -1,7 +1,7 @@
 settings:
   custom_repo: https://github.com/ImDevinC/plex-meta-manager-configs
 plex:
-  url: http://plex-ct.collins.home:32400
+  url: http://plex.mediaserver:32400
   token: ${PMM_PLEX_TOKEN}
 tmdb:
   apikey: ${PMM_TMDB_TOKEN}
@@ -22,7 +22,7 @@ libraries:
     metadata_path:
       - repo: /main/config/anime
 radarr:
-  url: http://radarr:7878/radarr
+  url: http://radarr.mediaserver:7878/radarr
   token: ${PMM_RADARR_TOKEN}
   add: false
   monitor: true
