@@ -98,13 +98,13 @@ metadata:
     url_poster: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uoQlWrYVERlifyUjDVUHiSu2ELo.jpg
     seasons:
       1:
-        url_poster:
+        url_poster: https://theposterdb.com/api/assets/253020
       2:
-        url_poster:
+        url_poster: https://theposterdb.com/api/assets/253021
       3:
-        url_poster:
+        url_poster: https://theposterdb.com/api/assets/253022
       4:
-        url_poster:
+        url_poster: https://theposterdb.com/api/assets/253023
   Rick and Morty:
     url_poster: https://theposterdb.com/api/assets/29456
     seasons:
@@ -162,12 +162,3 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/267016
       6:
         url_poster: https://theposterdb.com/api/assets/141360
-  The Newsroom:
-    url_poster: https://theposterdb.com/api/assets/252042
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/182384
-      2:
-        url_poster: https://theposterdb.com/api/assets/182385
-      3:
-        url_poster: https://theposterdb.com/api/assets/182386

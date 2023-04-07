@@ -20,16 +20,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/69028
       5:
         url_poster: https://theposterdb.com/api/assets/130013
-  Gurren Lagann:
-    url_poster: https://theposterdb.com/api/assets/85239
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/145624
-  "How Heavy Are the Dumbbells You Lift?":
-    url_poster: https://theposterdb.com/api/assets/132023
-    seasons:
-      1:
-        url_poster: https://theposterdb.com/api/assets/204956
   Mobile Suit Gundam:
     url_poster: https://theposterdb.com/api/assets/1501
     seasons:

@@ -990,10 +990,14 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/39538
   Ghost World:
     url_poster: https://theposterdb.com/api/assets/73545
-  Ghostbusters (1984):
+  Ghostbusters1:
+    title: Ghostbusters
+    year: 1984
     url_poster: https://theposterdb.com/api/assets/39549
     sort_title: Ghostbusters 1
-  Ghostbusters (2016):
+  Ghostbusters2:
+    title: Ghostbusters
+    year: 2016
     url_poster: https://theposterdb.com/api/assets/166360
     sort_title: Ghostbusters Reboot
   Ghostbusters II:
@@ -1991,7 +1995,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/17757
   On the Basis of Sex:
     url_poster: https://www.themoviedb.org/t/p/original/izY9Le3QWtu7xkHq7bjJnuE5yGI.jpg
-  Once Upon a Time In Hollywood:
+  Once Upon a Time in Hollywood:
     url_poster: https://theposterdb.com/api/assets/31980
   One Crazy Summer:
     url_poster: https://theposterdb.com/api/assets/109807
@@ -2989,8 +2993,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/38755
   Avatar:
     url_poster: https://theposterdb.com/api/assets/23951
-  Once Upon a Time in Hollywood:
-    url_poster: https://theposterdb.com/api/assets/31980
   You People:
     url_poster: https://theposterdb.com/api/assets/313894
   'Black Panther: Wakanda Forever':
