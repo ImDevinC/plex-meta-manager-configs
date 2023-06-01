@@ -21,3 +21,4 @@ if [ "${content_type}" != "${expected_content_type}"  ] && [ "${content_type}" !
 fi
 
 temp_url=${TEMP_URL} metadata_path=".metadata.[\"${MOVIE_NAME}\"].url_poster" yq -i 'eval(strenv(metadata_path)) = strenv(temp_url)' config/movies.yml
+yq -i 'sort_keys(.metadata)' config/movies.yml
