@@ -1462,14 +1462,17 @@ metadata:
   John Tucker Must Die:
     url_poster: https://theposterdb.com/api/assets/44530
   John Wick:
-    url_poster: https://theposterdb.com/api/assets/11591
+    url_poster: https://theposterdb.com/api/assets/20711
     sort_title: John Wick 1
   'John Wick: Chapter 2':
-    url_poster: https://theposterdb.com/api/assets/11592
+    url_poster: https://theposterdb.com/api/assets/20712
     sort_title: John Wick 2
   'John Wick: Chapter 3 - Parabellum':
-    url_poster: https://theposterdb.com/api/assets/11593
+    url_poster: https://theposterdb.com/api/assets/20713
     sort_title: John Wick 3
+  'John Wick: Chapter 4':
+    url_poster: https://theposterdb.com/api/assets/326803
+    sort_title: John Wick 4
   Jojo Rabbit:
     url_poster: https://theposterdb.com/api/assets/66643
   Joker:
@@ -3063,5 +3066,3 @@ metadata:
     url_poster: https://www.themoviedb.org/t/p/original/gcc4Le4DtmnxYObH0zUcJ5jyP9l.jpg
   "65":
     url_poster: https://theposterdb.com/api/assets/297623
-  'John Wick: Chapter 4':
-    url_poster: https://theposterdb.com/api/assets/326803
