@@ -657,6 +657,8 @@ metadata:
   'Dragon Ball Super: Broly':
     sort_title: Dragon Ball Super 3
     url_poster: https://theposterdb.com/api/assets/126845
+  'Dragon Ball Super: Super Hero':
+    url_poster: https://theposterdb.com/api/assets/200014
   'Dragon Ball Z: Bardock - The Father of Goku':
     sort_title: Dragon Ball Z 15
     url_poster: https://theposterdb.com/api/assets/126827
