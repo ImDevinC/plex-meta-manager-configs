@@ -13,7 +13,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/181198
       3:
         url_poster: https://theposterdb.com/api/assets/181199
-  'Food Wars! Shokugeki no Soma':
+  "Food Wars! Shokugeki no Soma":
     url_poster: https://theposterdb.com/api/assets/69024
     seasons:
       4:
@@ -59,3 +59,14 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/127817
       3:
         url_poster: https://theposterdb.com/api/assets/127819
+  Yu Yu Hakusho:
+    url_poster: https://theposterdb.com/api/assets/100471/download
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/100473/download
+      2:
+        url_poster: https://theposterdb.com/api/assets/100474/download
+      3:
+        url_poster: https://theposterdb.com/api/assets/100475/download
+      4:
+        url_poster: https://theposterdb.com/api/assets/100476/download
