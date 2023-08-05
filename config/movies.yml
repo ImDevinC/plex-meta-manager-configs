@@ -308,6 +308,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/170462
   Barbarian:
     url_poster: https://theposterdb.com/api/assets/252533
+  Barbie:
+    url_poster: https://theposterdb.com/api/assets/388617
   Batman Begins:
     url_poster: https://theposterdb.com/api/assets/22276
     sort_title: Dark Knight 1
