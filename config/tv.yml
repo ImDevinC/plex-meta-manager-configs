@@ -200,3 +200,8 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/125122
       7:
         url_poster: https://theposterdb.com/api/assets/268506
+  "The Great British Bake Off":
+    url_poster: https://theposterdb.com/api/assets/7176
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/415719
