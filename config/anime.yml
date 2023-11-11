@@ -62,6 +62,8 @@ metadata:
   Yu Yu Hakusho:
     url_poster: https://theposterdb.com/api/assets/100471/download
     seasons:
+      Specials:
+        url_poster: https://theposterdb.com/api/assets/254487/download
       1:
         url_poster: https://theposterdb.com/api/assets/100473/download
       2:
