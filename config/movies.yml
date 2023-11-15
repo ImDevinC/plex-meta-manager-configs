@@ -2376,6 +2376,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/109482
   The Crazies:
     url_poster: https://theposterdb.com/api/assets/75988
+  The Creator:
+    url_poster: https://www.themoviedb.org/t/p/original/vBZ0qvaRxqEhZwl6LWmruJqWE8Z.jpg
   The Croods:
     url_poster: https://theposterdb.com/api/assets/113465
   The Curse of La Llorona:
@@ -3114,10 +3116,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/82838
   Youth in Revolt:
     url_poster: https://www.themoviedb.org/t/p/original/3J48x7Utjx0sdYIvjsMWnlEbxpV.jpg
-  'Yu Yu Hakusho: The Movie - The Golden Seal':
-    url_poster: https://theposterdb.com/api/assets/64790
   'Yu Yu Hakusho: Poltergeist Report':
     url_poster: https://theposterdb.com/api/assets/64795
+  'Yu Yu Hakusho: The Movie - The Golden Seal':
+    url_poster: https://theposterdb.com/api/assets/64790
   Zack and Miri Make a Porno:
     url_poster: https://theposterdb.com/api/assets/70442
   'Zenon: Girl of the 21st Century':
