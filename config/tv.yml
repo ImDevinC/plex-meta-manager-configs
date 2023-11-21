@@ -110,7 +110,7 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/47885
-      21:
+      2:
         url_poster: https://theposterdb.com/api/assets/47886
       3:
         url_poster: https://theposterdb.com/api/assets/47887
@@ -203,7 +203,7 @@ metadata:
   "The Great British Bake Off":
     url_poster: https://theposterdb.com/api/assets/7176
     seasons:
-      1:
+      14:
         url_poster: https://theposterdb.com/api/assets/415719
   "Scott Pilgrim Takes Off":
     url_poster: https://theposterdb.com/api/assets/433051
