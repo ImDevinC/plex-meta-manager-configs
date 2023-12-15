@@ -1,5 +1,5 @@
 metadata:
-  'Avatar: The Last Airbender':
+  "Avatar: The Last Airbender":
     url_poster: https://theposterdb.com/api/assets/58044
     seasons:
       1:
@@ -210,3 +210,8 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/433049
+  Yu Yu Hakusho:
+    url_poster: https://theposterdb.com/api/assets/443416
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/443417
