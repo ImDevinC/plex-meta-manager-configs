@@ -1,7 +1,6 @@
 templates:
   tmdb_collections:
     minimum_items: 3
-    tmdb_collection_details: <<tmdb_collection>>
   studio:
     optional: [company]
     tmdb_company: <<company>>
