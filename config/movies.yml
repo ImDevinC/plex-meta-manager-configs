@@ -18,25 +18,25 @@ templates:
     collection_mode: hide
 collections:
   A24 Collection:
-    template: {name: studio, company: 41077}
+    template: { name: studio, company: 41077 }
     summary: A24 is an American independent entertainment company founded on August 20, 2012, by Daniel Katz, David Fenkel, and John Hodges and based in New York City. It specializes in film distribution, and film and television production.
     url_poster: https://theposterdb.com/api/assets/49079
   View Askew Collection:
-    template: {name: studio, company: 16934}
+    template: { name: studio, company: 16934 }
     summary: View Askew Productions is an American film and television production company founded by Kevin Smith and Scott Mosier in 1994.
     url_poster: https://theposterdb.com/api/assets/47526
   Studio Ghibli Collection:
-    template: {name: studio, company: 10342}
+    template: { name: studio, company: 10342 }
     summary: Studio Ghibli Inc. is a Japanese animation film studio headquartered in Koganei, Tokyo. It is best known for its animated feature films, and has also produced several short subjects, television commercials, and two television films.
     url_poster: https://theposterdb.com/api/assets/67350
   Disney Animated Collection:
-    template: {name: studio, company: 6125}
+    template: { name: studio, company: 6125 }
     summary: Walt Disney Animation Studios is an American animation studio that creates animated features and short films for The Walt Disney Company.
     url_poster: https://theposterdb.com/api/assets/103270
   Edgar Wright Collection:
-    template: {name: director, person: 11090}
+    template: { name: director, person: 11090 }
   Quentin Tarantino Collection:
-    template: {name: director, person: 138}
+    template: { name: director, person: 138 }
   "MCU: Infinity Saga":
     letterboxd_list: https://letterboxd.com/imdevinc/list/mcu-infinity-saga/
     collection_order: custom
@@ -72,14 +72,14 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/42465
   12 Monkeys:
     url_poster: https://theposterdb.com/api/assets/21895
-  '1917':
+  "1917":
     url_poster: https://theposterdb.com/api/assets/48473
   2 Fast 2 Furious:
     url_poster: https://theposterdb.com/api/assets/166164
     sort_title: Fast and Furious 2
-  '2001: A Space Odyssey':
+  "2001: A Space Odyssey":
     url_poster: https://theposterdb.com/api/assets/21636
-  '21':
+  "21":
     url_poster: https://theposterdb.com/api/assets/47137
   21 & Over:
     url_poster: https://theposterdb.com/api/assets/74762
@@ -143,15 +143,15 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/74993
   About Time:
     url_poster: https://theposterdb.com/api/assets/22657
-  'Abraham Lincoln: Vampire Hunter':
+  "Abraham Lincoln: Vampire Hunter":
     url_poster: https://theposterdb.com/api/assets/34627
   Absolutely Anything:
     url_poster: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tnBt9yPCQwnXLwioqfgnL5hqGM6.jpg
   Accepted:
     url_poster: https://theposterdb.com/api/assets/259222
-  'Ace Ventura: Pet Detective':
+  "Ace Ventura: Pet Detective":
     url_poster: https://theposterdb.com/api/assets/106500
-  'Ace Ventura: When Nature Calls':
+  "Ace Ventura: When Nature Calls":
     url_poster: https://theposterdb.com/api/assets/106501
   Ad Astra:
     url_poster: https://theposterdb.com/api/assets/18915
@@ -181,7 +181,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/12391
   Alice, Darling:
     url_poster: https://theposterdb.com/api/assets/315955
-  'Alita: Battle Angel':
+  "Alita: Battle Angel":
     url_poster: https://theposterdb.com/api/assets/208
   Allegiant:
     url_poster: https://theposterdb.com/api/assets/13845
@@ -198,10 +198,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/158031
   Amsterdam:
     url_poster: https://theposterdb.com/api/assets/270959
-  'Anchorman 2: The Legend Continues':
+  "Anchorman 2: The Legend Continues":
     url_poster: https://theposterdb.com/api/assets/13975
     sort_title: Anchorman 2
-  'Anchorman: The Legend of Ron Burgundy':
+  "Anchorman: The Legend of Ron Burgundy":
     url_poster: https://theposterdb.com/api/assets/13974
     sort_title: Anchorman 1
   Angel Has Fallen:
@@ -218,7 +218,7 @@ metadata:
   Annabelle:
     url_poster: https://theposterdb.com/api/assets/34569
     sort_title: Annabelle 1
-  'Annabelle: Creation':
+  "Annabelle: Creation":
     url_poster: https://theposterdb.com/api/assets/23528
     sort_title: Annabelle 2
   Ant-Man:
@@ -227,7 +227,7 @@ metadata:
   Ant-Man and the Wasp:
     url_poster: https://theposterdb.com/api/assets/5932
     sort_title: Ant-Man 2
-  'Ant-Man and the Wasp: Quantumania':
+  "Ant-Man and the Wasp: Quantumania":
     url_poster: https://theposterdb.com/api/assets/307210
   Antz:
     url_poster: https://theposterdb.com/api/assets/144386
@@ -245,36 +245,36 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/42522
   Asteroid City:
     url_poster: https://theposterdb.com/api/assets/360568
-  'Atlantis: The Lost Empire':
+  "Atlantis: The Lost Empire":
     url_poster: https://theposterdb.com/api/assets/156213
   Atomic Blonde:
     url_poster: https://theposterdb.com/api/assets/73697
   Attack on Titan:
     url_poster: https://theposterdb.com/api/assets/24281
     sort_title: Attack on Titan 1
-  'Attack on Titan II: End of the World':
+  "Attack on Titan II: End of the World":
     url_poster: https://theposterdb.com/api/assets/24282
     sort_title: Attack on Titan 2
   Austin Powers in Goldmember:
     url_poster: https://theposterdb.com/api/assets/13972
     sort_title: Austin Powers 3
-  'Austin Powers: International Man of Mystery':
+  "Austin Powers: International Man of Mystery":
     url_poster: https://theposterdb.com/api/assets/13970
     sort_title: Austin Powers 1
-  'Austin Powers: The Spy Who Shagged Me':
+  "Austin Powers: The Spy Who Shagged Me":
     url_poster: https://theposterdb.com/api/assets/13971
     sort_title: Austin Powers 2
   Avatar:
     url_poster: https://theposterdb.com/api/assets/23951
-  'Avatar: The Way of Water':
+  "Avatar: The Way of Water":
     url_poster: https://theposterdb.com/api/assets/267822
-  'Avengers: Age of Ultron':
+  "Avengers: Age of Ultron":
     url_poster: https://theposterdb.com/api/assets/81759
     sort_title: Avengers 2
-  'Avengers: Endgame':
+  "Avengers: Endgame":
     url_poster: https://theposterdb.com/api/assets/6919
     sort_title: Avengers 4
-  'Avengers: Infinity War':
+  "Avengers: Infinity War":
     url_poster: https://theposterdb.com/api/assets/8345
     sort_title: Avengers 3
   Away We Go:
@@ -316,11 +316,11 @@ metadata:
     sort_title: Dark Knight 1
   Batman Ninja:
     url_poster: https://theposterdb.com/api/assets/27313
-  'Batman v Superman: Dawn of Justice':
+  "Batman v Superman: Dawn of Justice":
     url_poster: https://theposterdb.com/api/assets/140765
-  'Batman: Gotham by Gaslight':
+  "Batman: Gotham by Gaslight":
     url_poster: https://theposterdb.com/api/assets/171469
-  'Batman: The Killing Joke':
+  "Batman: The Killing Joke":
     url_poster: https://theposterdb.com/api/assets/71161
   Baywatch:
     url_poster: https://theposterdb.com/api/assets/27549
@@ -369,7 +369,7 @@ metadata:
     url_poster: https://www.themoviedb.org/t/p/original/u3oWQDz0JggzzsVlsuHY7XVxp5Y.jpg
   Black Panther:
     url_poster: https://theposterdb.com/api/assets/81766
-  'Black Panther: Wakanda Forever':
+  "Black Panther: Wakanda Forever":
     url_poster: https://theposterdb.com/api/assets/252917
   Black Sheep:
     url_poster: https://theposterdb.com/api/assets/112620
@@ -397,7 +397,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/53651
   Brad's Status:
     url_poster: https://theposterdb.com/api/assets/139434
-  'Brahms: The Boy II':
+  "Brahms: The Boy II":
     url_poster: https://theposterdb.com/api/assets/59415
     sort_title: Boy 2
   Brave:
@@ -428,18 +428,18 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/26931
   Candyman:
     url_poster: https://theposterdb.com/api/assets/178278
-  'Captain America: Civil War':
+  "Captain America: Civil War":
     url_poster: https://theposterdb.com/api/assets/6910
     sort_title: Captain America 3
-  'Captain America: The First Avenger':
+  "Captain America: The First Avenger":
     url_poster: https://theposterdb.com/api/assets/6902
     sort_title: Captain America 1
-  'Captain America: The Winter Soldier':
+  "Captain America: The Winter Soldier":
     url_poster: https://theposterdb.com/api/assets/6906
     sort_title: Captain America 2
   Captain Marvel:
     url_poster: https://theposterdb.com/api/assets/6918
-  'Captain Underpants: The First Epic Movie':
+  "Captain Underpants: The First Epic Movie":
     url_poster: https://theposterdb.com/api/assets/144420
   Cars:
     url_poster: https://theposterdb.com/api/assets/149945
@@ -560,10 +560,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/37897
   Cruella:
     url_poster: https://theposterdb.com/api/assets/132127
-  'D2: The Mighty Ducks':
+  "D2: The Mighty Ducks":
     url_poster: https://theposterdb.com/api/assets/143334
     sort_title: Mighty Ducks 2
-  'D3: The Mighty Ducks':
+  "D3: The Mighty Ducks":
     url_poster: https://theposterdb.com/api/assets/143335
     sort_title: Mighty Ducks 3
   Daddy's Home 2:
@@ -639,7 +639,7 @@ metadata:
   Doctor Strange in the Multiverse of Madness:
     url_poster: https://theposterdb.com/api/assets/226287
     sort_title: Doctor Strange 2
-  'Dodgeball: A True Underdog Story':
+  "Dodgeball: A True Underdog Story":
     url_poster: https://theposterdb.com/api/assets/72054
   Dogma:
     url_poster: https://theposterdb.com/api/assets/61806
@@ -657,70 +657,70 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/76329
   Dr. Horrible's Sing-Along Blog:
     url_poster: https://m.media-amazon.com/images/M/MV5BZTIxZmRmZWItNmI1MS00ZDU3LWE2ZTQtODc1NDE3NjRiYzczXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg
-  'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb':
+  "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb":
     url_poster: https://theposterdb.com/api/assets/63117
   Drag Me to Hell:
     url_poster: https://theposterdb.com/api/assets/68270
-  'Dragon Ball Super: Broly':
+  "Dragon Ball Super: Broly":
     sort_title: Dragon Ball Super 3
     url_poster: https://theposterdb.com/api/assets/126845
-  'Dragon Ball Super: Super Hero':
+  "Dragon Ball Super: Super Hero":
     url_poster: https://theposterdb.com/api/assets/200014
-  'Dragon Ball Z: Bardock - The Father of Goku':
+  "Dragon Ball Z: Bardock - The Father of Goku":
     sort_title: Dragon Ball Z 15
     url_poster: https://theposterdb.com/api/assets/126827
-  'Dragon Ball Z: Battle of Gods':
+  "Dragon Ball Z: Battle of Gods":
     sort_title: Dragon Ball Super 1
     url_poster: https://theposterdb.com/api/assets/126843
-  'Dragon Ball Z: Bio-Broly':
+  "Dragon Ball Z: Bio-Broly":
     sort_title: Dragon Ball Z 11
     url_poster: https://theposterdb.com/api/assets/126837
-  'Dragon Ball Z: Bojack Unbound':
+  "Dragon Ball Z: Bojack Unbound":
     sort_title: Dragon Ball Z 9
     url_poster: https://theposterdb.com/api/assets/126834
-  'Dragon Ball Z: Broly – Second Coming':
+  "Dragon Ball Z: Broly – Second Coming":
     sort_title: Dragon Ball Z 10
     url_poster: https://theposterdb.com/api/assets/126836
-  'Dragon Ball Z: Broly – The Legendary Super Saiyan':
+  "Dragon Ball Z: Broly – The Legendary Super Saiyan":
     sort_title: Dragon Ball Z 8
     url_poster: https://theposterdb.com/api/assets/126833
   "Dragon Ball Z: Cooler's Revenge":
     sort_title: Dragon Ball Z 5
     url_poster: https://theposterdb.com/api/assets/126829
-  'Dragon Ball Z: Dead Zone':
+  "Dragon Ball Z: Dead Zone":
     sort_title: Dragon Ball Z 1
     url_poster: https://theposterdb.com/api/assets/126824
-  'Dragon Ball Z: Fusion Reborn':
+  "Dragon Ball Z: Fusion Reborn":
     sort_title: Dragon Ball Z 12
     url_poster: https://theposterdb.com/api/assets/126838
-  'Dragon Ball Z: Lord Slug':
+  "Dragon Ball Z: Lord Slug":
     sort_title: Dragon Ball Z 4
     url_poster: https://theposterdb.com/api/assets/126828
   "Dragon Ball Z: Resurrection 'F'":
     sort_title: Dragon Ball Super 2
     url_poster: https://theposterdb.com/api/assets/126844
-  'Dragon Ball Z: Super Android 13!':
+  "Dragon Ball Z: Super Android 13!":
     sort_title: Dragon Ball Z 7
     url_poster: https://theposterdb.com/api/assets/126831
-  'Dragon Ball Z: The History of Trunks':
+  "Dragon Ball Z: The History of Trunks":
     sort_title: Dragon Ball Z 1
     url_poster: https://theposterdb.com/api/assets/126832
-  'Dragon Ball Z: The Return of Cooler':
+  "Dragon Ball Z: The Return of Cooler":
     sort_title: Dragon Ball Z 6
     url_poster: https://theposterdb.com/api/assets/126830
-  'Dragon Ball Z: The Tree of Might':
+  "Dragon Ball Z: The Tree of Might":
     sort_title: Dragon Ball Z 3
     url_poster: https://theposterdb.com/api/assets/126826
   "Dragon Ball Z: The World's Strongest":
     sort_title: Dragon Ball Z 2
     url_poster: https://theposterdb.com/api/assets/126825
-  'Dragon Ball Z: Wrath of the Dragon':
+  "Dragon Ball Z: Wrath of the Dragon":
     sort_title: Dragon Ball Z 13
     url_poster: https://theposterdb.com/api/assets/126839
-  'Dragon Ball: Episode of Bardock':
+  "Dragon Ball: Episode of Bardock":
     sort_title: Dragon Ball Z 14
     url_poster: https://theposterdb.com/api/assets/126899
-  'Dragon Wars: D-War':
+  "Dragon Wars: D-War":
     url_poster: https://www.themoviedb.org/t/p/original/cYFYF4zDRb6GrAupky0EVlp82IN.jpg
   Dragonball Evolution:
     url_poster: https://theposterdb.com/api/assets/128594
@@ -728,11 +728,11 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/35641
   Drive:
     url_poster: https://theposterdb.com/api/assets/62078
-  'Drive My Car':
+  "Drive My Car":
     url_poster: https://theposterdb.com/api/assets/220304
   Driven:
     url_poster: https://theposterdb.com/api/assets/11321
-  'DuckTales the Movie: Treasure of the Lost Lamp':
+  "DuckTales the Movie: Treasure of the Lost Lamp":
     url_poster: https://theposterdb.com/api/assets/204340
   Dude, Where's My Car?:
     url_poster: https://theposterdb.com/api/assets/76362
@@ -750,7 +750,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/40258
   Dune:
     url_poster: https://theposterdb.com/api/assets/168154
-  'Dungeons & Dragons: Honor Among Thieves':
+  "Dungeons & Dragons: Honor Among Thieves":
     url_poster: https://theposterdb.com/api/assets/294889
   Easy A:
     url_poster: https://theposterdb.com/api/assets/13611
@@ -785,7 +785,7 @@ metadata:
   Escape Room:
     url_poster: https://theposterdb.com/api/assets/175228
     sort_title: Escape Room 1
-  'Escape Room: Tournament of Champions':
+  "Escape Room: Tournament of Champions":
     url_poster: https://theposterdb.com/api/assets/157519
     sort_title: Escape Room 2
   Escape from Pretoria:
@@ -806,13 +806,13 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/96981
   Extremely Loud & Incredibly Close:
     url_poster: https://theposterdb.com/api/assets/137751
-  'F9: The Fast Saga':
+  "F9: The Fast Saga":
     url_poster: https://theposterdb.com/api/assets/166199
     sort_title: Fast and Furious 9
   Fantastic Beasts and Where to Find Them:
     url_poster: https://theposterdb.com/api/assets/20352
     sort_title: Fantastic Beasts 1
-  'Fantastic Beasts: The Crimes of Grindelwald':
+  "Fantastic Beasts: The Crimes of Grindelwald":
     url_poster: https://theposterdb.com/api/assets/20353
     sort_title: Fantastic Beasts 2
   "Fantastic Beasts: The Secrets of Dumbledore":
@@ -826,7 +826,7 @@ metadata:
   Fast & Furious 6:
     url_poster: https://theposterdb.com/api/assets/39027
     sort_title: Fast and Furious 6
-  'Fast & Furious Presents: Hobbs & Shaw':
+  "Fast & Furious Presents: Hobbs & Shaw":
     url_poster: https://theposterdb.com/api/assets/38966
   Fast Color:
     url_poster: https://theposterdb.com/api/assets/13370
@@ -857,7 +857,7 @@ metadata:
   Final Destination 5:
     url_poster: https://theposterdb.com/api/assets/891
     sort_title: Final Destination 5
-  'Final Fantasy VII: Advent Children':
+  "Final Fantasy VII: Advent Children":
     url_poster: https://theposterdb.com/api/assets/11331
   Finding Dory:
     url_poster: https://theposterdb.com/api/assets/149223
@@ -931,7 +931,7 @@ metadata:
     year: 2016
     url_poster: https://theposterdb.com/api/assets/166360
     sort_title: Ghostbusters Reboot
-  'Ghostbusters: Afterlife':
+  "Ghostbusters: Afterlife":
     url_poster: https://theposterdb.com/api/assets/181156
     sort_title: Ghostbusters 3
   Ghosted:
@@ -941,14 +941,14 @@ metadata:
   Glass:
     url_poster: https://theposterdb.com/api/assets/10349
     sort_title: Unbreakable 3
-  'Glass Onion':
+  "Glass Onion":
     url_poster: https://theposterdb.com/api/assets/301035
     sort_title: Knives Out 2
   Gods of Egypt:
     url_poster: https://theposterdb.com/api/assets/120736
   Godzilla vs. Kong:
     url_poster: https://theposterdb.com/api/assets/134491
-  'Godzilla: King of the Monsters':
+  "Godzilla: King of the Monsters":
     url_poster: https://theposterdb.com/api/assets/170353
   Gone Girl:
     url_poster: https://theposterdb.com/api/assets/64099
@@ -1012,15 +1012,15 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/215484
   Hardcore Henry:
     url_poster: https://theposterdb.com/api/assets/91311
-  'Harry Potter 20th Anniversary: Return to Hogwarts':
+  "Harry Potter 20th Anniversary: Return to Hogwarts":
     url_poster: https://theposterdb.com/api/assets/198017
   Harry Potter and the Chamber of Secrets:
     url_poster: https://theposterdb.com/api/assets/1869
     sort_title: Harry Potter 2
-  'Harry Potter and the Deathly Hallows: Part 1':
+  "Harry Potter and the Deathly Hallows: Part 1":
     url_poster: https://theposterdb.com/api/assets/1874
     sort_title: Harry Potter 7
-  'Harry Potter and the Deathly Hallows: Part 2':
+  "Harry Potter and the Deathly Hallows: Part 2":
     url_poster: https://theposterdb.com/api/assets/1875
     sort_title: Harry Potter 8
   Harry Potter and the Goblet of Fire:
@@ -1080,7 +1080,7 @@ metadata:
   Home Alone:
     url_poster: https://theposterdb.com/api/assets/50688
     sort_title: Home Alone 1
-  'Home Alone 2: Lost in New York':
+  "Home Alone 2: Lost in New York":
     url_poster: https://theposterdb.com/api/assets/50689
     sort_title: Home Alone 2
   Honk for Jesus. Save Your Soul.:
@@ -1113,10 +1113,10 @@ metadata:
   Hotel Transylvania 2:
     url_poster: https://theposterdb.com/api/assets/38496
     sort_title: Hotel Transylvania 2
-  'Hotel Transylvania 3: Summer Vacation':
+  "Hotel Transylvania 3: Summer Vacation":
     url_poster: https://theposterdb.com/api/assets/20461
     sort_title: Hotel Transylvania 3
-  'Hotel Transylvania 4: Transformania':
+  "Hotel Transylvania 4: Transformania":
     url_poster: https://theposterdb.com/api/assets/158206
     sort_title: Hotel Transylvania 4
   How Do You Know:
@@ -1135,7 +1135,7 @@ metadata:
   How to Train Your Dragon 2:
     url_poster: https://theposterdb.com/api/assets/30
     sort_title: How to Train Your Dragon 2
-  'How to Train Your Dragon: The Hidden World':
+  "How to Train Your Dragon: The Hidden World":
     url_poster: https://theposterdb.com/api/assets/95989
     sort_title: How to Train Your Dragon 3
   Howl's Moving Castle:
@@ -1157,16 +1157,16 @@ metadata:
   Ice Age:
     url_poster: https://theposterdb.com/api/assets/137
     sort_title: Ice Age 1
-  'Ice Age: Collision Course':
+  "Ice Age: Collision Course":
     url_poster: https://theposterdb.com/api/assets/141
     sort_title: Ice Age 5
-  'Ice Age: Continental Drift':
+  "Ice Age: Continental Drift":
     url_poster: https://theposterdb.com/api/assets/140
     sort_title: Ice Age 4
-  'Ice Age: Dawn of the Dinosaurs':
+  "Ice Age: Dawn of the Dinosaurs":
     url_poster: https://theposterdb.com/api/assets/139
     sort_title: Ice Age 3
-  'Ice Age: The Meltdown':
+  "Ice Age: The Meltdown":
     url_poster: https://theposterdb.com/api/assets/138
     sort_title: Ice Age 2
   Idiocracy:
@@ -1193,7 +1193,7 @@ metadata:
   Independence Day:
     url_poster: https://theposterdb.com/api/assets/15118
     sort_title: Independence Day 1
-  'Independence Day: Resurgence':
+  "Independence Day: Resurgence":
     url_poster: https://theposterdb.com/api/assets/15119
     sort_title: Independence Day 2
   Inglourious Basterds:
@@ -1207,16 +1207,16 @@ metadata:
   Insidious:
     url_poster: https://theposterdb.com/api/assets/44804
     sort_title: Insidious 1
-  'Insidious: Chapter 2':
+  "Insidious: Chapter 2":
     url_poster: https://theposterdb.com/api/assets/44805
     sort_title: Insidious 2
-  'Insidious: Chapter 3':
+  "Insidious: Chapter 3":
     url_poster: https://theposterdb.com/api/assets/66185
     sort_title: Insidious 3
-  'Insidious: The Last Key':
+  "Insidious: The Last Key":
     url_poster: https://theposterdb.com/api/assets/66186
     sort_title: Insidious 4
-  'Insidious: The Red Door':
+  "Insidious: The Red Door":
     url_poster: https://theposterdb.com/api/assets/391918
   Instant Family:
     url_poster: https://theposterdb.com/api/assets/6535
@@ -1252,7 +1252,7 @@ metadata:
   Jack Reacher:
     url_poster: https://theposterdb.com/api/assets/84014
     sort_title: Jack Reacher 1
-  'Jack Reacher: Never Go Back':
+  "Jack Reacher: Never Go Back":
     url_poster: https://theposterdb.com/api/assets/63699
     sort_title: Jack Reacher 2
   Jack the Giant Slayer:
@@ -1291,20 +1291,20 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/36121
   Jiu Jitsu:
     url_poster: https://www.themoviedb.org/t/p/original/eLT8Cu357VOwBVTitkmlDEg32Fs.jpg
-  'Joe Dirt 2: Beautiful Loser':
+  "Joe Dirt 2: Beautiful Loser":
     url_poster: https://theposterdb.com/api/assets/46624
   John Tucker Must Die:
     url_poster: https://theposterdb.com/api/assets/44530
   John Wick:
     url_poster: https://theposterdb.com/api/assets/20711
     sort_title: John Wick 1
-  'John Wick: Chapter 2':
+  "John Wick: Chapter 2":
     url_poster: https://theposterdb.com/api/assets/20712
     sort_title: John Wick 2
-  'John Wick: Chapter 3 - Parabellum':
+  "John Wick: Chapter 3 - Parabellum":
     url_poster: https://theposterdb.com/api/assets/20713
     sort_title: John Wick 3
-  'John Wick: Chapter 4':
+  "John Wick: Chapter 4":
     url_poster: https://theposterdb.com/api/assets/326803
     sort_title: John Wick 4
   Jojo Rabbit:
@@ -1313,7 +1313,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/36607
   Jolt:
     url_poster: https://theposterdb.com/api/assets/163663
-  'Journey 2: The Mysterious Island':
+  "Journey 2: The Mysterious Island":
     url_poster: https://theposterdb.com/api/assets/7149
     sort_title: Journey to the Center of the Earth 2
   Journey to the Center of the Earth:
@@ -1327,10 +1327,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/95392
   Jumanji:
     url_poster: https://theposterdb.com/api/assets/8781
-  'Jumanji: The Next Level':
+  "Jumanji: The Next Level":
     url_poster: https://theposterdb.com/api/assets/46699
     sort_title: Jumanji 2
-  'Jumanji: Welcome to the Jungle':
+  "Jumanji: Welcome to the Jungle":
     url_poster: https://theposterdb.com/api/assets/8782
     sort_title: Jumanji 1
   Jumper:
@@ -1351,7 +1351,7 @@ metadata:
   "Jurassic World: Dominion":
     url_poster: https://theposterdb.com/api/assets/248695
     sort_title: Jurassic Park 6
-  'Jurassic World: Fallen Kingdom':
+  "Jurassic World: Fallen Kingdom":
     url_poster: https://theposterdb.com/api/assets/17156
     sort_title: Jurassic Park 5
   Just Getting Started:
@@ -1380,12 +1380,12 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/191022
   Kingpin:
     url_poster: https://theposterdb.com/api/assets/47827
-  'Kingsglaive: Final Fantasy XV':
+  "Kingsglaive: Final Fantasy XV":
     url_poster: https://theposterdb.com/api/assets/21157
-  'Kingsman: The Golden Circle':
+  "Kingsman: The Golden Circle":
     url_poster: https://theposterdb.com/api/assets/50364
     sort_title: Kingsman 2
-  'Kingsman: The Secret Service':
+  "Kingsman: The Secret Service":
     url_poster: https://theposterdb.com/api/assets/50363
     sort_title: Kingsman 1
   Kiss Kiss Bang Bang:
@@ -1395,7 +1395,7 @@ metadata:
     sort_title: Knives Out 1
   Knock Knock:
     url_poster: https://theposterdb.com/api/assets/73607
-  'Kong: Skull Island':
+  "Kong: Skull Island":
     url_poster: https://theposterdb.com/api/assets/16642
   Krampus:
     url_poster: https://theposterdb.com/api/assets/45224
@@ -1405,7 +1405,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/80864
   Kung Fu Panda 3:
     url_poster: https://theposterdb.com/api/assets/53719
-  'Kung Pow: Enter the Fist':
+  "Kung Pow: Enter the Fist":
     url_poster: https://theposterdb.com/api/assets/59942
   La La Land:
     url_poster: https://theposterdb.com/api/assets/42820
@@ -1472,12 +1472,12 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/312484
   Machete:
     url_poster: https://theposterdb.com/api/assets/42912
-  'Mad Max: Fury Road':
+  "Mad Max: Fury Road":
     url_poster: https://theposterdb.com/api/assets/11949
   Maleficent:
     url_poster: https://theposterdb.com/api/assets/45133
     sort_title: Maleficent 1
-  'Maleficent: Mistress of Evil':
+  "Maleficent: Mistress of Evil":
     url_poster: https://theposterdb.com/api/assets/45132
     sort_title: Maleficent 2
   Malignant:
@@ -1502,10 +1502,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/71951
   Max Payne:
     url_poster: https://theposterdb.com/api/assets/107205
-  'Maze Runner: The Death Cure':
+  "Maze Runner: The Death Cure":
     url_poster: https://theposterdb.com/api/assets/177
     sort_title: Maze Runner 3
-  'Maze Runner: The Scorch Trials':
+  "Maze Runner: The Scorch Trials":
     url_poster: https://theposterdb.com/api/assets/176
     sort_title: Maze Runner 2
   Me Before You:
@@ -1516,7 +1516,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/175536
   Mean Girls:
     url_poster: https://theposterdb.com/api/assets/48320
-  'Mechanic: Resurrection':
+  "Mechanic: Resurrection":
     url_poster: https://theposterdb.com/api/assets/38281
     sort_title: Mechanic 2
   Meet Bill:
@@ -1525,7 +1525,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/267767
   Meet the Robinsons:
     url_poster: https://theposterdb.com/api/assets/152830
-  'Meg 2: The Trench':
+  "Meg 2: The Trench":
     url_poster: https://theposterdb.com/api/assets/401362
   Memento:
     url_poster: https://theposterdb.com/api/assets/52628
@@ -1538,7 +1538,7 @@ metadata:
   Men in Black II:
     url_poster: https://theposterdb.com/api/assets/16552
     sort_title: Men in Black 2
-  'Men in Black: International':
+  "Men in Black: International":
     url_poster: https://theposterdb.com/api/assets/16554
     sort_title: Men in Black 4
   Midsommar:
@@ -1553,10 +1553,10 @@ metadata:
     sort_title: Minions 2
   Miss Peregrine's Home for Peculiar Children:
     url_poster: https://theposterdb.com/api/assets/28831
-  'Mission: Impossible - Fallout':
+  "Mission: Impossible - Fallout":
     url_poster: https://theposterdb.com/api/assets/12124
     sort_title: Mission Impossible 6
-  'Mission: Impossible - Ghost Protocol':
+  "Mission: Impossible - Ghost Protocol":
     url_poster: https://theposterdb.com/api/assets/12122
     sort_title: Mission Impossible 4
   Moana:
@@ -1564,10 +1564,10 @@ metadata:
   Mobile Suit Gundam I:
     url_poster: https://theposterdb.com/api/assets/1394
     sort_title: Mobile Suit Gundam 1
-  'Mobile Suit Gundam II: Soldiers of Sorrow':
+  "Mobile Suit Gundam II: Soldiers of Sorrow":
     url_poster: https://theposterdb.com/api/assets/1395
     sort_title: Mobile Suit Gundam 2
-  'Mobile Suit Gundam III: Encounters in Space':
+  "Mobile Suit Gundam III: Encounters in Space":
     url_poster: https://theposterdb.com/api/assets/1396
     sort_title: Mobile Suit Gundam 3
   Money Monster:
@@ -1616,10 +1616,10 @@ metadata:
     year: 2020
   Murder on the Orient Express:
     url_poster: https://theposterdb.com/api/assets/212862
-  'My Hero Academia: Heroes Rising':
+  "My Hero Academia: Heroes Rising":
     url_poster: https://theposterdb.com/api/assets/126292
     sort_title: My Hero Academia 1
-  'My Hero Academia: Two Heroes':
+  "My Hero Academia: Two Heroes":
     url_poster: https://theposterdb.com/api/assets/126291
     sort_title: My Hero Academia 2
   My Neighbor Totoro:
@@ -1637,7 +1637,7 @@ metadata:
   National Treasure:
     url_poster: https://theposterdb.com/api/assets/11461
     sort_title: National Treasure 1
-  'National Treasure: Book of Secrets':
+  "National Treasure: Book of Secrets":
     url_poster: https://theposterdb.com/api/assets/11462
     sort_title: National Treasure 2
   Nausicaä of the Valley of the Wind:
@@ -1645,7 +1645,7 @@ metadata:
   Neighbors:
     url_poster: https://theposterdb.com/api/assets/92863
     sort_title: Neighbors 1
-  'Neighbors 2: Sorority Rising':
+  "Neighbors 2: Sorority Rising":
     url_poster: https://theposterdb.com/api/assets/92864
     sort_title: Neighbors 2
   Nerve:
@@ -1657,10 +1657,10 @@ metadata:
   Night at the Museum:
     url_poster: https://theposterdb.com/api/assets/865
     sort_title: Night at the Museum 1
-  'Night at the Museum: Battle of the Smithsonian':
+  "Night at the Museum: Battle of the Smithsonian":
     url_poster: https://theposterdb.com/api/assets/867
     sort_title: Night at the Museum 3
-  'Night at the Museum: Secret of the Tomb':
+  "Night at the Museum: Secret of the Tomb":
     url_poster: https://theposterdb.com/api/assets/866
     sort_title: Night at the Museum 2
   Nightcrawler:
@@ -1737,7 +1737,7 @@ metadata:
   Ouija:
     url_poster: https://theposterdb.com/api/assets/82104
     sort_title: Ouija 1
-  'Ouija: Origin of Evil':
+  "Ouija: Origin of Evil":
     url_poster: https://theposterdb.com/api/assets/82105
     sort_title: Ouija 2
   Over the Hedge:
@@ -1764,13 +1764,13 @@ metadata:
   Paranormal Activity 4:
     url_poster: https://theposterdb.com/api/assets/51105
     sort_title: Paranormal Activity 4
-  'Paranormal Activity: Next of Kin':
+  "Paranormal Activity: Next of Kin":
     url_poster: https://theposterdb.com/api/assets/185903
     sort_title: Paranormal Activity 7
-  'Paranormal Activity: The Ghost Dimension':
+  "Paranormal Activity: The Ghost Dimension":
     url_poster: https://theposterdb.com/api/assets/51107
     sort_title: Paranormal Activity 6
-  'Paranormal Activity: The Marked Ones':
+  "Paranormal Activity: The Marked Ones":
     url_poster: https://theposterdb.com/api/assets/51106
     sort_title: Paranormal Activity 5
   Parasite:
@@ -1803,13 +1803,13 @@ metadata:
   "Pirates of the Caribbean: Dead Man's Chest":
     url_poster: https://theposterdb.com/api/assets/86023
     sort_title: Pirates of the Caribbean 2
-  'Pirates of the Caribbean: Dead Men Tell No Tales':
+  "Pirates of the Caribbean: Dead Men Tell No Tales":
     url_poster: https://theposterdb.com/api/assets/86026
     sort_title: Pirates of the Caribbean 5
-  'Pirates of the Caribbean: On Stranger Tides':
+  "Pirates of the Caribbean: On Stranger Tides":
     url_poster: https://theposterdb.com/api/assets/86025
     sort_title: Pirates of the Caribbean 4
-  'Pirates of the Caribbean: The Curse of the Black Pearl':
+  "Pirates of the Caribbean: The Curse of the Black Pearl":
     url_poster: https://theposterdb.com/api/assets/86022
     sort_title: Pirates of the Caribbean 1
   Pitch Perfect:
@@ -1823,7 +1823,7 @@ metadata:
     sort_title: Pitch Perfect 3
   Pleasantville:
     url_poster: https://theposterdb.com/api/assets/127974
-  'Please Don''t Destroy: The Treasure of Foggy Mountain':
+  "Please Don't Destroy: The Treasure of Foggy Mountain":
     url_poster: https://theposterdb.com/api/assets/420834
   Point Break (1991):
     url_poster: https://theposterdb.com/api/assets/82970
@@ -1833,15 +1833,15 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/140267
     title: Point Break
     year: 2015
-  'Pokémon the Movie: I Choose You!':
+  "Pokémon the Movie: I Choose You!":
     url_poster: https://theposterdb.com/api/assets/168531
   "Pokémon: Detective Pikachu":
     url_poster: https://theposterdb.com/api/assets/172
-  'Pokémon: The Movie 2000':
+  "Pokémon: The Movie 2000":
     url_poster: https://theposterdb.com/api/assets/201114
   Ponyo:
     url_poster: https://theposterdb.com/api/assets/199784
-  'Popstar: Never Stop Never Stopping':
+  "Popstar: Never Stop Never Stopping":
     url_poster: https://theposterdb.com/api/assets/13834
   Porco Rosso:
     url_poster: https://theposterdb.com/api/assets/199747
@@ -1870,7 +1870,7 @@ metadata:
     sort_title: SLC Punk 2
   Push:
     url_poster: https://theposterdb.com/api/assets/72735
-  'Puss in Boots: The Last Wish':
+  "Puss in Boots: The Last Wish":
     url_poster: https://theposterdb.com/api/assets/306266
   Queenpins:
     url_poster: https://theposterdb.com/api/assets/179417
@@ -1908,19 +1908,19 @@ metadata:
   Resident Evil:
     url_poster: https://theposterdb.com/api/assets/11304
     sort_title: Resident Evil 1
-  'Resident Evil: Afterlife':
+  "Resident Evil: Afterlife":
     url_poster: https://theposterdb.com/api/assets/53070
     sort_title: Resident Evil 4
-  'Resident Evil: Apocalypse':
+  "Resident Evil: Apocalypse":
     url_poster: https://theposterdb.com/api/assets/11305
     sort_title: Resident Evil 2
-  'Resident Evil: Extinction':
+  "Resident Evil: Extinction":
     url_poster: https://theposterdb.com/api/assets/11306
     sort_title: Resident Evil 3
-  'Resident Evil: Retribution':
+  "Resident Evil: Retribution":
     sort_title: Resident Evil 5
     url_poster: https://theposterdb.com/api/assets/11308
-  'Resident Evil: The Final Chapter':
+  "Resident Evil: The Final Chapter":
     sort_title: Resident Evil 6
     url_poster: https://theposterdb.com/api/assets/11309
   Revenge of the Nerds:
@@ -1953,7 +1953,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/47588
   RocknRolla:
     url_poster: https://theposterdb.com/api/assets/55025
-  'Rogue One: A Star Wars Story':
+  "Rogue One: A Star Wars Story":
     url_poster: https://theposterdb.com/api/assets/446
     sort_title: Star Wars 7.5
   Role Models:
@@ -2046,7 +2046,7 @@ metadata:
   Sherlock Holmes:
     url_poster: https://theposterdb.com/api/assets/115537
     sort_title: Sherlock Holmes 1
-  'Sherlock Holmes: A Game of Shadows':
+  "Sherlock Holmes: A Game of Shadows":
     url_poster: https://theposterdb.com/api/assets/115538
     sort_title: Sherlock Holmes 2
   Shoot 'Em Up:
@@ -2098,7 +2098,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/52192
   Snowden:
     url_poster: https://theposterdb.com/api/assets/27195
-  'Solo: A Star Wars Story':
+  "Solo: A Star Wars Story":
     url_poster: https://theposterdb.com/api/assets/448
     sort_title: Star Wars 8.5
   Somebody I Used to Know:
@@ -2111,11 +2111,11 @@ metadata:
     sort_title: Sonic the Hedgehog 2
   Source Code:
     url_poster: https://theposterdb.com/api/assets/41179
-  'South Park: Post COVID':
+  "South Park: Post COVID":
     url_poster: https://theposterdb.com/api/assets/192487
   Space Jam:
     url_poster: https://theposterdb.com/api/assets/134001
-  'Space Jam: A New Legacy':
+  "Space Jam: A New Legacy":
     url_poster: https://theposterdb.com/api/assets/163416
   Spaceballs:
     url_poster: https://theposterdb.com/api/assets/157139
@@ -2125,7 +2125,7 @@ metadata:
   Speed:
     url_poster: https://theposterdb.com/api/assets/55593
     sort_title: Speed 1
-  'Speed 2: Cruise Control':
+  "Speed 2: Cruise Control":
     url_poster: https://theposterdb.com/api/assets/55594
     sort_title: Speed 2
   Speed Racer:
@@ -2139,17 +2139,17 @@ metadata:
   Spider-Man 3:
     url_poster: https://theposterdb.com/api/assets/149
     sort_title: Spider-Man 3
-  'Spider-Man: Across the Spider-Verse':
+  "Spider-Man: Across the Spider-Verse":
     url_poster: https://theposterdb.com/api/assets/369437
-  'Spider-Man: Far from Home':
+  "Spider-Man: Far from Home":
     url_poster: https://theposterdb.com/api/assets/916
     sort_title: Spider-man MCU 2
-  'Spider-Man: Homecoming':
+  "Spider-Man: Homecoming":
     url_poster: https://theposterdb.com/api/assets/6913
     sort_title: Spider-man MCU 1
-  'Spider-Man: Into the Spider-Verse':
+  "Spider-Man: Into the Spider-Verse":
     url_poster: https://theposterdb.com/api/assets/36952
-  'Spider-Man: No Way Home':
+  "Spider-Man: No Way Home":
     url_poster: https://theposterdb.com/api/assets/188167
     sort_title: Spider-man MCU 3
   Spin Me Round:
@@ -2176,31 +2176,31 @@ metadata:
   Star Trek Into Darkness:
     url_poster: https://theposterdb.com/api/assets/21282
     sort_title: Star Trek 2
-  'Star Wars: Episode I - The Phantom Menace':
+  "Star Wars: Episode I - The Phantom Menace":
     url_poster: https://theposterdb.com/api/assets/441
     sort_title: Star Wars 1
-  'Star Wars: Episode II - Attack of the Clones':
+  "Star Wars: Episode II - Attack of the Clones":
     url_poster: https://theposterdb.com/api/assets/442
     sort_title: Star Wars 2
-  'Star Wars: Episode III - Revenge of the Sith':
+  "Star Wars: Episode III - Revenge of the Sith":
     url_poster: https://theposterdb.com/api/assets/443
     sort_title: Star Wars 3
   "Star Wars: Episode IV - A New Hope":
     url_poster: https://theposterdb.com/api/assets/438
     sort_title: Star Wars 4
-  'Star Wars: Episode IX - The Rise of Skywalker':
+  "Star Wars: Episode IX - The Rise of Skywalker":
     url_poster: https://theposterdb.com/api/assets/26161
     sort_title: Star Wars 9
-  'Star Wars: Episode V - The Empire Strikes Back':
+  "Star Wars: Episode V - The Empire Strikes Back":
     url_poster: https://theposterdb.com/api/assets/439
     sort_title: Star Wars 5
-  'Star Wars: Episode VI - Return of the Jedi':
+  "Star Wars: Episode VI - Return of the Jedi":
     url_poster: https://theposterdb.com/api/assets/440
     sort_title: Star Wars 6
-  'Star Wars: Episode VII - The Force Awakens':
+  "Star Wars: Episode VII - The Force Awakens":
     url_poster: https://theposterdb.com/api/assets/445
     sort_title: Star Wars 7
-  'Star Wars: Episode VIII - The Last Jedi':
+  "Star Wars: Episode VIII - The Last Jedi":
     url_poster: https://theposterdb.com/api/assets/447
     sort_title: Star Wars 8
   Starship Troopers:
@@ -2209,7 +2209,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/20381
   Steve Jobs:
     url_poster: https://theposterdb.com/api/assets/66072
-  'Still: A Michael J. Fox Movie':
+  "Still: A Michael J. Fox Movie":
     url_poster: https://theposterdb.com/api/assets/361420
   Storks:
     url_poster: https://theposterdb.com/api/assets/143234
@@ -2235,7 +2235,7 @@ metadata:
     sort_title: Super Troopers 2
   Superbad:
     url_poster: https://theposterdb.com/api/assets/87264
-  'Superman: Red Son':
+  "Superman: Red Son":
     url_poster: https://theposterdb.com/api/assets/55848
   "Sweeney Todd: The Demon Barber of Fleet Street":
     url_poster: https://theposterdb.com/api/assets/60958
@@ -2245,23 +2245,23 @@ metadata:
     url_poster: https://www.themoviedb.org/t/p/original/wGHoYDswvx96PVF43qFErVAnQHS.jpg
   Tag:
     url_poster: https://theposterdb.com/api/assets/50129
-  'Talladega Nights: The Ballad of Ricky Bobby':
+  "Talladega Nights: The Ballad of Ricky Bobby":
     url_poster: https://theposterdb.com/api/assets/91450
   Tangled:
     url_poster: https://theposterdb.com/api/assets/152843
-  'Taylor Swift: The Eras Tour':
+  "Taylor Swift: The Eras Tour":
     url_poster: https://theposterdb.com/api/assets/442827
   Teen Spirit:
     url_poster: https://www.themoviedb.org/t/p/original/aFPqJZ9vOcH7QroNxXV5wefX2qe.jpg
-  'Teenage Mutant Ninja Turtles: Mutant Mayhem':
+  "Teenage Mutant Ninja Turtles: Mutant Mayhem":
     url_poster: https://theposterdb.com/api/assets/379102
-  'Teenage Mutant Ninja Turtles: Out of the Shadows':
+  "Teenage Mutant Ninja Turtles: Out of the Shadows":
     url_poster: https://theposterdb.com/api/assets/10566
   Ten Thousand Saints:
     url_poster: https://www.themoviedb.org/t/p/original/hYIntlx1Dm44aJFAWVqE8ArQcDm.jpg
   Tenet:
     url_poster: https://theposterdb.com/api/assets/52637
-  'Terminator: Dark Fate':
+  "Terminator: Dark Fate":
     url_poster: https://theposterdb.com/api/assets/26467
   Tesla:
     url_poster: https://theposterdb.com/api/assets/113405
@@ -2321,7 +2321,7 @@ metadata:
   The Boondock Saints:
     url_poster: https://theposterdb.com/api/assets/14745
     sort_title: Boondock Saints 1
-  'The Boondock Saints II: All Saints Day':
+  "The Boondock Saints II: All Saints Day":
     url_poster: https://theposterdb.com/api/assets/14746
     sort_title: Boondock Saints 2
   The Borrowers:
@@ -2329,7 +2329,7 @@ metadata:
   The Boss Baby:
     url_poster: https://theposterdb.com/api/assets/74009
     sort_title: Boss Baby 1
-  'The Boss Baby 2: Family Business':
+  "The Boss Baby 2: Family Business":
     url_poster: https://theposterdb.com/api/assets/112518
     sort_title: Boss Baby 2
   The Bourne Identity:
@@ -2365,13 +2365,13 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/199754
   The Change-Up:
     url_poster: https://theposterdb.com/api/assets/75339
-  'The Chronicles of Narnia: Prince Caspian':
+  "The Chronicles of Narnia: Prince Caspian":
     url_poster: https://theposterdb.com/api/assets/16795
     sort_title: Chronicles of Narnia 2
-  'The Chronicles of Narnia: The Lion, the Witch and the Wardrobe':
+  "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe":
     url_poster: https://theposterdb.com/api/assets/16794
     sort_title: Chronicles of Narnia 1
-  'The Chronicles of Narnia: The Voyage of the Dawn Treader':
+  "The Chronicles of Narnia: The Voyage of the Dawn Treader":
     url_poster: https://theposterdb.com/api/assets/16796
     sort_title: Chronicles of Narnia 3
   The Circle:
@@ -2384,12 +2384,12 @@ metadata:
   The Conjuring 2:
     url_poster: https://theposterdb.com/api/assets/5440
     sort_title: Conjuring 2
-  'The Conjuring: The Devil Made Me Do It':
+  "The Conjuring: The Devil Made Me Do It":
     url_poster: https://theposterdb.com/api/assets/156243
     sort_title: Conjuring 3
   The Courier:
     url_poster: https://theposterdb.com/api/assets/146395
-  'The Craft: Legacy':
+  "The Craft: Legacy":
     url_poster: https://theposterdb.com/api/assets/109482
   The Crazies:
     url_poster: https://theposterdb.com/api/assets/75988
@@ -2421,7 +2421,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/68481
   The Disaster Artist:
     url_poster: https://theposterdb.com/api/assets/26537
-  'The Divergent Series: Insurgent':
+  "The Divergent Series: Insurgent":
     url_poster: https://theposterdb.com/api/assets/13844
     sort_title: Divergent 2
   The Emperor's New Groove:
@@ -2435,7 +2435,7 @@ metadata:
   The Fast and the Furious:
     url_poster: https://theposterdb.com/api/assets/38958
     sort_title: Fast and Furious 1
-  'The Fast and the Furious: Tokyo Drift':
+  "The Fast and the Furious: Tokyo Drift":
     url_poster: https://theposterdb.com/api/assets/47258
     sort_title: Fast and Furious 3
   The Fate of the Furious:
@@ -2471,7 +2471,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/34082
   The Goldfinch:
     url_poster: https://theposterdb.com/api/assets/14272
-  'The Goods: Live Hard, Sell Hard':
+  "The Goods: Live Hard, Sell Hard":
     url_poster: https://theposterdb.com/api/assets/87284
   The Grand Budapest Hotel:
     url_poster: https://theposterdb.com/api/assets/54311
@@ -2529,13 +2529,13 @@ metadata:
   The Hitman's Bodyguard:
     url_poster: https://theposterdb.com/api/assets/162342
     sort_title: Hitman's Bodyguard 1
-  'The Hobbit: An Unexpected Journey':
+  "The Hobbit: An Unexpected Journey":
     url_poster: https://theposterdb.com/api/assets/1723
     sort_title: Hobbit 1
-  'The Hobbit: The Battle of the Five Armies':
+  "The Hobbit: The Battle of the Five Armies":
     url_poster: https://theposterdb.com/api/assets/35518
     sort_title: Hobbit 3
-  'The Hobbit: The Desolation of Smaug':
+  "The Hobbit: The Desolation of Smaug":
     url_poster: https://theposterdb.com/api/assets/1724
     sort_title: Hobbit 2
   The House:
@@ -2547,16 +2547,16 @@ metadata:
   The Hunger Games:
     url_poster: https://theposterdb.com/api/assets/6978
     sort_title: The Hunger Games 1
-  'The Hunger Games: Catching Fire':
+  "The Hunger Games: Catching Fire":
     url_poster: https://theposterdb.com/api/assets/6979
     sort_title: The Hunger Games 2
-  'The Hunger Games: Mockingjay - Part 1':
+  "The Hunger Games: Mockingjay - Part 1":
     url_poster: https://theposterdb.com/api/assets/6980
     sort_title: The Hunger Games 3
-  'The Hunger Games: Mockingjay - Part 2':
+  "The Hunger Games: Mockingjay - Part 2":
     url_poster: https://theposterdb.com/api/assets/6981
     sort_title: The Hunger Games 4
-  'The Hunger Games: The Ballad of Songbirds & Snakes':
+  "The Hunger Games: The Ballad of Songbirds & Snakes":
     url_poster: https://theposterdb.com/api/assets/445775
   The Hunt:
     url_poster: https://theposterdb.com/api/assets/57164
@@ -2626,7 +2626,7 @@ metadata:
   The Lego Movie:
     url_poster: https://theposterdb.com/api/assets/46060
     sort_title: Lego Movie 1
-  'The Lego Movie 2: The Second Part':
+  "The Lego Movie 2: The Second Part":
     url_poster: https://theposterdb.com/api/assets/10979
     sort_title: Lego Movie 3
   The Lion King (1994):
@@ -2645,20 +2645,20 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/46300
   The Lorax:
     url_poster: https://theposterdb.com/api/assets/202593
-  'The Lord of the Rings: The Fellowship of the Ring':
+  "The Lord of the Rings: The Fellowship of the Ring":
     url_poster: https://theposterdb.com/api/assets/1719
     sort_title: Lord of the Rings 1
-  'The Lord of the Rings: The Return of the King':
+  "The Lord of the Rings: The Return of the King":
     url_poster: https://theposterdb.com/api/assets/1722
     sort_title: Lord of the Rings 3
-  'The Lord of the Rings: The Two Towers':
+  "The Lord of the Rings: The Two Towers":
     url_poster: https://theposterdb.com/api/assets/1721
     sort_title: Lord of the Rings 2
   The Losers:
     url_poster: https://theposterdb.com/api/assets/71074
   The Lost City:
     url_poster: https://theposterdb.com/api/assets/212950
-  'The Lost World: Jurassic Park':
+  "The Lost World: Jurassic Park":
     url_poster: https://theposterdb.com/api/assets/17153
     sort_title: Jurassic Park 2
   The Machinist:
@@ -2716,7 +2716,7 @@ metadata:
   The Mummy Returns:
     url_poster: https://theposterdb.com/api/assets/1043
     sort_title: Mummy 2
-  'The Mummy: Tomb of the Dragon Emperor':
+  "The Mummy: Tomb of the Dragon Emperor":
     url_poster: https://theposterdb.com/api/assets/1044
     sort_title: Mummy 3
   The New Mutants:
@@ -2762,10 +2762,10 @@ metadata:
   The Purge:
     url_poster: https://theposterdb.com/api/assets/8516
     sort_title: Purge 1
-  'The Purge: Anarchy':
+  "The Purge: Anarchy":
     url_poster: https://theposterdb.com/api/assets/8517
     sort_title: Purge 2
-  'The Purge: Election Year':
+  "The Purge: Election Year":
     url_poster: https://theposterdb.com/api/assets/8518
     sort_title: Purge 3
   The Quick and the Dead:
@@ -2783,7 +2783,7 @@ metadata:
   The Scorpion King:
     url_poster: https://theposterdb.com/api/assets/112719
     sort_title: Scorpion King 1
-  'The Scorpion King 2: Rise of a Warrior':
+  "The Scorpion King 2: Rise of a Warrior":
     url_poster: https://theposterdb.com/api/assets/2746
     sort_title: Scorpion King 2
   The Secret Life of Pets:
@@ -2794,7 +2794,7 @@ metadata:
     sort_title: The Secret Life of Pets 2
   The Secret Life of Walter Mitty:
     url_poster: https://theposterdb.com/api/assets/50768
-  'The Seven Deadly Sins: Prisoners of the Sky':
+  "The Seven Deadly Sins: Prisoners of the Sky":
     url_poster: https://theposterdb.com/api/assets/92244
   The Shallows:
     url_poster: https://theposterdb.com/api/assets/55375
@@ -2869,10 +2869,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/152977
   The World's End:
     url_poster: https://theposterdb.com/api/assets/192543
-  'The X Files':
+  "The X Files":
     url_poster: https://theposterdb.com/api/assets/61047
     sort_title: X-Files 1
-  'The X Files: I Want to Believe':
+  "The X Files: I Want to Believe":
     url_poster: https://theposterdb.com/api/assets/61048
     sort_title: X-Files 2
   Thelma:
@@ -2890,12 +2890,12 @@ metadata:
   Thor:
     url_poster: https://theposterdb.com/api/assets/139888
     sort_title: Thor 1
-  'Thor: Love and Thunder':
+  "Thor: Love and Thunder":
     url_poster: https://theposterdb.com/api/assets/228998
-  'Thor: Ragnarok':
+  "Thor: Ragnarok":
     url_poster: https://theposterdb.com/api/assets/905
     sort_title: Thor 3
-  'Thor: The Dark World':
+  "Thor: The Dark World":
     url_poster: https://theposterdb.com/api/assets/6905
     sort_title: Thor 2
   Thoroughbreds:
@@ -2943,16 +2943,16 @@ metadata:
   Transformers:
     url_poster: https://theposterdb.com/api/assets/14176
     sort_title: Transformers 1
-  'Transformers: Age of Extinction':
+  "Transformers: Age of Extinction":
     url_poster: https://theposterdb.com/api/assets/14179
     sort_title: Transformers 4
-  'Transformers: Dark of the Moon':
+  "Transformers: Dark of the Moon":
     url_poster: https://theposterdb.com/api/assets/14178
     sort_title: Transformers 3
-  'Transformers: Revenge of the Fallen':
+  "Transformers: Revenge of the Fallen":
     url_poster: https://theposterdb.com/api/assets/14177
     sort_title: Transformers 2
-  'Transformers: The Last Knight':
+  "Transformers: The Last Knight":
     url_poster: https://theposterdb.com/api/assets/14180
     sort_title: Transformers 5
   Treasure Planet:
@@ -2964,7 +2964,7 @@ metadata:
   Trolls:
     url_poster: https://theposterdb.com/api/assets/61567
     sort_title: Trolls 1
-  'Trolls 2: World Tour':
+  "Trolls 2: World Tour":
     url_poster: https://theposterdb.com/api/assets/61568
     sort_title: Trolls 2
   Trolls Band Together:
@@ -3005,7 +3005,7 @@ metadata:
   Venom:
     url_poster: https://theposterdb.com/api/assets/36899
     sort_title: Venom 1
-  'Venom: Let There Be Carnage':
+  "Venom: Let There Be Carnage":
     url_poster: https://theposterdb.com/api/assets/151305
     sort_title: Venom 2
   Vice:
@@ -3046,7 +3046,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/32425
   Wedding Crashers:
     url_poster: https://www.themoviedb.org/t/p/original/lFM3lk2zVzC1YFnKm0r6LbFPyRu.jpg
-  'Weird: The Al Yankovic Story':
+  "Weird: The Al Yankovic Story":
     url_poster: https://theposterdb.com/api/assets/253373
   Welcome to Marwen:
     url_poster: https://www.themoviedb.org/t/p/original/o45VIAUYDcVCGuzd43l8Sr5Dfti.jpg
@@ -3100,25 +3100,25 @@ metadata:
   X-Men:
     url_poster: https://theposterdb.com/api/assets/6487
     sort_title: X-Men 1
-  'X-Men Origins: Wolverine':
+  "X-Men Origins: Wolverine":
     url_poster: https://theposterdb.com/api/assets/32351
     sort_title: Wolverine 1
-  'X-Men: Apocalypse':
+  "X-Men: Apocalypse":
     url_poster: https://theposterdb.com/api/assets/6492
     sort_title: X-Men Origins 3
-  'X-Men: Dark Phoenix':
+  "X-Men: Dark Phoenix":
     url_poster: https://theposterdb.com/api/assets/15534
     sort_title: X-Men Origins 4
-  'X-Men: Days of Future Past':
+  "X-Men: Days of Future Past":
     url_poster: https://theposterdb.com/api/assets/6491
     sort_title: X-Men Origins 2
-  'X-Men: First Class':
+  "X-Men: First Class":
     url_poster: https://theposterdb.com/api/assets/6490
     sort_title: X-Men Origins 1
-  'X-Men: The Last Stand':
+  "X-Men: The Last Stand":
     url_poster: https://theposterdb.com/api/assets/6489
     sort_title: X-Men 3
-  'X2: X-Men United':
+  "X2: X-Men United":
     url_poster: https://theposterdb.com/api/assets/6488
     sort_title: X-Men 2
   Yes Man:
@@ -3137,20 +3137,20 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/82838
   Youth in Revolt:
     url_poster: https://www.themoviedb.org/t/p/original/3J48x7Utjx0sdYIvjsMWnlEbxpV.jpg
-  'Yu Yu Hakusho: Poltergeist Report':
+  "Yu Yu Hakusho: Poltergeist Report":
     url_poster: https://theposterdb.com/api/assets/64795
-  'Yu Yu Hakusho: The Movie - The Golden Seal':
+  "Yu Yu Hakusho: The Movie - The Golden Seal":
     url_poster: https://theposterdb.com/api/assets/64790
   Zack and Miri Make a Porno:
     url_poster: https://theposterdb.com/api/assets/70442
-  'Zenon: Girl of the 21st Century':
+  "Zenon: Girl of the 21st Century":
     url_poster: https://theposterdb.com/api/assets/54471
   Zodiac:
     url_poster: https://theposterdb.com/api/assets/64095
   Zombieland:
     url_poster: https://theposterdb.com/api/assets/36533
     sort_title: Zombieland 1
-  'Zombieland: Double Tap':
+  "Zombieland: Double Tap":
     url_poster: https://theposterdb.com/api/assets/36534
     sort_title: Zombieland 2
   Zookeeper:
@@ -3163,3 +3163,12 @@ metadata:
     sort_title: Zoolander 2
   Zootopia:
     url_poster: https://theposterdb.com/api/assets/152850
+
+
+
+
+
+
+
+
+     
