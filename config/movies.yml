@@ -33,10 +33,6 @@ collections:
     template: {name: studio, company: 6125}
     summary: Walt Disney Animation Studios is an American animation studio that creates animated features and short films for The Walt Disney Company.
     url_poster: https://theposterdb.com/api/assets/103270
-  Edgar Wright Collection:
-    template: {name: director, person: 11090}
-  Quentin Tarantino Collection:
-    template: {name: director, person: 138}
   "MCU: Infinity Saga":
     letterboxd_list: https://letterboxd.com/imdevinc/list/mcu-infinity-saga/
     collection_order: custom
