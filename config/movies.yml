@@ -913,13 +913,13 @@ metadata:
   Ghostbusters II:
     url_poster: https://theposterdb.com/api/assets/181154
     sort_title: Ghostbusters 2
-  Ghostbusters I:
+  Ghostbusters1:
     match:
       title: Ghostbusters
       year: 1984
     url_poster: https://theposterdb.com/api/assets/39549
     sort_title: Ghostbusters 1
-  Ghostbusters II:
+  Ghostbusters2:
     match:
       title: Ghostbusters
       year: 2016
