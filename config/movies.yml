@@ -1,6 +1,4 @@
 templates:
-  tmdb_collections:
-    minimum_items: 3
   studio:
     optional: [company]
     tmdb_company: <<company>>
@@ -45,7 +43,7 @@ collections:
 dynamic_collections:
   "TMDB Collections":
     type: tmdb_collection
-    template: tmdb_collections
+    minimum_items: 3
 metadata:
   10 Cloverfield Lane:
     url_poster: https://theposterdb.com/api/assets/13928
@@ -1052,7 +1050,7 @@ metadata:
   Hercules (2014):
     match:
       title: Hercules
-      year: 204
+      year: 2014
     url_poster: https://www.themoviedb.org/t/p/original/5X3VOy9lD44VclKsWTi8gHZGjhL.jpg
   Hereditary:
     url_poster: https://www.themoviedb.org/t/p/original/jVQhRLSmfHqvCkQXDDmUpn9BOSA.jpg
@@ -1951,9 +1949,6 @@ metadata:
   "Revenge of the Nerds II: Nerds in Paradise":
     url_poster: https://theposterdb.com/api/assets/218933
     sort_title: Revenge of the Nerds 2
-  "Revenge of the Nerds III: The Next Generation":
-    url_poster: https://theposterdb.com/api/assets/218934
-    sort_title: Revenge of the Nerds 3
   "Revenge of the Nerds IV: Nerds in Love":
     url_poster: https://theposterdb.com/api/assets/218935
     sort_title: Revenge of the Nerds 4
@@ -2530,11 +2525,6 @@ metadata:
     match:
       title: The Grudge
       year: 2019
-  The Grudge (2020):
-    url_poster: https://theposterdb.com/api/assets/34994
-    match:
-      title: The Grudge
-      year: 2020
   "The Guardians of the Galaxy: Holiday Special":
     url_poster: https://theposterdb.com/api/assets/282263
   The Guilt Trip:
