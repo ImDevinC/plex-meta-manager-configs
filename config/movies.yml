@@ -146,12 +146,14 @@ metadata:
   Air:
     url_poster: https://theposterdb.com/api/assets/342115
   Aladdin (1992):
-    title: Aladdin
-    year: 1992
+    match:
+      title: Aladdin
+      year: 1992
     url_poster: https://theposterdb.com/api/assets/156204
   Aladdin (2019):
-    title: Aladdin
-    year: 2019
+    match:
+      title: Aladdin
+      year: 2019
     url_poster: https://theposterdb.com/api/assets/44740
   Alexander and the Terrible, Horrible, No Good, Very Bad Day:
     url_poster: https://theposterdb.com/api/assets/6240
@@ -912,13 +914,15 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/181154
     sort_title: Ghostbusters 2
   Ghostbusters1:
-    title: Ghostbusters
-    year: 1984
+    match:
+      title: Ghostbusters
+      year: 1984
     url_poster: https://theposterdb.com/api/assets/39549
     sort_title: Ghostbusters 1
   Ghostbusters2:
-    title: Ghostbusters
-    year: 2016
+    match:
+      title: Ghostbusters
+      year: 2016
     url_poster: https://theposterdb.com/api/assets/166360
     sort_title: Ghostbusters Reboot
   'Ghostbusters: Afterlife':
@@ -1041,13 +1045,15 @@ metadata:
   Her:
     url_poster: https://theposterdb.com/api/assets/54890
   Hercules (1997):
+    match:
+      title: Hercules
+      year: 1997
     url_poster: https://theposterdb.com/api/assets/156208
-    title: Hercules
-    year: 1997
   Hercules (2014):
+    match:
+      title: Hercules
+      year: 204
     url_poster: https://www.themoviedb.org/t/p/original/5X3VOy9lD44VclKsWTi8gHZGjhL.jpg
-    title: Hercules
-    year: 2014
   Hereditary:
     url_poster: https://www.themoviedb.org/t/p/original/jVQhRLSmfHqvCkQXDDmUpn9BOSA.jpg
   Hick:
@@ -1509,8 +1515,14 @@ metadata:
   Me and Earl and the Dying Girl:
     url_poster: https://theposterdb.com/api/assets/175536
   Mean Girls (2004):
+    match:
+      title: Mean Girls
+      year: 2004
     url_poster: https://theposterdb.com/api/assets/48320
   Mean Girls (2024):
+    match:
+      title: Mean Girls
+      year: 2024
     url_poster: https://theposterdb.com/api/assets/452991
   'Mechanic: Resurrection':
     url_poster: https://theposterdb.com/api/assets/38281
@@ -1608,12 +1620,14 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/240547
   Mulan (1998):
     url_poster: https://theposterdb.com/api/assets/156209
-    title: Mulan
-    year: 1998
+    match:
+      title: Mulan
+      year: 1998
   Mulan (2020):
     url_poster: https://theposterdb.com/api/assets/45141
-    title: Mulan
-    year: 2020
+    match:
+      title: Mulan
+      year: 2020
   Murder on the Orient Express:
     url_poster: https://theposterdb.com/api/assets/212862
   'My Hero Academia: Heroes Rising':
@@ -1787,12 +1801,14 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/148214
   Pet Sematary (1989):
     url_poster: https://theposterdb.com/api/assets/107036
-    title: Pet Sematary
-    year: 1989
+    match:
+      title: Pet Sematary
+      year: 1989
   Pet Sematary (2019):
     url_poster: https://theposterdb.com/api/assets/13073
-    title: Pet Sematary
-    year: 2019
+    match:
+      title: Pet Sematary
+      year: 2019
   Pete's Dragon:
     url_poster: https://theposterdb.com/api/assets/45866
   Pi:
@@ -1829,12 +1845,14 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/420834
   Point Break (1991):
     url_poster: https://theposterdb.com/api/assets/82970
-    title: Point Break
-    year: 1991
+    match:
+      title: Point Break
+      year: 1991
   Point Break (2015):
     url_poster: https://theposterdb.com/api/assets/140267
-    title: Point Break
-    year: 2015
+    match:
+      title: Point Break
+      year: 2015
   'Pokémon the Movie: I Choose You!':
     url_poster: https://theposterdb.com/api/assets/168531
   "Pokémon: Detective Pikachu":
@@ -2007,12 +2025,14 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/121450
   Serenity (2005):
     url_poster: https://theposterdb.com/api/assets/75443
-    title: Serenity
-    year: 2005
+    match:
+      title: Serenity
+      year: 2005
   Serenity (2019):
     url_poster: https://theposterdb.com/api/assets/10966
-    title: Serenity
-    year: 2019
+    match:
+      title: Serenity
+      year: 2019
   Seven Pounds:
     url_poster: https://theposterdb.com/api/assets/70807
   Seven Psychopaths:
@@ -2025,16 +2045,19 @@ metadata:
     url_poster: https://www.themoviedb.org/t/p/original/hHtJhevKKC3ZNPslcojfLMecYjo.jpg
   Shaft (1971):
     url_poster: https://theposterdb.com/api/assets/129055
-    title: Shaft
-    year: 1971
+    match:
+      title: Shaft
+      year: 1971
   Shaft (2000):
     url_poster: https://theposterdb.com/api/assets/175795
-    title: Shaft
-    year: 2000
+    match:
+      title: Shaft
+      year: 2000
   Shaft (2019):
     url_poster: https://theposterdb.com/api/assets/52363
-    title: Shaft
-    year: 2019
+    match:
+      title: Shaft
+      year: 2019
   Shang-Chi and the Legend of the Ten Rings:
     url_poster: https://theposterdb.com/api/assets/169495
   Shanghai Knights:
@@ -2499,14 +2522,19 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/40878
   The Grudge (2004):
     url_poster: https://theposterdb.com/api/assets/55513
-    title: The Grudge
-    year: 2004
+    match:
+      title: The Grudge
+      year: 2004
   The Grudge (2019):
     url_poster: https://theposterdb.com/api/assets/202914
+    match:
+      title: The Grudge
+      year: 2019
   The Grudge (2020):
     url_poster: https://theposterdb.com/api/assets/34994
-    title: The Grudge
-    year: 2020
+    match:
+      title: The Grudge
+      year: 2020
   "The Guardians of the Galaxy: Holiday Special":
     url_poster: https://theposterdb.com/api/assets/282263
   The Guilt Trip:
@@ -2605,12 +2633,14 @@ metadata:
     url_poster: https://www.themoviedb.org/t/p/original/rubXTfC67U6FrnNl14QNOElef2E.jpg
   The Jungle Book (1967):
     url_poster: https://theposterdb.com/api/assets/156191
-    title: The Jungle Book
-    year: 1967
+    match:
+      title: The Jungle Book
+      year: 1967
   The Jungle Book (2016):
     url_poster: https://theposterdb.com/api/assets/200071
-    title: The Jungle Book
-    year: 2016
+    match:
+      title: The Jungle Book
+      year: 2016
   The Kid Who Would Be King:
     url_poster: https://theposterdb.com/api/assets/60197
   The King of Staten Island:
@@ -2643,12 +2673,14 @@ metadata:
     sort_title: Lego Movie 3
   The Lion King (1994):
     url_poster: https://theposterdb.com/api/assets/156205
-    title: The Lion King
-    year: 1994
+    match:
+      title: The Lion King
+      year: 1994
   The Lion King (2019):
     url_poster: https://theposterdb.com/api/assets/159373
-    title: The Lion King
-    year: 2019
+    match:
+      title: The Lion King
+      year: 2019
   The Little Mermaid:
     url_poster: https://theposterdb.com/api/assets/156200
   The Lodge:
@@ -2720,13 +2752,15 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/65703
   The Mummy (1999):
     url_poster: https://theposterdb.com/api/assets/1042
-    title: The Mummy
-    year: 1999
+    match:
+      title: The Mummy
+      year: 1999
     sort_title: Mummy 1
   The Mummy (2017):
     url_poster: https://theposterdb.com/api/assets/112718
-    title: The Mummy
-    year: 2017
+    match:
+      title: The Mummy
+      year: 2017
   The Mummy Returns:
     url_poster: https://theposterdb.com/api/assets/1043
     sort_title: Mummy 2
