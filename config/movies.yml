@@ -908,9 +908,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/73545
   Ghost in the Shell:
     url_poster: https://theposterdb.com/api/assets/39538
-  Ghostbusters II:
-    url_poster: https://theposterdb.com/api/assets/181154
-    sort_title: Ghostbusters 2
   Ghostbusters (1984):
     match:
       title: Ghostbusters
@@ -923,6 +920,9 @@ metadata:
       year: 2016
     url_poster: https://theposterdb.com/api/assets/166360
     sort_title: Ghostbusters Reboot
+  Ghostbusters II:
+    url_poster: https://theposterdb.com/api/assets/181154
+    sort_title: Ghostbusters 2
   'Ghostbusters: Afterlife':
     url_poster: https://theposterdb.com/api/assets/181156
     sort_title: Ghostbusters 3
@@ -1407,6 +1407,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/63050
   Lake Placid 2:
     url_poster: https://theposterdb.com/api/assets/74019
+  Lake Placid 3:
+    url_poster: https://theposterdb.com/api/assets/74020
   Last Night in Soho:
     url_poster: https://theposterdb.com/api/assets/176855
   Late Night:
