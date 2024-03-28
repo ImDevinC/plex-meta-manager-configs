@@ -928,6 +928,8 @@ metadata:
   'Ghostbusters: Afterlife':
     url_poster: https://theposterdb.com/api/assets/181156
     sort_title: Ghostbusters 3
+  'Ghostbusters: Frozen Empire':
+    url_poster: https://theposterdb.com/api/assets/452004
   Ghosted:
     url_poster: https://theposterdb.com/api/assets/352530
   Girl in the Basement:
@@ -2621,16 +2623,16 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/151621
   The Invisible Man:
     url_poster: https://theposterdb.com/api/assets/47795
-  The Invitation (2022):
-    url_poster: https://theposterdb.com/api/assets/246029
-    match:
-      title: The Invitation
-      year: 2022
   The Invitation (2015):
     url_poster: https://theposterdb.com/api/assets/151666
     match:
       title: The Invitation
       year: 2015
+  The Invitation (2022):
+    url_poster: https://theposterdb.com/api/assets/246029
+    match:
+      title: The Invitation
+      year: 2022
   The Irishman:
     url_poster: https://theposterdb.com/api/assets/54285
   The Italian Job:
