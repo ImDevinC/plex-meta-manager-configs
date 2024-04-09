@@ -35,6 +35,21 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/173158
       8:
         url_poster: https://theposterdb.com/api/assets/173159
+  Community:
+    url_poster: https://theposterdb.com/api/assets/160357
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/65084
+      2:
+        url_poster: https://theposterdb.com/api/assets/65085
+      3:
+        url_poster: https://theposterdb.com/api/assets/65086
+      4:
+        url_poster: https://theposterdb.com/api/assets/65087
+      5:
+        url_poster: https://theposterdb.com/api/assets/65088
+      6:
+        url_poster: https://theposterdb.com/api/assets/65089
   The League:
     url_poster: https://theposterdb.com/api/assets/127295
     seasons:
