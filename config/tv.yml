@@ -1,5 +1,18 @@
 collections: []
 metadata:
+  Arrested Development:
+    url_poster: https://theposterdb.com/api/assets/46402
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/46403
+      2:
+        url_poster: https://theposterdb.com/api/assets/46404
+      3:
+        url_poster: https://theposterdb.com/api/assets/46405
+      4:
+        url_poster: https://theposterdb.com/api/assets/46406
+      5:
+        url_poster: https://theposterdb.com/api/assets/46407
   "Avatar: The Last Airbender":
     url_poster: https://theposterdb.com/api/assets/58044
     seasons:
