@@ -1646,6 +1646,8 @@ metadata:
       year: 2020
   Murder on the Orient Express:
     url_poster: https://theposterdb.com/api/assets/212862
+  My Dinner with Andre:
+    url_poster: https://image.tmdb.org/t/p/original/u2KB70Xlzwg920mYWlGb18YIatd.jpg
   "My Hero Academia: Heroes Rising":
     url_poster: https://theposterdb.com/api/assets/126292
     sort_title: My Hero Academia 1
