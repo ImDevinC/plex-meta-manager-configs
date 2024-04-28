@@ -4,9 +4,11 @@ services:
   pmm:
     build: .
     entrypoint: python3
-    command: plex_meta_manager.py --config=/config/config.yaml -ro --run
+    command: kometa.py --config=/config/config.yaml -ro --run
     env_file:
       - ./.env
     volumes:
       - /etc/localtime:/etc/localtime:ro
       - ./config:/config
+      - ./assets/:/assets/
+    network_mode: host

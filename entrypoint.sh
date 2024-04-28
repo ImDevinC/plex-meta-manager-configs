@@ -12,7 +12,7 @@ if [ $? -gt 0 ]; then
     exit 1
 fi
 
-/tini -s python3 plex_meta_manager.py -- --config=/config/config.yaml -ro --run
+/tini -s python3 kometa.py -- --config=/config/config.yaml -ro --run
 if [ $? -gt 0 ]; then
     echo "failed to run pmm"
     exit 1
