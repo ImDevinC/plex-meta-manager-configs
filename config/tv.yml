@@ -239,6 +239,27 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/433049
+  The Office:
+    url_poster: https://theposterdb.com/api/assets/139508
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/139509
+      2:
+        url_poster: https://theposterdb.com/api/assets/139510
+      3:
+        url_poster: https://theposterdb.com/api/assets/139511
+      4:
+        url_poster: https://theposterdb.com/api/assets/139512
+      5:
+        url_poster: https://theposterdb.com/api/assets/139513
+      6:
+        url_poster: https://theposterdb.com/api/assets/139514
+      7:
+        url_poster: https://theposterdb.com/api/assets/139515
+      8:
+        url_poster: https://theposterdb.com/api/assets/139516
+      9:
+        url_poster: https://theposterdb.com/api/assets/139517
   Yu Yu Hakusho:
     url_poster: https://theposterdb.com/api/assets/443416
     seasons:
