@@ -1174,6 +1174,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/114126
   I.T.:
     url_poster: https://www.themoviedb.org/t/p/original/A5VrX0pzM2pnPNXwKO3jKTt35ux.jpg
+  IF:
+    url_poster: https://theposterdb.com/api/assets/501297
   Ice Age:
     url_poster: https://theposterdb.com/api/assets/137
     sort_title: Ice Age 1
