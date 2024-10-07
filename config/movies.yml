@@ -599,6 +599,8 @@ metadata:
   Deadpool:
     url_poster: https://theposterdb.com/api/assets/32319
     sort_title: Deadpool 1
+  Deadpool & Wolverine:
+    url_poster: https://theposterdb.com/api/assets/494048
   Deadpool 2:
     url_poster: https://theposterdb.com/api/assets/32320
     sort_title: Deadpool 1
