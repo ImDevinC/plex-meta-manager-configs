@@ -5,6 +5,11 @@ metadata:
     seasons:
       1:
         url_poster: https://theposterdb.com/api/assets/127307
+  Dragon Ball DAIMA:
+    url_poster: https://theposterdb.com/api/assets/526434
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/526435
   FLCL:
     url_poster: https://theposterdb.com/api/assets/168809
     seasons:
