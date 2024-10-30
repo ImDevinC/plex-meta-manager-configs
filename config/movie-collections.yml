@@ -1,5 +1,5 @@
 default_template:
-  tmdb_collection_details: <<tmdb_collection>>
+  tmdb_collection_details: <<value>>
   minimum_items: 3
 
 templates:
