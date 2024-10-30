@@ -11,7 +11,7 @@ COPY . .
 
 RUN go build -o /config-diff ./cmd/diff/main.go
 
-FROM kometateam/kometa:v2.0.0
+FROM kometateam/kometa:v2.1.0
 
 RUN apt-get update && apt-get install git gettext-base -y
 
