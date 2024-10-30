@@ -1,3 +1,7 @@
+default_template:
+  tmdb_collection_details: <<tmdb_collection>>
+  minimum_items: 3
+
 templates:
   studio:
     optional: [company]
@@ -43,4 +47,3 @@ collections:
 dynamic_collections:
   "TMDB Collections":
     type: tmdb_collection
-    minimum_items: 3
