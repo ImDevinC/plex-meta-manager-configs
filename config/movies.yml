@@ -33,7 +33,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/297623
   8 Mile:
     url_poster: https://theposterdb.com/api/assets/42462
-  9 to 5:
+  Nine to Five:
     url_poster: https://www.themoviedb.org/t/p/original/wndwKY8WnSfhCUn7iSXI37dE7yo.jpg
   A Bad Moms Christmas:
     url_poster: https://theposterdb.com/api/assets/32576
@@ -290,7 +290,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/103969
   Belfast:
     url_poster: https://theposterdb.com/api/assets/199890
-  Better Off Dead...:
+  Better Off Dead:
     url_poster: https://theposterdb.com/api/assets/199350
   Big Fish:
     url_poster: https://theposterdb.com/api/assets/33539
@@ -658,7 +658,7 @@ metadata:
   "Dragon Ball Z: Bojack Unbound":
     sort_title: Dragon Ball Z 9
     url_poster: https://theposterdb.com/api/assets/126834
-  "Dragon Ball Z: Broly – Second Coming":
+  "Dragon Ball Z: Broly - Second Coming":
     sort_title: Dragon Ball Z 10
     url_poster: https://theposterdb.com/api/assets/126836
   "Dragon Ball Z: Broly – The Legendary Super Saiyan":
@@ -734,7 +734,7 @@ metadata:
     sort_title: Dumb and Dumber 1
   Dumbo:
     url_poster: https://theposterdb.com/api/assets/40258
-  Dune:
+  'Dune: Part One':
     url_poster: https://theposterdb.com/api/assets/356989
   'Dune: Part Two':
     url_poster: https://theposterdb.com/api/assets/356990
@@ -914,13 +914,13 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/73545
   Ghost in the Shell:
     url_poster: https://theposterdb.com/api/assets/39538
-  Ghostbusters (1984):
+  Ghostbusters:
     match:
       title: Ghostbusters
       year: 1984
     url_poster: https://theposterdb.com/api/assets/39549
     sort_title: Ghostbusters 1
-  Ghostbusters (2016):
+  'Ghostbusters: Answer the Call':
     match:
       title: Ghostbusters
       year: 2016
@@ -960,7 +960,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/164597
   Goodbye Christopher Robin:
     url_poster: https://theposterdb.com/api/assets/79952
-  "Goosebumps 2: Slappy's Revenge":
+  "Goosebumps 2: Haunted Halloween":
     url_poster: https://theposterdb.com/api/assets/13948
   Gran Turismo:
     url_poster: https://theposterdb.com/api/assets/362016
@@ -1128,7 +1128,7 @@ metadata:
   "Hotel Transylvania 3: Summer Vacation":
     url_poster: https://theposterdb.com/api/assets/20461
     sort_title: Hotel Transylvania 3
-  "Hotel Transylvania 4: Transformania":
+  "Hotel Transylvania: Transformania":
     url_poster: https://theposterdb.com/api/assets/158206
     sort_title: Hotel Transylvania 4
   How Do You Know:
@@ -1265,7 +1265,7 @@ metadata:
     sort_title: IT 2
   It Ends with Us:
     url_poster: https://theposterdb.com/api/assets/518958
-  It's Grinch Night:
+  Halloween is Grinch Night:
     url_poster: https://theposterdb.com/api/assets/22527
   It's Kind of a Funny Story:
     url_poster: https://www.themoviedb.org/t/p/original/jAIoL0275PFrx9jrmneWAqmBvtD.jpg
@@ -1370,7 +1370,7 @@ metadata:
   Jurassic World:
     url_poster: https://theposterdb.com/api/assets/17155
     sort_title: Jurassic Park 4
-  "Jurassic World: Dominion":
+  "Jurassic World Dominion":
     url_poster: https://theposterdb.com/api/assets/248695
     sort_title: Jurassic Park 6
   "Jurassic World: Fallen Kingdom":
@@ -1580,7 +1580,7 @@ metadata:
   Men in Black:
     url_poster: https://theposterdb.com/api/assets/16551
     sort_title: Men in Black 1
-  Men in Black 3:
+  "Men in Black³":
     url_poster: https://theposterdb.com/api/assets/16553
     sort_title: Men in Black 3
   Men in Black II:
@@ -1688,9 +1688,9 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/171712
   Mystery Team:
     url_poster: https://www.themoviedb.org/t/p/original/AbqRb1hlCb8jPVqFXL5hwrj8hQO.jpg
-  National Lampoon's Christmas Vacation:
+  Christmas Vacation:
     url_poster: https://theposterdb.com/api/assets/217442
-  National Lampoon's Van Wilder:
+  Van Wilder:
     url_poster: https://theposterdb.com/api/assets/79584
   National Treasure:
     url_poster: https://theposterdb.com/api/assets/11461
@@ -1782,7 +1782,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/17757
   On the Basis of Sex:
     url_poster: https://www.themoviedb.org/t/p/original/izY9Le3QWtu7xkHq7bjJnuE5yGI.jpg
-  Once Upon a Time in Hollywood:
+  Once Upon a Time... in Hollywood:
     url_poster: https://theposterdb.com/api/assets/31980
   One Crazy Summer:
     url_poster: https://theposterdb.com/api/assets/109807
@@ -1905,7 +1905,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/168531
   "Pokémon: Detective Pikachu":
     url_poster: https://theposterdb.com/api/assets/172
-  "Pokémon: The Movie 2000":
+  "Pokémon the Movie 2000":
     url_poster: https://theposterdb.com/api/assets/201114
   Ponyo:
     url_poster: https://theposterdb.com/api/assets/199784
@@ -2274,7 +2274,7 @@ metadata:
   "Star Wars: Episode IV - A New Hope":
     url_poster: https://theposterdb.com/api/assets/438
     sort_title: Star Wars 4
-  "Star Wars: Episode IX - The Rise of Skywalker":
+  "Star Wars: The Rise of Skywalker":
     url_poster: https://theposterdb.com/api/assets/26161
     sort_title: Star Wars 9
   "Star Wars: Episode V - The Empire Strikes Back":
@@ -2427,7 +2427,7 @@ metadata:
   The Boss Baby:
     url_poster: https://theposterdb.com/api/assets/74009
     sort_title: Boss Baby 1
-  "The Boss Baby 2: Family Business":
+  "The Boss Baby: Family Business":
     url_poster: https://theposterdb.com/api/assets/112518
     sort_title: Boss Baby 2
   The Bourne Identity:
@@ -2599,7 +2599,7 @@ metadata:
     match:
       title: The Grudge
       year: 2019
-  "The Guardians of the Galaxy: Holiday Special":
+  "The Guardians of the Galaxy Holiday Special":
     url_poster: https://theposterdb.com/api/assets/282263
   The Guilt Trip:
     url_poster: https://theposterdb.com/api/assets/76217
@@ -3106,7 +3106,7 @@ metadata:
   Trolls:
     url_poster: https://theposterdb.com/api/assets/61567
     sort_title: Trolls 1
-  "Trolls 2: World Tour":
+  "Trolls World Tour":
     url_poster: https://theposterdb.com/api/assets/61568
     sort_title: Trolls 2
   Trolls Band Together:
