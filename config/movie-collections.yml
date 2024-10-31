@@ -1,7 +1,3 @@
-default_template:
-  tmdb_collection_details: <<value>>
-  minimum_items: 3
-
 templates:
   studio:
     optional: [company]
@@ -44,6 +40,3 @@ collections:
     letterboxd_list: https://letterboxd.com/imdevinc/list/mcu-multiverse-saga/
     collection_order: custom
     sync_mode: sync
-dynamic_collections:
-  "TMDB Collections":
-    type: tmdb_collection
