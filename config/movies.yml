@@ -409,6 +409,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/144420
   Carry On:
     url_poster: https://theposterdb.com/api/assets/552016
+  Carry-On:
+    url_poster: https://theposterdb.com/api/assets/552016
   Cars:
     url_poster: https://theposterdb.com/api/assets/149945
     sort_title: Cars 1
