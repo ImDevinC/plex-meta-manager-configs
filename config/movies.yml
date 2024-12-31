@@ -71,6 +71,8 @@ metadata:
     sort_title: A Quiet Place 2
   'A Quiet Place: Day One':
     url_poster: https://theposterdb.com/api/assets/466779
+  A Real Pain:
+    url_poster: https://image.tmdb.org/t/p/original/38lb62nJcNvVgCDkFt2wiVE0bX4.jpg
   A Series of Unfortunate Events:
     url_poster: https://theposterdb.com/api/assets/78508
   A Simple Favor:
