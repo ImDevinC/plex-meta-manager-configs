@@ -276,10 +276,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/27549
   Beastly:
     url_poster: https://theposterdb.com/api/assets/32163
-  Beauty and the Beast:
-    url_poster: https://theposterdb.com/api/assets/105631
   Beauty and the Beast (2017):
     url_poster: https://theposterdb.com/api/assets/44738
+  Beauty and the Beast (1991):
+    url_poster: https://theposterdb.com/api/assets/156203
   Bedazzled:
     url_poster: https://theposterdb.com/api/assets/84742
   Beerfest:
@@ -2631,6 +2631,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/244453
   The Great Gatsby:
     url_poster: https://theposterdb.com/api/assets/40047
+  The Great Mouse Detective:
+    url_poster: https://theposterdb.com/api/assets/156198
   The Greatest Showman:
     url_poster: https://theposterdb.com/api/assets/63709
   The Green Hornet:
