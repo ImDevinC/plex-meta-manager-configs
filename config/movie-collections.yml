@@ -28,7 +28,7 @@ collections:
     summary: Studio Ghibli Inc. is a Japanese animation film studio headquartered in Koganei, Tokyo. It is best known for its animated feature films, and has also produced several short subjects, television commercials, and two television films.
     url_poster: https://theposterdb.com/api/assets/67350
   Disney Animated Collection:
-    template: {name: studio, company: 6125}
+    template: {name: studio, company: 171656}
     summary: Walt Disney Animation Studios is an American animation studio that creates animated features and short films for The Walt Disney Company.
     url_poster: https://theposterdb.com/api/assets/103270
   "MCU: Infinity Saga":
