@@ -276,10 +276,10 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/27549
   Beastly:
     url_poster: https://theposterdb.com/api/assets/32163
-  Beauty and the Beast (2017):
-    url_poster: https://theposterdb.com/api/assets/44738
   Beauty and the Beast (1991):
     url_poster: https://theposterdb.com/api/assets/156203
+  Beauty and the Beast (2017):
+    url_poster: https://theposterdb.com/api/assets/44738
   Bedazzled:
     url_poster: https://theposterdb.com/api/assets/84742
   Beerfest:
@@ -2239,6 +2239,8 @@ metadata:
   Sonic the Hedgehog 2:
     url_poster: https://theposterdb.com/api/assets/219585
     sort_title: Sonic the Hedgehog 2
+  Sonic the Hedgehog 3:
+    url_poster: https://theposterdb.com/api/assets/519444
   Source Code:
     url_poster: https://theposterdb.com/api/assets/41179
   "South Park: Post COVID":
