@@ -813,6 +813,8 @@ metadata:
   "F9: The Fast Saga":
     url_poster: https://theposterdb.com/api/assets/166199
     sort_title: Fast and Furious 9
+  Fanboys:
+    url_poster: https://theposterdb.com/api/assets/153657
   Fantastic Beasts and Where to Find Them:
     url_poster: https://theposterdb.com/api/assets/20352
     sort_title: Fantastic Beasts 1
