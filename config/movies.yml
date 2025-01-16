@@ -2312,6 +2312,8 @@ metadata:
   Star Trek Into Darkness:
     url_poster: https://theposterdb.com/api/assets/21282
     sort_title: Star Trek 2
+  Star Wars:
+    url_poster: https://theposterdb.com/api/assets/438
   "Star Wars: Episode I - The Phantom Menace":
     url_poster: https://theposterdb.com/api/assets/441
     sort_title: Star Wars 1
