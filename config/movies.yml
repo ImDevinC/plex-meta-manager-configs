@@ -1659,6 +1659,8 @@ metadata:
     url_poster: https://image.tmdb.org/t/p/original/eFAwMXFs5P4I4nrau8Va9XOTELy.jpg
   Moana:
     url_poster: https://theposterdb.com/api/assets/152832
+  Moana 2:
+    url_poster: https://theposterdb.com/api/assets/553755
   Mobile Suit Gundam I:
     url_poster: https://theposterdb.com/api/assets/1394
     sort_title: Mobile Suit Gundam 1
