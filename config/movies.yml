@@ -2981,6 +2981,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/56810
   The Prestige:
     url_poster: https://theposterdb.com/api/assets/51902
+  The Producers:
+    url_poster: https://image.tmdb.org/t/p/original/9F6MXtuhNAgzj4EPkM38c0cWBh2.jpg
   The Purge:
     url_poster: https://theposterdb.com/api/assets/8516
     sort_title: Purge 1
