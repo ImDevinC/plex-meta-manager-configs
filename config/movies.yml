@@ -406,6 +406,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/26931
   Candyman:
     url_poster: https://theposterdb.com/api/assets/178278
+  'Captain America: Brave New World':
+    url_poster: https://theposterdb.com/api/assets/575354
   "Captain America: Civil War":
     url_poster: https://theposterdb.com/api/assets/6910
     sort_title: Captain America 3
