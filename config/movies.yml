@@ -1419,6 +1419,8 @@ metadata:
   "Jurassic World Dominion":
     url_poster: https://theposterdb.com/api/assets/248695
     sort_title: Jurassic Park 6
+  'Jurassic World: Dominion':
+    url_poster: https://theposterdb.com/api/assets/158536
   "Jurassic World: Fallen Kingdom":
     url_poster: https://theposterdb.com/api/assets/17156
     sort_title: Jurassic Park 5
