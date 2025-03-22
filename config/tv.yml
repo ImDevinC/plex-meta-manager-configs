@@ -80,6 +80,17 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/127301
       7:
         url_poster: https://theposterdb.com/api/assets/127302
+  My Name is Earl:
+    url_poster: https://theposterdb.com/api/assets/267109
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/265533
+      2:
+        url_poster: https://theposterdb.com/api/assets/265534
+      3:
+        url_poster: https://theposterdb.com/api/assets/265535
+      4:
+        url_poster: https://theposterdb.com/api/assets/265536
   New Girl:
     url_poster: https://theposterdb.com/api/assets/112879
     seasons:
