@@ -2533,6 +2533,8 @@ metadata:
     url_poster: https://image.tmdb.org/t/p/original/AhfEYhJHt76kB3Oc9eBmiJ6LlCG.jpg
   The Assassination of Jesse James by the Coward Robert Ford:
     url_poster: https://theposterdb.com/api/assets/31526
+  The Assessment:
+    url_poster: https://theposterdb.com/api/assets/592066
   The Avengers:
     url_poster: https://theposterdb.com/api/assets/81754
     sort_title: Avengers 1
