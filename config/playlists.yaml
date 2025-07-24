@@ -1,7 +1,7 @@
 playlists:
   Marvel Cinematic Universe:
+    sync_to_users: ImDevinC
     sync_mode: sync
     libraries: Movies, TV Shows
-    letterboxd_list: https://letterboxd.com/malaca/list/mcu-chronological-order/
+    trakt_list: https://trakt.tv/users/donxy/lists/marvel-cinematic-universe?sort=rank,asc
     summary: Marvel Cinematic Universe
-    sync_to_users: ImDevinC
