@@ -2,6 +2,6 @@ playlists:
   Marvel Cinematic Universe:
     sync_mode: sync
     libraries: Movies, TV Shows
-    tmdb_list: https://www.thetvdb.com/lists/marvel-cinematic-universe
+    tvdb_list: https://www.thetvdb.com/lists/marvel-cinematic-universe
     summary: Marvel Cinematic Universe
     sync_to_users: ImDevinC
