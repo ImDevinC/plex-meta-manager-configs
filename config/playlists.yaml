@@ -4,3 +4,4 @@ playlists:
     libraries: Movies, TV Shows
     letterboxd_list: https://letterboxd.com/malaca/list/mcu-chronological-order/
     summary: Marvel Cinematic Universe
+    sync_to_users: ImDevinC
