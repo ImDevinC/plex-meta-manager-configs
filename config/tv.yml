@@ -80,7 +80,7 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/127301
       7:
         url_poster: https://theposterdb.com/api/assets/127302
-  My Name is Earl:
+  My Name Is Earl:
     url_poster: https://theposterdb.com/api/assets/267109
     seasons:
       1:
@@ -240,11 +240,6 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/125122
       7:
         url_poster: https://theposterdb.com/api/assets/268506
-  "The Great British Bake Off":
-    url_poster: https://theposterdb.com/api/assets/7176
-    seasons:
-      14:
-        url_poster: https://theposterdb.com/api/assets/415719
   "Scott Pilgrim Takes Off":
     url_poster: https://theposterdb.com/api/assets/433051
     seasons:

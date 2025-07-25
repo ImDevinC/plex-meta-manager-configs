@@ -296,8 +296,14 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/32163
   Beauty and the Beast (1991):
     url_poster: https://theposterdb.com/api/assets/156203
+    match:
+      title: Beauty and the Beast
+      year: 1991
   Beauty and the Beast (2017):
     url_poster: https://theposterdb.com/api/assets/44738
+    match:
+      title: Beauty and the Beast
+      year: 2017
   Bedazzled:
     url_poster: https://theposterdb.com/api/assets/84742
   Beerfest:
@@ -384,8 +390,6 @@ metadata:
   "Brahms: The Boy II":
     url_poster: https://theposterdb.com/api/assets/59415
     sort_title: Boy 2
-  Brandy Hellville & the Cult of Fast Fashion:
-    url_poster: https://image.tmdb.org/t/p/original/jfl1lv8ZzaNhtmvvdfrM4Duj1Ai.jpg
   Brave:
     url_poster: https://theposterdb.com/api/assets/149959
   Brawl in Cell Block 99:
@@ -433,8 +437,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/6918
   "Captain Underpants: The First Epic Movie":
     url_poster: https://theposterdb.com/api/assets/144420
-  Carry On:
-    url_poster: https://theposterdb.com/api/assets/552016
   Carry-On:
     url_poster: https://theposterdb.com/api/assets/552016
   Cars:
@@ -709,11 +711,9 @@ metadata:
   "Dragon Ball Z: Broly - Second Coming":
     sort_title: Dragon Ball Z 10
     url_poster: https://theposterdb.com/api/assets/126836
-  'Dragon Ball Z: Broly - The Legendary Super Saiyan':
-    url_poster: https://theposterdb.com/api/assets/126833
   "Dragon Ball Z: Broly – The Legendary Super Saiyan":
-    sort_title: Dragon Ball Z 8
     url_poster: https://theposterdb.com/api/assets/126833
+    sort_title: Dragon Ball Z 8
   "Dragon Ball Z: Cooler's Revenge":
     sort_title: Dragon Ball Z 5
     url_poster: https://theposterdb.com/api/assets/126829
@@ -1070,8 +1070,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/164187
   Guns Akimbo:
     url_poster: https://theposterdb.com/api/assets/53442
-  Guy Ritchie's the Covenant:
-    url_poster: https://theposterdb.com/api/assets/359446
   Hackers:
     url_poster: https://theposterdb.com/api/assets/138965
   Hail, Caesar!:
@@ -1324,6 +1322,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/6535
   Insurgent:
     url_poster: https://theposterdb.com/api/assets/13844
+    sort_title: Divergent 2
   Interstellar:
     url_poster: https://theposterdb.com/api/assets/58637
   Into the Woods:
@@ -1346,15 +1345,13 @@ metadata:
   It:
     url_poster: https://theposterdb.com/api/assets/19250
     sort_title: IT 1
-  It Chapter Two:
-    url_poster: https://theposterdb.com/api/assets/19251
-    sort_title: IT 2
   It Ends with Us:
     url_poster: https://theposterdb.com/api/assets/518958
   It's Kind of a Funny Story:
     url_poster: https://www.themoviedb.org/t/p/original/jAIoL0275PFrx9jrmneWAqmBvtD.jpg
   'It: Chapter Two':
     url_poster: https://theposterdb.com/api/assets/19251
+    sort_title: IT 2
   Jack Frost:
     url_poster: https://theposterdb.com/api/assets/36120
   Jack Reacher:
@@ -1460,11 +1457,9 @@ metadata:
   Jurassic World:
     url_poster: https://theposterdb.com/api/assets/17155
     sort_title: Jurassic Park 4
-  "Jurassic World Dominion":
-    url_poster: https://theposterdb.com/api/assets/248695
-    sort_title: Jurassic Park 6
   'Jurassic World: Dominion':
     url_poster: https://theposterdb.com/api/assets/158536
+    sort_title: Jurassic Park 6
   "Jurassic World: Fallen Kingdom":
     url_poster: https://theposterdb.com/api/assets/17156
     sort_title: Jurassic Park 5
@@ -2082,7 +2077,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/73360
   RBG:
     url_poster: https://www.themoviedb.org/t/p/original/tBuypABSdEna7LfgCIaxMuKu9Q5.jpg
-  RED:
+  Red:
     url_poster: https://theposterdb.com/api/assets/7155
     sort_title: RED 1
   RED 2:
@@ -2426,6 +2421,7 @@ metadata:
     sort_title: Star Trek 2
   Star Wars:
     url_poster: https://theposterdb.com/api/assets/438
+    sort_title: Star Wars 4
   "Star Wars: Episode I - The Phantom Menace":
     url_poster: https://theposterdb.com/api/assets/441
     sort_title: Star Wars 1
@@ -2435,9 +2431,6 @@ metadata:
   "Star Wars: Episode III - Revenge of the Sith":
     url_poster: https://theposterdb.com/api/assets/443
     sort_title: Star Wars 3
-  "Star Wars: Episode IV - A New Hope":
-    url_poster: https://theposterdb.com/api/assets/438
-    sort_title: Star Wars 4
   "Star Wars: Episode V - The Empire Strikes Back":
     url_poster: https://theposterdb.com/api/assets/439
     sort_title: Star Wars 5
@@ -2709,9 +2702,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/68481
   The Disaster Artist:
     url_poster: https://theposterdb.com/api/assets/26537
-  "The Divergent Series: Insurgent":
-    url_poster: https://theposterdb.com/api/assets/13844
-    sort_title: Divergent 2
   The Electric State:
     url_poster: https://theposterdb.com/api/assets/572200
   The Emperor's New Groove:
@@ -3527,8 +3517,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/82838
   Youth in Revolt:
     url_poster: https://www.themoviedb.org/t/p/original/3J48x7Utjx0sdYIvjsMWnlEbxpV.jpg
-  "Yu Yu Hakusho: Poltergeist Report":
-    url_poster: https://theposterdb.com/api/assets/64795
   'Yu Yu Hakusho: The Movie - Poltergeist Report':
     url_poster: https://theposterdb.com/api/assets/64795
   "Yu Yu Hakusho: The Movie - The Golden Seal":
