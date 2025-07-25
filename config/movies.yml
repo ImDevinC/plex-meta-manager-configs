@@ -711,7 +711,7 @@ metadata:
   "Dragon Ball Z: Broly - Second Coming":
     sort_title: Dragon Ball Z 10
     url_poster: https://theposterdb.com/api/assets/126836
-  "Dragon Ball Z: Broly – The Legendary Super Saiyan":
+  "Dragon Ball Z: Broly - The Legendary Super Saiyan":
     url_poster: https://theposterdb.com/api/assets/126833
     sort_title: Dragon Ball Z 8
   "Dragon Ball Z: Cooler's Revenge":
@@ -995,9 +995,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/181156
     sort_title: Ghostbusters 3
   'Ghostbusters: Answer the Call':
-    match:
-      title: Ghostbusters
-      year: 2016
     url_poster: https://theposterdb.com/api/assets/166360
     sort_title: Ghostbusters Reboot
   "Ghostbusters: Frozen Empire":
@@ -1556,8 +1553,16 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/242086
   Like Crazy:
     url_poster: https://www.themoviedb.org/t/p/original/8eIhNKnRfayRwWChx0atZh4vGua.jpg
-  Lilo & Stitch:
+  Lilo & Stitch (2002):
     url_poster: https://theposterdb.com/api/assets/156214
+    match:
+      title: Lilo & Stitch
+      year: 2002
+  Lilo & Stitch (2025):
+    url_poster: https://theposterdb.com/api/assets/621330
+    match:
+      title: Lilo & Stitch
+      year: 2025
   Lincoln:
     url_poster: https://theposterdb.com/api/assets/77691
   Little Big Soldier:
