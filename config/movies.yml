@@ -1083,6 +1083,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/478
   Happy Gilmore:
     url_poster: https://theposterdb.com/api/assets/215484
+  Happy Gilmore 2:
+    url_poster: https://theposterdb.com/api/assets/619884
   Hardcore Henry:
     url_poster: https://theposterdb.com/api/assets/91311
   "Harry Potter 20th Anniversary: Return to Hogwarts":
@@ -2082,9 +2084,6 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/73360
   RBG:
     url_poster: https://www.themoviedb.org/t/p/original/tBuypABSdEna7LfgCIaxMuKu9Q5.jpg
-  Red:
-    url_poster: https://theposterdb.com/api/assets/7155
-    sort_title: RED 1
   RED 2:
     url_poster: https://theposterdb.com/api/assets/7156
     sort_title: RED 2
@@ -2101,6 +2100,9 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/152835
   Ready Player One:
     url_poster: https://theposterdb.com/api/assets/60857
+  Red:
+    url_poster: https://theposterdb.com/api/assets/7155
+    sort_title: RED 1
   Red Sparrow:
     url_poster: https://theposterdb.com/api/assets/53053
   Redline:
