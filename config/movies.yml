@@ -2942,6 +2942,8 @@ metadata:
   "The Lego Movie 2: The Second Part":
     url_poster: https://theposterdb.com/api/assets/10979
     sort_title: Lego Movie 3
+  The Life of Chuck:
+    url_poster: https://theposterdb.com/api/assets/615202
   The Lion King (1994):
     url_poster: https://theposterdb.com/api/assets/156205
     match:
