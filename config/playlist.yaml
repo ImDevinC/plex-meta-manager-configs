@@ -5,3 +5,4 @@ playlists:
     tvdb_list: https://www.thetvdb.com/lists/marvel-cinematic-universe
     summary: Marvel Cinematic Universe
     sync_to_users: ImDevinC, dagreatdennis
+    url_poster: https://theposterdb.com/api/assets/26227
