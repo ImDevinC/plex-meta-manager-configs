@@ -12,3 +12,4 @@ playlists:
     tvdb_list: https://www.thetvdb.com/lists/17041
     summary: Bedtime playlist
     sync_to_users: ImDevinC
+    url_poster: https://raw.githubusercontent.com/ImDevinC/plex-meta-manager-configs/refs/heads/main/assets/playlist-goodnight.png
