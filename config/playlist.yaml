@@ -6,3 +6,9 @@ playlists:
     summary: Marvel Cinematic Universe
     sync_to_users: ImDevinC, dagreatdennis
     url_poster: https://theposterdb.com/api/assets/26227
+  Bedtime:
+    sync_mode: sync
+    libraries: Movies, TV Shows
+    tvdb_list: https://www.thetvdb.com/lists/17041
+    summary: Bedtime playlist
+    sync_to_users: ImDevinC
