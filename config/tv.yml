@@ -29,6 +29,19 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/9803
       2:
         url_poster: https://theposterdb.com/api/assets/9804
+  Boston Legal:
+    url_poster: https://theposterdb.com/api/assets/261713
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/261715
+      2:
+        url_poster: https://theposterdb.com/api/assets/261716
+      3:
+        url_poster: https://theposterdb.com/api/assets/261717
+      4:
+        url_poster: https://theposterdb.com/api/assets/261718
+      5:
+        url_poster: https://theposterdb.com/api/assets/261719
   Brooklyn Nine-Nine:
     url_poster: https://theposterdb.com/api/assets/169390
     seasons:
