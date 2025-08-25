@@ -31,12 +31,3 @@ collections:
     template: {name: studio, company: 171656}
     summary: Walt Disney Animation Studios is an American animation studio that creates animated features and short films for The Walt Disney Company.
     url_poster: https://theposterdb.com/api/assets/103270
-  "MCU: Infinity Saga":
-    letterboxd_list: https://letterboxd.com/imdevinc/list/mcu-infinity-saga/
-    collection_order: custom
-    sync_mode: sync
-    url_poster: https://theposterdb.com/api/assets/29314
-  "MCU: Multiverse Saga":
-    letterboxd_list: https://letterboxd.com/imdevinc/list/mcu-multiverse-saga/
-    collection_order: custom
-    sync_mode: sync
