@@ -65,6 +65,13 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/127817
       3:
         url_poster: https://theposterdb.com/api/assets/127819
+  Sailor Moon:
+    url_poster: https://theposterdb.com/api/assets/157095
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/343711
+      2:
+        url_poster: https://theposterdb.com/api/assets/343712
   Yu Yu Hakusho:
     url_poster: https://theposterdb.com/api/assets/100471
     seasons:
