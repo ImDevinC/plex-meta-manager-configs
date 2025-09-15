@@ -27,3 +27,4 @@ if [ $? -gt 0 ]; then
     echo "failed to diff configs"
     exit 1
 fi
+cp /source/movies-backup.yml /config/movies-backup-backup.yml
