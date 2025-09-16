@@ -2423,6 +2423,8 @@ metadata:
   Split:
     url_poster: https://theposterdb.com/api/assets/10348
     sort_title: Unbreakable 2
+  Splitsville:
+    url_poster: https://image.tmdb.org/t/p/original/cX6MVLl99pMDUmM3XKPFN4UKB8j.jpg
   Spring Breakers:
     url_poster: https://theposterdb.com/api/assets/55753
   Spy:
