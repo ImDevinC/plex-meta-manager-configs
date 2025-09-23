@@ -174,12 +174,12 @@ metadata:
   Annabelle:
     url_poster: https://theposterdb.com/api/assets/34569
     sort_title: Annabelle 1
-  "Annabelle: Creation":
-    url_poster: https://theposterdb.com/api/assets/23528
-    sort_title: Annabelle 2
   Annabelle Comes Home:
     url_poster: https://theposterdb.com/api/assets/23531
     sort_title: Annabelle 3
+  "Annabelle: Creation":
+    url_poster: https://theposterdb.com/api/assets/23528
+    sort_title: Annabelle 2
   Anora:
     url_poster: https://theposterdb.com/api/assets/525935
   Another Simple Favor:
@@ -2742,6 +2742,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/487631
   The Family Fang:
     url_poster: https://theposterdb.com/api/assets/163811
+  'The Fantastic Four: First Steps':
+    url_poster: https://image.tmdb.org/t/p/original/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg
   The Fast and the Furious:
     url_poster: https://theposterdb.com/api/assets/38958
     sort_title: Fast and Furious 1
