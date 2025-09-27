@@ -135,6 +135,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/208
   All of Us Strangers:
     url_poster: https://theposterdb.com/api/assets/456003
+  All of You:
+    url_poster: https://image.tmdb.org/t/p/original/7Zr0TOgBzy2H6yhbObzV6lbzQ6b.jpg
   Allegiant:
     url_poster: https://theposterdb.com/api/assets/13845
     sort_title: Divergent 3
