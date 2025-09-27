@@ -865,6 +865,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/96981
   Extremely Loud & Incredibly Close:
     url_poster: https://theposterdb.com/api/assets/137751
+  'F1: The Movie':
+    url_poster: https://theposterdb.com/api/assets/627506
   "F9: The Fast Saga":
     url_poster: https://theposterdb.com/api/assets/166199
     sort_title: Fast and Furious 9
