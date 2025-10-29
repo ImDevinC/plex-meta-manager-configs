@@ -75,7 +75,7 @@ metadata:
   A Quiet Place Part II:
     url_poster: https://theposterdb.com/api/assets/38789
     sort_title: A Quiet Place 2
-  'A Quiet Place: Day One':
+  "A Quiet Place: Day One":
     url_poster: https://theposterdb.com/api/assets/466779
   A Real Pain:
     url_poster: https://image.tmdb.org/t/p/original/38lb62nJcNvVgCDkFt2wiVE0bX4.jpg
@@ -140,6 +140,8 @@ metadata:
   Allegiant:
     url_poster: https://theposterdb.com/api/assets/13845
     sort_title: Divergent 3
+    match:
+      mapping_id: tt3410834
   Amanda & Jack Go Glamping:
     url_poster: https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kmokEVZDkn9bofvJ0KjANtfZf5E.jpg
   Amateur Night:
@@ -435,7 +437,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/26931
   Candyman:
     url_poster: https://theposterdb.com/api/assets/178278
-  'Captain America: Brave New World':
+  "Captain America: Brave New World":
     url_poster: https://theposterdb.com/api/assets/575354
   "Captain America: Civil War":
     url_poster: https://theposterdb.com/api/assets/6910
@@ -803,9 +805,9 @@ metadata:
     sort_title: Dumb and Dumber 1
   Dumbo:
     url_poster: https://theposterdb.com/api/assets/40258
-  'Dune: Part One':
+  "Dune: Part One":
     url_poster: https://theposterdb.com/api/assets/356989
-  'Dune: Part Two':
+  "Dune: Part Two":
     url_poster: https://theposterdb.com/api/assets/356990
   "Dungeons & Dragons: Honor Among Thieves":
     url_poster: https://theposterdb.com/api/assets/294889
@@ -875,7 +877,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/96981
   Extremely Loud & Incredibly Close:
     url_poster: https://theposterdb.com/api/assets/137751
-  'F1: The Movie':
+  "F1: The Movie":
     url_poster: https://theposterdb.com/api/assets/627506
   "F9: The Fast Saga":
     url_poster: https://theposterdb.com/api/assets/166199
@@ -932,7 +934,7 @@ metadata:
   Final Destination 5:
     url_poster: https://theposterdb.com/api/assets/891
     sort_title: Final Destination 5
-  'Final Destination: Bloodlines':
+  "Final Destination: Bloodlines":
     url_poster: https://theposterdb.com/api/assets/568754
   "Final Fantasy VII: Advent Children":
     url_poster: https://theposterdb.com/api/assets/11331
@@ -1019,7 +1021,7 @@ metadata:
   "Ghostbusters: Afterlife":
     url_poster: https://theposterdb.com/api/assets/181156
     sort_title: Ghostbusters 3
-  'Ghostbusters: Answer the Call':
+  "Ghostbusters: Answer the Call":
     url_poster: https://theposterdb.com/api/assets/166360
     sort_title: Ghostbusters Reboot
   "Ghostbusters: Frozen Empire":
@@ -1377,7 +1379,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/518958
   It's Kind of a Funny Story:
     url_poster: https://www.themoviedb.org/t/p/original/jAIoL0275PFrx9jrmneWAqmBvtD.jpg
-  'It: Chapter Two':
+  "It: Chapter Two":
     url_poster: https://theposterdb.com/api/assets/19251
     sort_title: IT 2
   Jack Frost:
@@ -1430,7 +1432,7 @@ metadata:
     url_poster: https://www.themoviedb.org/t/p/original/eLT8Cu357VOwBVTitkmlDEg32Fs.jpg
   "Joe Dirt 2: Beautiful Loser":
     url_poster: https://theposterdb.com/api/assets/46624
-  'John Candy: I Like Me':
+  "John Candy: I Like Me":
     url_poster: https://theposterdb.com/api/assets/651108
   John Tucker Must Die:
     url_poster: https://theposterdb.com/api/assets/44530
@@ -1487,15 +1489,15 @@ metadata:
   Jurassic World:
     url_poster: https://theposterdb.com/api/assets/17155
     sort_title: Jurassic Park 4
-  'Jurassic World: Dominion':
+  "Jurassic World: Dominion":
     url_poster: https://theposterdb.com/api/assets/158536
     sort_title: Jurassic Park 6
   "Jurassic World: Fallen Kingdom":
     url_poster: https://theposterdb.com/api/assets/17156
     sort_title: Jurassic Park 5
-  'Jurassic World: Rebirth':
+  "Jurassic World: Rebirth":
     url_poster: https://theposterdb.com/api/assets/622640
-  'Juror #2':
+  "Juror #2":
     url_poster: https://theposterdb.com/api/assets/548225
   Just Getting Started:
     url_poster: https://www.themoviedb.org/t/p/original/70eVsU4nvVidEs7mpPcEcBlIpmx.jpg
@@ -1807,7 +1809,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/74796
   Mr. Holmes:
     url_poster: https://theposterdb.com/api/assets/223899
-  'Mr. Monk''s Last Case: A Monk Movie':
+  "Mr. Monk's Last Case: A Monk Movie":
     url_poster: https://theposterdb.com/api/assets/442321
   Mr. Right:
     url_poster: https://theposterdb.com/api/assets/48364
@@ -2142,6 +2144,8 @@ metadata:
   Red:
     url_poster: https://theposterdb.com/api/assets/7155
     sort_title: RED 1
+    match:
+      mapping_id: tt1245526
   Red Sparrow:
     url_poster: https://theposterdb.com/api/assets/53053
   Redline:
@@ -2178,7 +2182,7 @@ metadata:
   "Revenge of the Nerds II: Nerds in Paradise":
     url_poster: https://theposterdb.com/api/assets/218933
     sort_title: Revenge of the Nerds 2
-  'Revenge of the Nerds III: The Next Generation':
+  "Revenge of the Nerds III: The Next Generation":
     url_poster: https://theposterdb.com/api/assets/218934
   "Revenge of the Nerds IV: Nerds in Love":
     url_poster: https://theposterdb.com/api/assets/218935
@@ -2220,7 +2224,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/88793
   Rushmore:
     url_poster: https://theposterdb.com/api/assets/54304
-  'S.W.A.T.: Firefight':
+  "S.W.A.T.: Firefight":
     url_poster: https://theposterdb.com/api/assets/46444
   SLC Punk!:
     url_poster: https://www.themoviedb.org/t/p/original/gdbj2uvElEfEvTDGUY40vvuJU3R.jpg
@@ -2334,7 +2338,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/5943
   Sid and Nancy:
     url_poster: https://www.themoviedb.org/t/p/original/wHzCbMCfipDJ38GW5IyBTWDflMz.jpg
-  'Simple Plan: The Kids in the Crowd':
+  "Simple Plan: The Kids in the Crowd":
     url_poster: https://image.tmdb.org/t/p/original/AgVgrIabxTBkFSfFpcfjMVcoqaG.jpg
   Sing:
     url_poster: https://theposterdb.com/api/assets/29205
@@ -2504,7 +2508,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/66072
   "Still: A Michael J. Fox Movie":
     url_poster: https://theposterdb.com/api/assets/361420
-  'Stolen Baby: The Murder of Heidi Broussard':
+  "Stolen Baby: The Murder of Heidi Broussard":
     url_poster: https://image.tmdb.org/t/p/original/6VZoNpXvS6iYGcOqxewrjW97e8R.jpg
   Storks:
     url_poster: https://theposterdb.com/api/assets/143234
@@ -2715,7 +2719,7 @@ metadata:
   The Conjuring 2:
     url_poster: https://theposterdb.com/api/assets/5440
     sort_title: Conjuring 2
-  'The Conjuring: Last Rites':
+  "The Conjuring: Last Rites":
     url_poster: https://theposterdb.com/api/assets/635720
   "The Conjuring: The Devil Made Me Do It":
     url_poster: https://theposterdb.com/api/assets/156243
@@ -2770,7 +2774,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/487631
   The Family Fang:
     url_poster: https://theposterdb.com/api/assets/163811
-  'The Fantastic Four: First Steps':
+  "The Fantastic Four: First Steps":
     url_poster: https://image.tmdb.org/t/p/original/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg
   The Fast and the Furious:
     url_poster: https://theposterdb.com/api/assets/38958
@@ -3432,7 +3436,7 @@ metadata:
   "Venom: Let There Be Carnage":
     url_poster: https://theposterdb.com/api/assets/151305
     sort_title: Venom 2
-  'Venom: The Last Dance':
+  "Venom: The Last Dance":
     url_poster: https://theposterdb.com/api/assets/526399
   Vice:
     url_poster: https://theposterdb.com/api/assets/86724
@@ -3589,7 +3593,7 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/82838
   Youth in Revolt:
     url_poster: https://www.themoviedb.org/t/p/original/3J48x7Utjx0sdYIvjsMWnlEbxpV.jpg
-  'Yu Yu Hakusho: The Movie - Poltergeist Report':
+  "Yu Yu Hakusho: The Movie - Poltergeist Report":
     url_poster: https://theposterdb.com/api/assets/64795
   "Yu Yu Hakusho: The Movie - The Golden Seal":
     url_poster: https://theposterdb.com/api/assets/64790
