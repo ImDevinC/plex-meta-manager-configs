@@ -51,6 +51,21 @@ metadata:
         url_poster: https://theposterdb.com/api/assets/343711
       2:
         url_poster: https://theposterdb.com/api/assets/343712
+  Super Dragon Ball Heroes:
+    url_poster: https://theposterdb.com/api/assets/447544
+    seasons:
+      1:
+        url_poster: https://theposterdb.com/api/assets/127820
+      2:
+        url_poster: https://theposterdb.com/api/assets/127821
+      3:
+        url_poster: https://theposterdb.com/api/assets/127822
+      4:
+        url_poster: https://theposterdb.com/api/assets/140889
+      5:
+        url_poster: https://theposterdb.com/api/assets/216799
+      6:
+        url_poster: https://theposterdb.com/api/assets/423880
   Yu Yu Hakusho:
     url_poster: https://theposterdb.com/api/assets/100471
     seasons:
