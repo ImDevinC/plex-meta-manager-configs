@@ -13,3 +13,10 @@ playlists:
     summary: Bedtime playlist
     sync_to_users: ImDevinC
     url_poster: https://raw.githubusercontent.com/ImDevinC/plex-meta-manager-configs/refs/heads/main/assets/playlist-goodnight.png
+  "Gundam: Universal Century":
+    sync_mode: sync
+    libraries: Movies, Anime
+    tvdb_list: https://thetvdb.com/lists/17159
+    summary: Gundam Universal Century in release order
+    sync_to_users: ImDevinC
+    url_poster: https://theposterdb.com/api/assets/140595
