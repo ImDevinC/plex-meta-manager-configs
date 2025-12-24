@@ -2155,6 +2155,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/73360
   RBG:
     url_poster: https://www.themoviedb.org/t/p/original/tBuypABSdEna7LfgCIaxMuKu9Q5.jpg
+  RED:
+    url_poster: https://theposterdb.com/api/assets/7155
   RED 2:
     url_poster: https://theposterdb.com/api/assets/7156
     sort_title: RED 2
