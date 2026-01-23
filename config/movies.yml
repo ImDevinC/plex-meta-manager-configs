@@ -162,6 +162,8 @@ metadata:
     url_poster: https://image.tmdb.org/t/p/original/83Gis9pOKCvAdaKXCNChey4IZyL.jpg
   Amsterdam:
     url_poster: https://theposterdb.com/api/assets/270959
+  'An American Tail: Fievel Goes West':
+    url_poster: https://theposterdb.com/api/assets/50332
   "Anchorman 2: The Legend Continues":
     url_poster: https://theposterdb.com/api/assets/13975
     sort_title: Anchorman 2
