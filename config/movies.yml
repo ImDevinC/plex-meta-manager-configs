@@ -164,6 +164,8 @@ metadata:
     url_poster: https://theposterdb.com/api/assets/270959
   'An American Tail: Fievel Goes West':
     url_poster: https://theposterdb.com/api/assets/50332
+  Anaconda:
+    url_poster: https://theposterdb.com/api/assets/648813
   "Anchorman 2: The Legend Continues":
     url_poster: https://theposterdb.com/api/assets/13975
     sort_title: Anchorman 2
