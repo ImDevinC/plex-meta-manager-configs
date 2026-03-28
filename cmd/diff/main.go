@@ -51,6 +51,11 @@ func main() {
 		if v.PosterURL == "" {
 			err := client.CheckForExistingMovieIssue(context.Background(), k)
 			var existingErr gh.ErrAlreadyExists
+			var ignoredErr gh.ErrIgnored
+			if errors.As(err, &ignoredErr) {
+				log.Printf("Issue for movie is marked ignored, skipping: %s\n", k)
+				continue
+			}
 			if errors.As(err, &existingErr) {
 				log.Printf("Issue already exists for missing movie: %s\n", k)
 				continue
