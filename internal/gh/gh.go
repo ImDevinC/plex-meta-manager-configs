@@ -3,6 +3,7 @@ package gh
 import (
 	"context"
 	"fmt"
+	"strings"
 
 	"github.com/aws/smithy-go/ptr"
 	"github.com/google/go-github/v43/github"
@@ -15,6 +16,14 @@ type ErrAlreadyExists struct {
 
 func (e ErrAlreadyExists) Error() string {
 	return fmt.Sprintf("issue for movie %s already exists", e.Movie)
+}
+
+type ErrIgnored struct {
+	Movie string
+}
+
+func (e ErrIgnored) Error() string {
+	return fmt.Sprintf("issue for movie %s is ignored", e.Movie)
 }
 
 type Client struct {
@@ -40,18 +49,41 @@ func NewClient(ctx context.Context, accessToken string, owner string, repo strin
 func (c *Client) CheckForExistingMovieIssue(ctx context.Context, movie string) error {
 	title := fmt.Sprintf(issueTitleBase, movie)
 	opts := &github.IssueListByRepoOptions{
-		State: "open",
+		State:       "all",
+		ListOptions: github.ListOptions{PerPage: 100},
 	}
-	issues, _, err := c.githubClient.Issues.ListByRepo(ctx, c.owner, c.repo, opts)
-	if err != nil {
-		return fmt.Errorf("failed to list existing issues. %w", err)
+	for {
+		issues, resp, err := c.githubClient.Issues.ListByRepo(ctx, c.owner, c.repo, opts)
+		if err != nil {
+			return fmt.Errorf("failed to list existing issues. %w", err)
+		}
+		for _, i := range issues {
+			if i.Title == nil || *i.Title != title {
+				continue
+			}
+			if hasLabel(i.Labels, "ignored") {
+				return ErrIgnored{Movie: movie}
+			}
+			if strings.EqualFold(i.GetState(), "open") {
+				return ErrAlreadyExists{Movie: movie}
+			}
+		}
+		if resp == nil || resp.NextPage == 0 {
+			break
+		}
+		opts.Page = resp.NextPage
 	}
-	for _, i := range issues {
-		if *i.Title == title {
-			return ErrAlreadyExists{Movie: movie}
+
+	return nil
+}
+
+func hasLabel(labels []*github.Label, want string) bool {
+	for _, label := range labels {
+		if strings.EqualFold(label.GetName(), want) {
+			return true
 		}
 	}
-	return nil
+	return false
 }
 
 func (c *Client) AddMissingMovie(ctx context.Context, movie string) error {
