@@ -1,4 +1,4 @@
-FROM golang:1.18 AS differ
+FROM golang:1.25.0 AS differ
 
 WORKDIR /usr/src/app
 
