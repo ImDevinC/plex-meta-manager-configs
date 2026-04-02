@@ -1,7 +1,21 @@
 {
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "username": "renovate",
+  "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
+  "onboarding": false,
+  "platform": "github",
+  "prConcurrentLimit": 0,
+  "prHourlyLimit": 0,
   "extends": [
     "config:recommended"
+  ],
+  "labels": [
+    "renovate"
+  ],
+  "assignees": [
+    "ImDevinC"
+  ],
+  "repositories": [
+    "ImDevinC/plex-meta-manager-configs"
   ],
   "packageRules": [
     {
