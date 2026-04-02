@@ -8,6 +8,8 @@
   "extends": [
     "config:recommended"
   ],
+  "groupName": "all dependencies",
+  "groupSlug": "all-deps",
   "labels": [
     "renovate"
   ],
