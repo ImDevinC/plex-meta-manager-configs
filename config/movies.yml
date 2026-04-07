@@ -1255,6 +1255,8 @@ metadata:
     url_poster: https://www.themoviedb.org/t/p/original/4lbYz4h4pIwkuUGGirPA5ncyyxe.jpg
   Hook:
     url_poster: https://theposterdb.com/api/assets/117260
+  Hoppers:
+    url_poster: https://theposterdb.com/api/assets/689179
   Horrible Bosses:
     url_poster: https://theposterdb.com/api/assets/13343
     sort_title: Horrible Bosses 1
