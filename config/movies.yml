@@ -2377,6 +2377,8 @@ metadata:
     match:
       title: Serenity
       year: 2019
+  Seven:
+    url_poster: https://theposterdb.com/api/assets/108334
   Seven Pounds:
     url_poster: https://theposterdb.com/api/assets/70807
   Seven Psychopaths:
