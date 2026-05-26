@@ -1,7 +1,9 @@
 package main
 
 import (
+	"ImDevinC/plex-meta-manager-configs/internal/forgejo"
 	"ImDevinC/plex-meta-manager-configs/internal/gh"
+	"ImDevinC/plex-meta-manager-configs/internal/issueclient"
 	"ImDevinC/plex-meta-manager-configs/internal/pmm"
 	"context"
 	"errors"
@@ -9,6 +11,7 @@ import (
 	"io/ioutil"
 	"log"
 	"os"
+	"strings"
 
 	"gopkg.in/yaml.v3"
 )
@@ -31,27 +34,13 @@ func main() {
 		log.Fatal(err)
 	}
 
-	githubToken := os.Getenv("GITHUB_TOKEN")
-	if githubToken == "" {
-		log.Fatal("missing required GITHUB_TOKEN environment variable")
-	}
+	client := buildClient()
 
-	repo := os.Getenv("GITHUB_REPO")
-	if repo == "" {
-		log.Fatal("missing required GITHUB_REPO environment variable")
-	}
-
-	owner := os.Getenv("GITHUB_OWNER")
-	if owner == "" {
-		log.Fatal("missing required GITHUB_OWNER environment variable")
-	}
-
-	client := gh.NewClient(context.Background(), githubToken, owner, repo)
 	for k, v := range payload.Metadata {
 		if v.PosterURL == "" {
 			err := client.CheckForExistingMovieIssue(context.Background(), k)
-			var existingErr gh.ErrAlreadyExists
-			var ignoredErr gh.ErrIgnored
+			var existingErr issueclient.ErrAlreadyExists
+			var ignoredErr issueclient.ErrIgnored
 			if errors.As(err, &ignoredErr) {
 				log.Printf("Issue for movie is marked ignored, skipping: %s\n", k)
 				continue
@@ -75,4 +64,68 @@ func main() {
 			log.Printf("Created issue for movie: %s\n", k)
 		}
 	}
+}
+
+func buildClient() issueclient.IssueClient {
+	serverType := strings.ToLower(os.Getenv("SERVER_TYPE"))
+	if serverType == "" {
+		serverType = "github"
+	}
+
+	switch serverType {
+	case "forgejo":
+		return buildForgejoClient()
+	case "github":
+		return buildGitHubClient()
+	default:
+		log.Fatalf("unsupported SERVER_TYPE: %s", serverType)
+		return nil
+	}
+}
+
+func buildGitHubClient() issueclient.IssueClient {
+	githubToken := os.Getenv("GITHUB_TOKEN")
+	if githubToken == "" {
+		log.Fatal("missing required GITHUB_TOKEN environment variable")
+	}
+
+	repo := os.Getenv("GITHUB_REPO")
+	if repo == "" {
+		log.Fatal("missing required GITHUB_REPO environment variable")
+	}
+
+	owner := os.Getenv("GITHUB_OWNER")
+	if owner == "" {
+		log.Fatal("missing required GITHUB_OWNER environment variable")
+	}
+
+	return gh.NewGitHubClient(context.Background(), githubToken, owner, repo)
+}
+
+func buildForgejoClient() issueclient.IssueClient {
+	url := os.Getenv("FORGEJO_URL")
+	if url == "" {
+		log.Fatal("missing required FORGEJO_URL environment variable")
+	}
+
+	token := os.Getenv("FORGEJO_TOKEN")
+	if token == "" {
+		log.Fatal("missing required FORGEJO_TOKEN environment variable")
+	}
+
+	repo := os.Getenv("FORGEJO_REPO")
+	if repo == "" {
+		log.Fatal("missing required FORGEJO_REPO environment variable")
+	}
+
+	owner := os.Getenv("FORGEJO_OWNER")
+	if owner == "" {
+		log.Fatal("missing required FORGEJO_OWNER environment variable")
+	}
+
+	client, err := forgejo.NewForgejoClient(context.Background(), url, token, owner, repo)
+	if err != nil {
+		log.Fatalf("failed to create forgejo client: %s", err)
+	}
+	return client
 }

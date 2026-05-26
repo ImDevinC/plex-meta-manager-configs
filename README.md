@@ -92,9 +92,20 @@ docker run -it --rm \
 ## Environment Variables
 
 Required environment variables (configured in `.env`):
+- `SERVER_TYPE`: Which forge to use. Set to `github` (default) or `forgejo`.
+
+**When `SERVER_TYPE=github` (default):**
 - `GITHUB_TOKEN`: GitHub personal access token for API access
 - `GITHUB_OWNER`: GitHub repository owner
 - `GITHUB_REPO`: GitHub repository name
+
+**When `SERVER_TYPE=forgejo`:**
+- `FORGEJO_URL`: Forgejo instance base URL (e.g. `code.forgejo.org`)
+- `FORGEJO_TOKEN`: Forgejo personal access token for API access
+- `FORGEJO_OWNER`: Forgejo repository owner
+- `FORGEJO_REPO`: Forgejo repository name
+
+**Always required:**
 - `KOMETA_PLEX_SECRET_TOKEN`: Plex authentication token
 - `KOMETA_RADARR_TOKEN`: (optional) Radarr API token
 - `KOMETA_TMDB_TOKEN`: The Movie Database API token
