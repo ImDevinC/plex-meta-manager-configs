@@ -1,6 +1,7 @@
 name: Release and Publish Docker Image
 
 on:
+  workflow_dispatch:
   push:
     tags:
       - '*'
@@ -10,10 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: https://code.forgejo.org/actions/checkout@v4
+        uses: https://code.forgejo.org/actions/checkout@v6
 
       - name: Log in to Docker Hub
-        uses: https://code.forgejo.org/docker/login-action@v3
+        uses: https://code.forgejo.org/docker/login-action@v4
         with:
           username: ${{ secrets.DOCKER_USERNAME }}
           password: ${{ secrets.DOCKER_PASSWORD }}
