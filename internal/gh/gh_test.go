@@ -9,6 +9,8 @@ import (
 	"net/url"
 	"testing"
 
+	"ImDevinC/plex-meta-manager-configs/internal/issueclient"
+
 	"github.com/google/go-github/v43/github"
 )
 
@@ -32,7 +34,7 @@ func TestCheckForExistingMovieIssue(t *testing.T) {
 			},
 			expectErr: true,
 			errTypeCheck: func(err error) bool {
-				var ignoredErr ErrIgnored
+				var ignoredErr issueclient.ErrIgnored
 				return err != nil && errors.As(err, &ignoredErr)
 			},
 		},
@@ -46,7 +48,7 @@ func TestCheckForExistingMovieIssue(t *testing.T) {
 			},
 			expectErr: true,
 			errTypeCheck: func(err error) bool {
-				var existsErr ErrAlreadyExists
+				var existsErr issueclient.ErrAlreadyExists
 				return err != nil && errors.As(err, &existsErr)
 			},
 		},

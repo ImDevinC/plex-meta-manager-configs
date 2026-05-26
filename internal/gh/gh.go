@@ -5,26 +5,12 @@ import (
 	"fmt"
 	"strings"
 
+	"ImDevinC/plex-meta-manager-configs/internal/issueclient"
+
 	"github.com/aws/smithy-go/ptr"
 	"github.com/google/go-github/v43/github"
 	"golang.org/x/oauth2"
 )
-
-type ErrAlreadyExists struct {
-	Movie string
-}
-
-func (e ErrAlreadyExists) Error() string {
-	return fmt.Sprintf("issue for movie %s already exists", e.Movie)
-}
-
-type ErrIgnored struct {
-	Movie string
-}
-
-func (e ErrIgnored) Error() string {
-	return fmt.Sprintf("issue for movie %s is ignored", e.Movie)
-}
 
 type Client struct {
 	githubClient *github.Client
@@ -34,7 +20,7 @@ type Client struct {
 
 const issueTitleBase string = `Missing poster for movie %s`
 
-func NewClient(ctx context.Context, accessToken string, owner string, repo string) *Client {
+func NewGitHubClient(ctx context.Context, accessToken string, owner string, repo string) issueclient.IssueClient {
 	ts := oauth2.StaticTokenSource(
 		&oauth2.Token{AccessToken: accessToken},
 	)
@@ -62,10 +48,10 @@ func (c *Client) CheckForExistingMovieIssue(ctx context.Context, movie string) e
 				continue
 			}
 			if hasLabel(i.Labels, "ignored") {
-				return ErrIgnored{Movie: movie}
+				return issueclient.ErrIgnored{Movie: movie}
 			}
 			if strings.EqualFold(i.GetState(), "open") {
-				return ErrAlreadyExists{Movie: movie}
+				return issueclient.ErrAlreadyExists{Movie: movie}
 			}
 		}
 		if resp == nil || resp.NextPage == 0 {
