@@ -10,12 +10,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
-      - name: yamllint 
-        uses: karancode/yamllint-github-action@master
+        uses: https://code.forgejo.org/actions/checkout@v4
+      - name: yamllint
+        id: yamllint
+        continue-on-error: true
+        run: |
+          pipx run yamllint -c yamllint.yml config/ 2>&1 | tee yamllint_output.txt
+      - name: Comment PR on failure
+        if: steps.yamllint.outcome == 'failure'
+        uses: https://code.thetadev.de/actions/comment-pull-request@v1
         with:
-          yamllint_file_or_dir: config
-          yamllint_config_filepath: yamllint.yml
-          yamllint_comment: true
-        env:
-          GITHUB_ACCESS_TOKEN: ${{ secrets.GHCR_PAT }}
+          filePath: yamllint_output.txt
+          comment_tag: yamllint-report
+      - name: Fail job if yamllint failed
+        if: steps.yamllint.outcome == 'failure'
+        run: exit 1
