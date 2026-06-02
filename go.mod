@@ -4,7 +4,7 @@ go 1.26
 
 require (
 	code.gitea.io/sdk/gitea v0.25.1
-	github.com/aws/smithy-go v1.24.2
+	github.com/aws/smithy-go v1.26.0
 	github.com/google/go-github/v43 v43.0.0
 	github.com/google/go-github/v88 v88.0.0
 	golang.org/x/oauth2 v0.36.0
