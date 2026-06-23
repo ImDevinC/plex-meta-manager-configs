@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: https://code.forgejo.org/actions/checkout@v6
+        uses: https://code.forgejo.org/actions/checkout@v7
       - name: Install yq
         run: sudo wget -qO /usr/local/bin/yq https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 && sudo chmod a+x /usr/local/bin/yq
       - name: Add Movie
