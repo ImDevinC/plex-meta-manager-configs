@@ -11,22 +11,24 @@ import (
 )
 
 type Client struct {
-	client *gitea.Client
-	owner  string
-	repo   string
+	client   *gitea.Client
+	owner    string
+	repo     string
+	assignee string
 }
 
 const issueTitleBase string = `Missing poster for movie %s`
 
-func NewForgejoClient(ctx context.Context, url string, token string, owner string, repo string) (issueclient.IssueClient, error) {
+func NewForgejoClient(ctx context.Context, url string, token string, owner string, repo string, assignee string) (issueclient.IssueClient, error) {
 	client, err := gitea.NewClient(url, gitea.SetToken(token), gitea.SetContext(ctx))
 	if err != nil {
 		return nil, fmt.Errorf("failed to create forgejo client: %w", err)
 	}
 	return &Client{
-		client: client,
-		owner:  owner,
-		repo:   repo,
+		client:   client,
+		owner:    owner,
+		repo:     repo,
+		assignee: assignee,
 	}, nil
 }
 
@@ -72,8 +74,8 @@ func hasLabel(labels []*gitea.Label, want string) bool {
 
 func (c *Client) AddMissingMovie(ctx context.Context, movie string) error {
 	_, _, err := c.client.CreateIssue(c.owner, c.repo, gitea.CreateIssueOption{
-		Title:    fmt.Sprintf(issueTitleBase, movie),
-		Assignees: []string{c.owner},
+		Title:     fmt.Sprintf(issueTitleBase, movie),
+		Assignees: []string{c.assignee},
 	})
 	if err != nil {
 		return fmt.Errorf("failed to create issue. %w", err)
