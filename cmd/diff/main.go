@@ -123,9 +123,9 @@ func buildForgejoClient() issueclient.IssueClient {
 		log.Fatal("missing required FORGEJO_OWNER environment variable")
 	}
 
-	assignee := os.Getenv("FOREGEJO_ASSIGNEE")
+	assignee := os.Getenv("FORGEJO_ASSIGNEE")
 	if assignee == "" {
-		log.Print("missing FOREGEJO_ASSIGNEE, using FORGEJO_OWNER")
+		log.Print("missing FORGEJO_ASSIGNEE, using FORGEJO_OWNER")
 		assignee = owner
 	}
 
