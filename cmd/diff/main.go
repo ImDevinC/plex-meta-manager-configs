@@ -123,7 +123,13 @@ func buildForgejoClient() issueclient.IssueClient {
 		log.Fatal("missing required FORGEJO_OWNER environment variable")
 	}
 
-	client, err := forgejo.NewForgejoClient(context.Background(), url, token, owner, repo)
+	assignee := os.Getenv("FOREGEJO_ASSIGNEE")
+	if assignee == "" {
+		log.Print("missing FOREGEJO_ASSIGNEE, using FORGEJO_OWNER")
+		assignee = owner
+	}
+
+	client, err := forgejo.NewForgejoClient(context.Background(), url, token, owner, repo, assignee)
 	if err != nil {
 		log.Fatalf("failed to create forgejo client: %s", err)
 	}
