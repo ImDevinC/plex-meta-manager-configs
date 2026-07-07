@@ -3129,6 +3129,8 @@ metadata:
     match:
       title: The Invitation
       year: 2022
+  The Invite:
+    url_poster: https://theposterdb.com/api/assets/702720
   The Irishman:
     url_poster: https://theposterdb.com/api/assets/54285
   The Italian Job:
