@@ -1,34 +1,9 @@
 {
-  "username": "renovate",
-  "gitAuthor": "Renovate Bot <bot@renovateapp.com>",
-  "onboarding": false,
-  "platform": "github",
-  "prConcurrentLimit": 0,
-  "prHourlyLimit": 0,
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "config:recommended"
-  ],
-  "groupName": "all dependencies",
-  "groupSlug": "all-deps",
-  "labels": [
-    "renovate"
-  ],
-  "assignees": [
-    "ImDevinC"
+    "github>imdevinc/imdevinc"
   ],
   "repositories": [
-    "ImDevinC/plex-meta-manager-configs"
-  ],
-  "packageRules": [
-    {
-      "matchDatasources": [
-        "docker"
-      ],
-      "matchPackageNames": [
-        "kometateam/kometa",
-        "golang"
-      ],
-      "versioning": "semver"
-    }
+    "ImDevinC/homelab"
   ]
 }
