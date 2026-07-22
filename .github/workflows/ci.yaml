@@ -6,6 +6,8 @@ on:
     paths-ignore:
       - "config/**"
       - .github/**
+      - renovate.json
+      - yamllint.yml
   workflow_dispatch:
 
 permissions:
