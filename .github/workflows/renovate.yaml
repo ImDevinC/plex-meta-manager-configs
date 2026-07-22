@@ -16,4 +16,5 @@ jobs:
         with:
           token: ${{ secrets.REPO_PAT }}
         env:
+          RENOVATE_REPOSITORIES: ${{ github.repository }}
           LOG_LEVEL: debug
