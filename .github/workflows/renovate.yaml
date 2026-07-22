@@ -14,6 +14,7 @@ jobs:
       - name: Renovate
         uses: renovatebot/github-action@v46.1.20
         with:
+          configurationFile: ${{ github.workspace }}/renovate.json
           token: ${{ secrets.REPO_PAT }}
         env:
           LOG_LEVEL: debug
