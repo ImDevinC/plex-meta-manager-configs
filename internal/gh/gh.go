@@ -8,7 +8,7 @@ import (
 	"ImDevinC/plex-meta-manager-configs/internal/issueclient"
 
 	"github.com/aws/smithy-go/ptr"
-	"github.com/google/go-github/v43/github"
+	"github.com/google/go-github/v89/github"
 	"golang.org/x/oauth2"
 )
 
