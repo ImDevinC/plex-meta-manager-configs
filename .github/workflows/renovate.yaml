@@ -7,7 +7,7 @@ on:
   pull_request_target:
     types: [edited]
     branches:
-      - "renovate/**"
+      - "main"
 
 jobs:
   renovate:
