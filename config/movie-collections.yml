@@ -16,18 +16,180 @@ templates:
     collection_mode: hide
 collections:
   A24 Collection:
-    template: {name: studio, company: 41077}
+    template: { name: studio, company: 41077 }
     summary: A24 is an American independent entertainment company founded on August 20, 2012, by Daniel Katz, David Fenkel, and John Hodges and based in New York City. It specializes in film distribution, and film and television production.
     url_poster: https://theposterdb.com/api/assets/49079
+
   View Askew Collection:
-    template: {name: studio, company: 16934}
+    template: { name: studio, company: 16934 }
     summary: View Askew Productions is an American film and television production company founded by Kevin Smith and Scott Mosier in 1994.
     url_poster: https://theposterdb.com/api/assets/47526
+
   Studio Ghibli Collection:
-    template: {name: studio, company: 10342}
+    template: { name: studio, company: 10342 }
     summary: Studio Ghibli Inc. is a Japanese animation film studio headquartered in Koganei, Tokyo. It is best known for its animated feature films, and has also produced several short subjects, television commercials, and two television films.
     url_poster: https://theposterdb.com/api/assets/67350
+
   Disney Animated Collection:
-    template: {name: studio, company: 171656}
+    template: { name: studio, company: 171656 }
     summary: Walt Disney Animation Studios is an American animation studio that creates animated features and short films for The Walt Disney Company.
     url_poster: https://theposterdb.com/api/assets/103270
+
+  Cannes Palme d'Or Winners:
+    imdb_award:
+      event_id: ev0000147
+      event_year: all
+      award_filter: palme d'or
+      winning: true
+    summary: "Experience the pinnacle of cinematic artistry with a collection of Palme d’Or winners, celebrating films that have captivated the Cannes Film Festival’s jury and audiences alike."
+    collection_order: release.desc
+
+  Box Office Hits:
+    letterboxd_list: https://letterboxd.com/matthew/list/all-time-worldwide-box-office/
+    collection_order: custom
+    sync_mode: sync
+    summary: "Discover the highest-grossing movies of all time, a blockbuster collection that showcases the films that captivated audiences worldwide and shattered box office records."
+
+  For Those New To The Classics:
+    letterboxd_list: https://letterboxd.com/hepburnluv/list/classic-movies-for-beginners/
+    collection_order: custom
+    sync_mode: sync
+    summary: "A curated collection of timeless films from the 1930s to 1960s, perfect for those new to old Hollywood cinema."
+
+  The Criterion Collection:
+    letterboxd_list: https://letterboxd.com/jbutts15/list/the-complete-criterion-collection/
+    collection_order: custom
+    sync_mode: sync
+    summary: "The Criterion Collection specializes in the curation and distribution of esteemed cinematic works, characterized by their superior quality and scholarly merit."
+
+  Impressive First Features:
+    letterboxd_list: https://letterboxd.com/etolkin/list/what-a-fuckin-debut-impressive-first-features/
+    collection_order: custom
+    sync_mode: sync
+    summary: "Watch how legends and one-hit wonders get their start."
+
+  Roger Ebert's Great Movies:
+    letterboxd_list: https://letterboxd.com/dvideostor/list/roger-eberts-great-movies/
+    collection_order: custom
+    sync_mode: sync
+    summary: "Film's finest according to Roger Ebert."
+
+  Visually Insane Spectacles:
+    letterboxd_list: https://letterboxd.com/etolkin/list/filmlist:28697007/
+    collection_order: custom
+    sync_mode: sync
+    summary: "Hallucinogenic, meditative, harrowing, dreamy, or chaotic visual feasts."
+
+  The World is Hell:
+    letterboxd_list: https://letterboxd.com/darrencb/list/the-world-is-hell-hopeless-cinema/
+    collection_order: custom
+    sync_mode: sync
+    summary: "Pessimistic worldviews. For when you want to wallow in despair."
+
+  Movies That Stay With You:
+    letterboxd_list: https://letterboxd.com/kun/list/movies-that-you-initially-thought-were-okay/
+    collection_order: custom
+    sync_mode: sync
+    summary: "Movies that stick with you, making you think long after they're over."
+
+  The Letterboxd 500:
+    letterboxd_list: https://letterboxd.com/official/list/letterboxds-top-500-films/
+    collection_order: custom
+    sync_mode: sync
+    summary: "Discover Letterboxd’s Top 500, a community-curated list that highlights the best in cinema through the lens of passionate moviegoers and critics alike."
+
+  The Complete NEON:
+    letterboxd_list: https://letterboxd.com/zincalloy23/list/neon/
+    collection_order: custom
+    sync_mode: sync
+    summary: "Bold visions and boundary-pushing narratives: the distinctive world of NEON cinema."
+
+  Period Pieces:
+    letterboxd_list: https://letterboxd.com/dolgorukov/list/period-drama/
+    collection_order: custom
+    sync_mode: sync
+    summary: "Turn back time and stay a while."
+
+  90 Minutes or Less:
+    letterboxd_list: https://letterboxd.com/stautis/list/good-films-90-minutes-or-less/
+    collection_order: custom
+    sync_mode: sync
+    summary: "Life's too short."
+
+  What Will I Do With This Life?:
+    letterboxd_list: https://letterboxd.com/ceyceyx/list/what-will-i-do-with-this-life/
+    collection_order: custom
+    sync_mode: sync
+    summary: "Stories that wrestle with existence, identity, and the beautifully messy journey of being human."
+
+  For When You Want To Feel Something:
+    letterboxd_list: https://letterboxd.com/ellefnning/list/for-when-you-want-to-feel-something/
+    collection_order: custom
+    sync_mode: sync
+    summary: "Different films that hit different ways."
+
+  Letterboxd Fan Favorites:
+    letterboxd_list: https://letterboxd.com/official/list/top-250-films-with-the-most-fans/
+    collection_order: custom
+    sync_mode: sync
+    summary: "Films ranked by how many Letterboxd users have chosen them as one of their four all-time favorites, revealing which movies truly capture viewers' hearts."
+
+  Films by Women:
+    letterboxd_list: https://letterboxd.com/meagan/list/stuff-by-women-about-women/
+    collection_order: custom
+    sync_mode: sync
+    summary: "By women, about women."
+
+  The National Film Registry:
+    imdb_award:
+      event_id: ev0000468
+      event_year: all
+      winning: true
+    summary: "The National Film Registry is a list of films selected by the United States National Film Preservation Board for preservation in the Library of Congress due to their cultural, historical, or aesthetic significance."
+
+  Best Picture Oscar Winners:
+    imdb_award:
+      event_id: ev0000003
+      event_year: all
+      category_filter:
+        - best picture
+        - best motion picture of the year
+      winning: true
+    summary: "Immerse yourself in a collection of Best Picture Oscar winners, an illustrious lineup where each film represents the zenith of cinematic achievement and artistic merit."
+    collection_order: release.desc
+
+  Best Director Oscar Winners:
+    imdb_award:
+      event_id: ev0000003
+      event_year: all
+      category_filter:
+        - best achievement in directing
+        - best director
+        - best director, comedy picture
+        - best director, dramatic picture
+      winning: true
+    summary: "Journey through film history with a collection of movies directed by Oscar-winning visionaries, tracing the evolution of cinematic excellence."
+    collection_order: release.desc
+
+  Trending Films:
+    imdb_chart: popular_movies
+    collection_order: custom
+    sync_mode: sync
+    summary: "Cinema's current heartbeat: films captivating the zeitgeist."
+
+  Sight and Sound's Greatest Films of All Time:
+    imdb_list: https://www.imdb.com/list/ls566275529
+    collection_order: custom
+    sync_mode: sync
+    summary: "Explore Sight and Sound’s Greatest Films of All Time list, a prestigious selection that showcases the pinnacle of global cinematic artistry, as chosen by critics and filmmakers around the globe."
+
+  The IMDb Top 250:
+    imdb_chart: top_movies
+    collection_order: custom
+    sync_mode: sync
+    summary: "Dive into a curated selection of the highest-rated films by IMDb users, spanning genres, decades, and cultures, for an unforgettable viewing experience."
+
+  Watchlist:
+    plex_watchlist: added.desc
+    collection_order: custom
+    sync_mode: sync
