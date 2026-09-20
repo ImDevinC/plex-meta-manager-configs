@@ -1881,6 +1881,8 @@ metadata:
   Minions:
     url_poster: https://theposterdb.com/api/assets/59475
     sort_title: Minions 1
+  Minions & Monsters:
+    url_poster: https://theposterdb.com/api/assets/727694
   "Minions: The Rise of Gru":
     url_poster: https://theposterdb.com/api/assets/46026
     sort_title: Minions 2
