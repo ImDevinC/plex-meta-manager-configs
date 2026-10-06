@@ -2650,6 +2650,8 @@ metadata:
     sort_title: Spider-Man 3
   "Spider-Man: Across the Spider-Verse":
     url_poster: https://theposterdb.com/api/assets/369437
+  'Spider-Man: Brand New Day':
+    url_poster: https://theposterdb.com/api/assets/710844
   "Spider-Man: Far from Home":
     url_poster: https://theposterdb.com/api/assets/916
     sort_title: Spider-man MCU 2
