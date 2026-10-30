@@ -2,12 +2,12 @@ name: Renovate
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 0 1 * *"
   pull_request_target:
     types: [edited]
     branches:
       - "main"
+  schedule:
+    - cron: "0 0 1 * *"
 
 jobs:
   renovate:
@@ -18,11 +18,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v6.1.0
-      - name: Renovate
-        uses: renovatebot/github-action@v46.3.8
+        uses: actions/checkout@v7
+      - name: renovate
+        uses: renovatebot/github-action@v46.3.10
         with:
           token: ${{ secrets.RENOVATE_TOKEN }}
         env:
           RENOVATE_REPOSITORIES: ${{ github.repository }}
-          LOG_LEVEL: debug
+          LOG_LEVEL: "debug"
+          RENOVATE_DETECT_HOST_RULES_FROM_ENV: "true"
+          RENOVATE_DOCKER_INDEX_DOCKER_IO_USERNAME: ${{ secrets.DOCKERHUB_USERNAME }}
+          RENOVATE_DOCKER_INDEX_DOCKER_IO_PASSWORD: ${{ secrets.DOCKERHUB_TOKEN }}
