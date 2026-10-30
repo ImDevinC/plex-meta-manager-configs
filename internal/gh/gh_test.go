@@ -6,12 +6,11 @@ import (
 	"errors"
 	"net/http"
 	"net/http/httptest"
-	"net/url"
 	"testing"
 
 	"ImDevinC/plex-meta-manager-configs/internal/issueclient"
 
-	"github.com/google/go-github/v89/github"
+	"github.com/google/go-github/v93/github"
 )
 
 func TestCheckForExistingMovieIssue(t *testing.T) {
@@ -102,12 +101,14 @@ func TestCheckForExistingMovieIssue(t *testing.T) {
 			}))
 			defer server.Close()
 
-			ghClient := github.NewClient(server.Client())
-			baseURL, err := url.Parse(server.URL + "/")
+			baseURL := server.URL + "/"
+			ghClient, err := github.NewClient(
+				github.WithHTTPClient(server.Client()),
+				github.WithURLs(&baseURL, nil),
+			)
 			if err != nil {
-				t.Fatalf("failed to parse test server URL: %v", err)
+				t.Fatalf("failed to create GitHub client: %v", err)
 			}
-			ghClient.BaseURL = baseURL
 
 			client := &Client{
 				githubClient: ghClient,
@@ -120,5 +121,56 @@ func TestCheckForExistingMovieIssue(t *testing.T) {
 				t.Fatalf("unexpected error result: %v", err)
 			}
 		})
+	}
+}
+
+func TestAddMissingMovie(t *testing.T) {
+	t.Parallel()
+
+	server := httptest.NewServer(http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		if r.Method != http.MethodPost {
+			t.Errorf("unexpected method: %s", r.Method)
+		}
+		if r.URL.Path != "/repos/o/r/issues" {
+			t.Errorf("unexpected path: %s", r.URL.Path)
+		}
+
+		var request struct {
+			Title    string `json:"title"`
+			Assignee string `json:"assignee"`
+		}
+		if err := json.NewDecoder(r.Body).Decode(&request); err != nil {
+			t.Errorf("failed to decode request: %v", err)
+		}
+		if request.Title != "Missing poster for movie Inception" {
+			t.Errorf("unexpected issue title: %q", request.Title)
+		}
+		if request.Assignee != "o" {
+			t.Errorf("unexpected assignee: %q", request.Assignee)
+		}
+
+		w.WriteHeader(http.StatusCreated)
+		if err := json.NewEncoder(w).Encode(map[string]any{}); err != nil {
+			t.Errorf("failed to encode response: %v", err)
+		}
+	}))
+	defer server.Close()
+
+	baseURL := server.URL + "/"
+	ghClient, err := github.NewClient(
+		github.WithHTTPClient(server.Client()),
+		github.WithURLs(&baseURL, nil),
+	)
+	if err != nil {
+		t.Fatalf("failed to create GitHub client: %v", err)
+	}
+
+	client := &Client{
+		githubClient: ghClient,
+		owner:        "o",
+		repo:         "r",
+	}
+	if err := client.AddMissingMovie(context.Background(), "Inception"); err != nil {
+		t.Fatalf("unexpected error: %v", err)
 	}
 }
