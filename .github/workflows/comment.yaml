@@ -10,14 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v7
       - name: Install yq
         run: sudo wget -qO /usr/local/bin/yq https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 && sudo chmod a+x /usr/local/bin/yq
       - name: Add Movie
         run: ./add_movie.sh "${{ github.event.issue.title }}" "${{ github.event.comment.body }}"
       - name: Create Pull Request
         id: create_pr
-        uses: peter-evans/create-pull-request@v4
+        uses: peter-evans/create-pull-request@v8
         with:
           title: "[CI] Added ${{ github.event.issue.title}}"
           commit-message: "[CI] Added ${{ github.event.issue.title}}"
@@ -26,7 +26,7 @@ jobs:
           body: "Fixes #${{ github.event.issue.number }}"
           token: ${{ secrets.REPO_PAT }}
       - name: Enable Auto-merge
-        uses: peter-evans/enable-pull-request-automerge@v2
+        uses: peter-evans/enable-pull-request-automerge@v3
         with:
           token: ${{ secrets.REPO_PAT }}
           pull-request-number: ${{ steps.create_pr.outputs.pull-request-number }}
