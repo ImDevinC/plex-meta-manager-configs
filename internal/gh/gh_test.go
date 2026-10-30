@@ -11,7 +11,7 @@ import (
 
 	"ImDevinC/plex-meta-manager-configs/internal/issueclient"
 
-	"github.com/google/go-github/v89/github"
+	"github.com/google/go-github/v93/github"
 )
 
 func TestCheckForExistingMovieIssue(t *testing.T) {
