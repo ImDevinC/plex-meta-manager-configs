@@ -1,4 +1,4 @@
-FROM golang:1.26.4 AS differ
+FROM golang:1.27.3 AS differ
 
 WORKDIR /usr/src/app
 
@@ -11,7 +11,7 @@ COPY . .
 
 RUN go build -o /config-diff ./cmd/diff/main.go
 
-FROM kometateam/kometa:v2.4.3
+FROM kometateam/kometa:v2.5.3
 
 RUN apt-get update && apt-get install git gettext-base -y
 
