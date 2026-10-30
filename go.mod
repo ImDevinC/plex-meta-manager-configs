@@ -1,12 +1,12 @@
 module ImDevinC/plex-meta-manager-configs
 
-go 1.26
+go 1.26.0
 
 require (
 	code.gitea.io/sdk/gitea v0.25.1
-	github.com/aws/smithy-go v1.27.2
+	github.com/aws/smithy-go v1.28.5
 	github.com/google/go-github/v89 v89.0.0
-	golang.org/x/oauth2 v0.36.0
+	golang.org/x/oauth2 v0.37.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
