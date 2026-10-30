@@ -9,7 +9,6 @@ import (
 
 	"github.com/aws/smithy-go/ptr"
 	"github.com/google/go-github/v93/github"
-	"golang.org/x/oauth2"
 )
 
 type Client struct {
@@ -20,16 +19,16 @@ type Client struct {
 
 const issueTitleBase string = `Missing poster for movie %s`
 
-func NewGitHubClient(ctx context.Context, accessToken string, owner string, repo string) issueclient.IssueClient {
-	ts := oauth2.StaticTokenSource(
-		&oauth2.Token{AccessToken: accessToken},
-	)
-	tc := oauth2.NewClient(ctx, ts)
+func NewGitHubClient(accessToken string, owner string, repo string) (issueclient.IssueClient, error) {
+	githubClient, err := github.NewClient(github.WithAuthToken(accessToken))
+	if err != nil {
+		return nil, fmt.Errorf("failed to create GitHub client: %w", err)
+	}
 	return &Client{
-		githubClient: github.NewClient(tc),
+		githubClient: githubClient,
 		owner:        owner,
 		repo:         repo,
-	}
+	}, nil
 }
 
 func (c *Client) CheckForExistingMovieIssue(ctx context.Context, movie string) error {
@@ -57,7 +56,7 @@ func (c *Client) CheckForExistingMovieIssue(ctx context.Context, movie string) e
 		if resp == nil || resp.NextPage == 0 {
 			break
 		}
-		opts.Page = resp.NextPage
+		opts.ListOptions.Page = resp.NextPage
 	}
 
 	return nil
@@ -73,8 +72,8 @@ func hasLabel(labels []*github.Label, want string) bool {
 }
 
 func (c *Client) AddMissingMovie(ctx context.Context, movie string) error {
-	request := &github.IssueRequest{
-		Title:    ptr.String(fmt.Sprintf(issueTitleBase, movie)),
+	request := github.CreateIssueRequest{
+		Title:    fmt.Sprintf(issueTitleBase, movie),
 		Assignee: ptr.String(c.owner),
 	}
 	_, _, err := c.githubClient.Issues.Create(ctx, c.owner, c.repo, request)

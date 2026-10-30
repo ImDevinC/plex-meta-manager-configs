@@ -99,7 +99,11 @@ func buildGitHubClient() issueclient.IssueClient {
 		log.Fatal("missing required GITHUB_OWNER environment variable")
 	}
 
-	return gh.NewGitHubClient(context.Background(), githubToken, owner, repo)
+	client, err := gh.NewGitHubClient(githubToken, owner, repo)
+	if err != nil {
+		log.Fatalf("failed to create GitHub client: %s", err)
+	}
+	return client
 }
 
 func buildForgejoClient() issueclient.IssueClient {
