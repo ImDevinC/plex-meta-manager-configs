@@ -28,5 +28,4 @@ jobs:
       - name: Enable Auto-merge
         uses: peter-evans/enable-pull-request-automerge@v3
         with:
-          token: ${{ secrets.REPO_PAT }}
           pull-request-number: ${{ steps.create_pr.outputs.pull-request-number }}
