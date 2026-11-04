@@ -3,6 +3,10 @@ name: Comment Action
 on:
   issue_comment:
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   issue_commented:
     name: Issue Comment
@@ -28,5 +32,4 @@ jobs:
       - name: Enable Auto-merge
         uses: peter-evans/enable-pull-request-automerge@v3
         with:
-          token: ${{ secrets.REPO_PAT }}
           pull-request-number: ${{ steps.create_pr.outputs.pull-request-number }}
