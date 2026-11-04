@@ -873,6 +873,10 @@ metadata:
     sort_title: Dumb and Dumber 1
   Dumbo:
     url_poster: https://theposterdb.com/api/assets/40258
+  Dune:
+    url_poster: |+
+      https://theposterdb.com/api/assets/356989
+
   "Dune: Part One":
     url_poster: https://theposterdb.com/api/assets/356989
   "Dune: Part Two":
